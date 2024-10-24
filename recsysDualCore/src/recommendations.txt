@@ -1,0 +1,3977 @@
+Epoch 1/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.69322/2 [==============================] - 1s 266ms/step - loss: 0.6930 - val_loss: 0.6921
+Epoch 2/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.69212/2 [==============================] - 0s 42ms/step - loss: 0.6920 - val_loss: 0.6910
+Epoch 3/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.69102/2 [==============================] - 0s 45ms/step - loss: 0.6909 - val_loss: 0.6898
+Epoch 4/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.68982/2 [==============================] - 0s 46ms/step - loss: 0.6897 - val_loss: 0.6886
+Epoch 5/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.68862/2 [==============================] - 0s 53ms/step - loss: 0.6885 - val_loss: 0.6873
+Epoch 6/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.68722/2 [==============================] - 0s 49ms/step - loss: 0.6871 - val_loss: 0.6858
+Epoch 7/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.68572/2 [==============================] - 0s 48ms/step - loss: 0.6856 - val_loss: 0.6843
+Epoch 8/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.68412/2 [==============================] - 0s 45ms/step - loss: 0.6839 - val_loss: 0.6825
+Epoch 9/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.68242/2 [==============================] - 0s 46ms/step - loss: 0.6821 - val_loss: 0.6806
+Epoch 10/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.68052/2 [==============================] - 0s 44ms/step - loss: 0.6800 - val_loss: 0.6785
+Epoch 11/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.67802/2 [==============================] - 0s 43ms/step - loss: 0.6777 - val_loss: 0.6761
+Epoch 12/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.67552/2 [==============================] - 0s 46ms/step - loss: 0.6752 - val_loss: 0.6735
+Epoch 13/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.67262/2 [==============================] - 0s 45ms/step - loss: 0.6723 - val_loss: 0.6706
+Epoch 14/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.66992/2 [==============================] - 0s 42ms/step - loss: 0.6690 - val_loss: 0.6674
+Epoch 15/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.66562/2 [==============================] - 0s 45ms/step - loss: 0.6655 - val_loss: 0.6639
+Epoch 16/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.66182/2 [==============================] - 0s 42ms/step - loss: 0.6615 - val_loss: 0.6600
+Epoch 17/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.65752/2 [==============================] - 0s 82ms/step - loss: 0.6572 - val_loss: 0.6558
+Epoch 18/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.65272/2 [==============================] - 0s 79ms/step - loss: 0.6524 - val_loss: 0.6512
+Epoch 19/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.64862/2 [==============================] - 0s 51ms/step - loss: 0.6472 - val_loss: 0.6462
+Epoch 20/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.64312/2 [==============================] - 0s 66ms/step - loss: 0.6415 - val_loss: 0.6409
+Epoch 21/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.63702/2 [==============================] - 0s 74ms/step - loss: 0.6354 - val_loss: 0.6351
+Epoch 22/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.62912/2 [==============================] - 0s 61ms/step - loss: 0.6289 - val_loss: 0.6290
+Epoch 23/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.62402/2 [==============================] - 0s 41ms/step - loss: 0.6219 - val_loss: 0.6225
+Epoch 24/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.61662/2 [==============================] - 0s 43ms/step - loss: 0.6145 - val_loss: 0.6155
+Epoch 25/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.60732/2 [==============================] - 0s 50ms/step - loss: 0.6067 - val_loss: 0.6082
+Epoch 26/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.59972/2 [==============================] - 0s 45ms/step - loss: 0.5984 - val_loss: 0.6005
+Epoch 27/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.59062/2 [==============================] - 0s 48ms/step - loss: 0.5897 - val_loss: 0.5925
+Epoch 28/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.58162/2 [==============================] - 0s 46ms/step - loss: 0.5806 - val_loss: 0.5840
+Epoch 29/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.57182/2 [==============================] - 0s 43ms/step - loss: 0.5711 - val_loss: 0.5753
+Epoch 30/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.56172/2 [==============================] - 0s 41ms/step - loss: 0.5612 - val_loss: 0.5662
+Epoch 31/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.55312/2 [==============================] - 0s 45ms/step - loss: 0.5509 - val_loss: 0.5567
+Epoch 32/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.53932/2 [==============================] - 0s 43ms/step - loss: 0.5405 - val_loss: 0.5470
+Epoch 33/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.53232/2 [==============================] - 0s 46ms/step - loss: 0.5296 - val_loss: 0.5370
+Epoch 34/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.51872/2 [==============================] - 0s 48ms/step - loss: 0.5185 - val_loss: 0.5268
+Epoch 35/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.50702/2 [==============================] - 0s 47ms/step - loss: 0.5072 - val_loss: 0.5163
+Epoch 36/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.49692/2 [==============================] - 0s 46ms/step - loss: 0.4956 - val_loss: 0.5056
+Epoch 37/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.48372/2 [==============================] - 0s 44ms/step - loss: 0.4839 - val_loss: 0.4948
+Epoch 38/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.47212/2 [==============================] - 0s 45ms/step - loss: 0.4720 - val_loss: 0.4838
+Epoch 39/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.46362/2 [==============================] - 0s 63ms/step - loss: 0.4600 - val_loss: 0.4727
+Epoch 40/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.44622/2 [==============================] - 0s 89ms/step - loss: 0.4480 - val_loss: 0.4615
+Epoch 41/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.43422/2 [==============================] - 0s 100ms/step - loss: 0.4359 - val_loss: 0.4502
+Epoch 42/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.42672/2 [==============================] - 0s 71ms/step - loss: 0.4237 - val_loss: 0.4388
+Epoch 43/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.41032/2 [==============================] - 0s 48ms/step - loss: 0.4116 - val_loss: 0.4274
+Epoch 44/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.39942/2 [==============================] - 0s 89ms/step - loss: 0.3995 - val_loss: 0.4161
+Epoch 45/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.38702/2 [==============================] - 0s 115ms/step - loss: 0.3875 - val_loss: 0.4047
+Epoch 46/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.37622/2 [==============================] - 0s 79ms/step - loss: 0.3756 - val_loss: 0.3935
+Epoch 47/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.36632/2 [==============================] - 0s 67ms/step - loss: 0.3638 - val_loss: 0.3823
+Epoch 48/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.35182/2 [==============================] - 0s 62ms/step - loss: 0.3522 - val_loss: 0.3712
+Epoch 49/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.34252/2 [==============================] - 0s 62ms/step - loss: 0.3407 - val_loss: 0.3602
+Epoch 50/50
+1/2 [==============>...............] - ETA: 0s - loss: 0.33232/2 [==============================] - 0s 66ms/step - loss: 0.3295 - val_loss: 0.3494
+ 1/13 [=>............................] - ETA: 2s13/13 [==============================] - 0s 2ms/step
+ 1/13 [=>............................] - ETA: 1s13/13 [==============================] - 0s 4ms/step
+Average Recall at 5: 0.710752688172043
+Top recommendations for client  Glauciana Mamede de carvalho :
+                        Client_ID     Product_ID  Predicted_Rating
+0   Glauciana Mamede de carvalho   CJPCFM119XPK8          0.176806
+1   Glauciana Mamede de carvalho   CJMOFM100ZOW8          0.174335
+2   Glauciana Mamede de carvalho   VEPSFM167BG14          0.155445
+3   Glauciana Mamede de carvalho   VEPCFM170ES-4          0.153522
+4   Glauciana Mamede de carvalho     SPGRFM97X-4          0.153040
+
+
+Top recommendations for client  Hérika Karine Silva Cunha Ribeiro:
+                            Client_ID     Product_ID  Predicted_Rating
+5   Hérika Karine Silva Cunha Ribeiro  VEPSFM167BG14          0.160209
+6   Hérika Karine Silva Cunha Ribeiro  VEPCFM170ES-4          0.158543
+7   Hérika Karine Silva Cunha Ribeiro    SPGRFM97X-4          0.158036
+8   Hérika Karine Silva Cunha Ribeiro   SHANFM109JS6          0.157980
+9   Hérika Karine Silva Cunha Ribeiro    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Adriana Valadares:
+            Client_ID     Product_ID  Predicted_Rating
+10  Adriana Valadares  VEPCFM222ES12          0.167302
+11  Adriana Valadares  VEPSFM167BG14          0.158142
+12  Adriana Valadares  VEPCFM170ES-4          0.156425
+13  Adriana Valadares   SHANFM109JS6          0.155952
+14  Adriana Valadares    SPGRFM97X-4          0.155901
+
+
+Top recommendations for client Adriane Martins Ferreira:
+                   Client_ID     Product_ID  Predicted_Rating
+15  Adriane Martins Ferreira    CJPCFM275-3          0.180472
+16  Adriane Martins Ferreira   KTCJPS205VD2          0.178339
+17  Adriane Martins Ferreira  VEPSFM167BG14          0.154868
+18  Adriane Martins Ferreira  VEPCFM170ES-4          0.153237
+19  Adriane Martins Ferreira    SPGRFM97X-4          0.152890
+
+
+Top recommendations for client Agnes Paula dos Santos Paula dos Santos:
+                                  Client_ID     Product_ID  Predicted_Rating
+20  Agnes Paula dos Santos Paula dos Santos   SHANFM137JS6          0.174687
+21  Agnes Paula dos Santos Paula dos Santos  VEPSFM167BG14          0.158731
+22  Agnes Paula dos Santos Paula dos Santos  VEPCFM170ES-4          0.157065
+23  Agnes Paula dos Santos Paula dos Santos    SPGRFM97X-4          0.156510
+24  Agnes Paula dos Santos Paula dos Santos   SHANFM109JS6          0.156456
+
+
+Top recommendations for client Alana Miguel:
+       Client_ID     Product_ID  Predicted_Rating
+25  Alana Miguel   CJBEMC109AZ8          0.168350
+26  Alana Miguel    PJCFUN82VD8          0.167792
+27  Alana Miguel    SHKJMC50VD8          0.163309
+28  Alana Miguel  VEPSFM167BG14          0.154734
+29  Alana Miguel  VEPCFM170ES-4          0.152829
+
+
+Top recommendations for client Alba Regina Brasil Rangel:
+                    Client_ID     Product_ID  Predicted_Rating
+30  Alba Regina Brasil Rangel  SPTJFM132DR-1          0.169043
+31  Alba Regina Brasil Rangel  VEPSFM167BG14          0.158877
+32  Alba Regina Brasil Rangel  VEPCFM170ES-4          0.157230
+33  Alba Regina Brasil Rangel    SPGRFM97X-4          0.156654
+34  Alba Regina Brasil Rangel   SHANFM109JS6          0.156550
+
+
+Top recommendations for client Alessandra F. de Melo:
+                Client_ID     Product_ID  Predicted_Rating
+35  Alessandra F. de Melo  CACHMC101JS-1          0.162917
+36  Alessandra F. de Melo  VEPSFM167BG14          0.158938
+37  Alessandra F. de Melo  VEPCFM170ES-4          0.157234
+38  Alessandra F. de Melo   SHANFM109JS6          0.156778
+39  Alessandra F. de Melo    SPGRFM97X-4          0.156775
+
+
+Top recommendations for client Alessandra Teixeira:
+              Client_ID     Product_ID  Predicted_Rating
+40  Alessandra Teixeira  VEPSFM382AZ10          0.186091
+41  Alessandra Teixeira  VEPSFM167BG14          0.156899
+42  Alessandra Teixeira  VEPCFM170ES-4          0.155272
+43  Alessandra Teixeira    SPGRFM97X-4          0.154659
+44  Alessandra Teixeira   SHANFM109JS6          0.154651
+
+
+Top recommendations for client Alessandra Vieira:
+            Client_ID     Product_ID  Predicted_Rating
+45  Alessandra Vieira   CJMOFM100OW8          0.160385
+46  Alessandra Vieira  VEPSFM167BG14          0.159797
+47  Alessandra Vieira  VEPCFM170ES-4          0.158113
+48  Alessandra Vieira    SPGRFM97X-4          0.157603
+49  Alessandra Vieira   SHANFM109JS6          0.157549
+
+
+Top recommendations for client Alexandre Ferreira da Silva:
+                      Client_ID     Product_ID  Predicted_Rating
+50  Alexandre Ferreira da Silva    VEBEFM98RS6          0.168869
+51  Alexandre Ferreira da Silva  VEPSFM167BG14          0.158476
+52  Alexandre Ferreira da Silva  VEPCFM170ES-4          0.156794
+53  Alexandre Ferreira da Silva   SHANFM109JS6          0.156249
+54  Alexandre Ferreira da Silva    CMDAMC90BG3          0.156199
+
+
+Top recommendations for client Alexandrina Fabiana Vitoreira :
+                         Client_ID     Product_ID  Predicted_Rating
+55  Alexandrina Fabiana Vitoreira    KTCJPS283BR2          0.182402
+56  Alexandrina Fabiana Vitoreira   VEPSFM167BG14          0.157730
+57  Alexandrina Fabiana Vitoreira   VEPCFM170ES-4          0.156101
+58  Alexandrina Fabiana Vitoreira     SPGRFM97X-4          0.155564
+59  Alexandrina Fabiana Vitoreira    SHANFM109JS6          0.155408
+
+
+Top recommendations for client Aline Aquino:
+       Client_ID     Product_ID  Predicted_Rating
+60  Aline Aquino  VEPCFM190CL-1          0.176168
+61  Aline Aquino  VEPSFM167BG14          0.156910
+62  Aline Aquino  VEPCFM170ES-4          0.155093
+63  Aline Aquino   SHANFM109JS6          0.154681
+64  Aline Aquino    SPGRFM97X-4          0.154611
+
+
+Top recommendations for client Aline Halen:
+      Client_ID     Product_ID  Predicted_Rating
+65  Aline Halen   SDPTFM90DR-5          0.187921
+66  Aline Halen   SPPTFM85PT-3          0.184651
+67  Aline Halen     SDGRFM95-4          0.179463
+68  Aline Halen  VEPSFM167BG14          0.149372
+69  Aline Halen  VEPCFM170ES-4          0.147604
+
+
+Top recommendations for client Aline Parode :
+        Client_ID     Product_ID  Predicted_Rating
+70  Aline Parode    KTCJPS250VD6          0.178208
+71  Aline Parode   VEPSFM167BG14          0.158331
+72  Aline Parode   VEPCFM170ES-4          0.156706
+73  Aline Parode     SPGRFM97X-4          0.156181
+74  Aline Parode    SHANFM109JS6          0.156066
+
+
+Recall at 5 for client Aline Polese: 1.0
+Top recommendations for client Aline Polese:
+       Client_ID     Product_ID  Predicted_Rating
+75  Aline Polese   SHANFM109JS6          0.189495
+76  Aline Polese   CJANFM137ES6          0.186157
+77  Aline Polese   BLANFM86ZOW6          0.176508
+78  Aline Polese  VEPSFM167BG14          0.151051
+79  Aline Polese  VEPCFM170ES-4          0.149086
+
+
+Top recommendations for client Alissandra:
+     Client_ID     Product_ID  Predicted_Rating
+80  Alissandra   BLTWFM90PR14          0.217932
+81  Alissandra  VEANFM240VD14          0.217830
+82  Alissandra  SATWFM110PR14          0.217518
+83  Alissandra  VEPCFM110ES-6          0.202507
+84  Alissandra  VEPSFM167BG14          0.131103
+
+
+Top recommendations for client Alitane:
+   Client_ID     Product_ID  Predicted_Rating
+85   Alitane  VEPCFM222ES12          0.167186
+86   Alitane  VEPSFM167BG14          0.158341
+87   Alitane  VEPCFM170ES-4          0.156629
+88   Alitane   SHANFM109JS6          0.156148
+89   Alitane    SPGRFM97X-4          0.156107
+
+
+Recall at 5 for client Amanda Almeida: 1.0
+Top recommendations for client Amanda Almeida:
+         Client_ID     Product_ID  Predicted_Rating
+90  Amanda Almeida   VEPCFM139RS2          0.175033
+91  Amanda Almeida  VEPSFM167BG14          0.159107
+92  Amanda Almeida  VEPCFM170ES-4          0.157474
+93  Amanda Almeida    SPGRFM97X-4          0.156931
+94  Amanda Almeida   SHANFM109JS6          0.156802
+
+
+Recall at 5 for client Amanda Caroline Freitas: 1.0
+Top recommendations for client Amanda Caroline Freitas:
+                  Client_ID      Product_ID  Predicted_Rating
+95  Amanda Caroline Freitas   SPTJFM119RS28          0.213821
+96  Amanda Caroline Freitas  SPTJFM132DR-11          0.203402
+97  Amanda Caroline Freitas   SDTJMC111BR28          0.188962
+98  Amanda Caroline Freitas   BSUMFM128VD-1          0.170965
+99  Amanda Caroline Freitas    CJMOFM120OW6          0.169632
+
+
+Top recommendations for client Amanda Cristina Da Silva :
+                     Client_ID     Product_ID  Predicted_Rating
+100  Amanda Cristina Da Silva    VELCFM170BR6          0.170488
+101  Amanda Cristina Da Silva   VEPSFM167BG14          0.158995
+102  Amanda Cristina Da Silva   VEPCFM170ES-4          0.157370
+103  Amanda Cristina Da Silva     SPGRFM97X-4          0.156787
+104  Amanda Cristina Da Silva    SHANFM109JS6          0.156739
+
+
+Top recommendations for client Amanda Emílio Pereira:
+                 Client_ID    Product_ID  Predicted_Rating
+105  Amanda Emílio Pereira  SAANFM159JS6          0.192966
+106  Amanda Emílio Pereira  BLANFM105OW8          0.187990
+107  Amanda Emílio Pereira  SAANFM136JS6          0.187468
+108  Amanda Emílio Pereira  CJFMAN137VR4          0.182152
+109  Amanda Emílio Pereira   CTMOFM80PR8          0.176590
+
+
+Recall at 5 for client Amanda Sirotto Veduatto: 0.4
+Top recommendations for client Amanda Sirotto Veduatto:
+                   Client_ID     Product_ID  Predicted_Rating
+110  Amanda Sirotto Veduatto   CJBEFM110AZ6          0.169146
+111  Amanda Sirotto Veduatto    VEMOFM90VD6          0.165587
+112  Amanda Sirotto Veduatto    CJKGMC60BG6          0.163573
+113  Amanda Sirotto Veduatto   CJBEMC150BR4          0.159678
+114  Amanda Sirotto Veduatto  CJBEMC109AZ10          0.156165
+
+
+Top recommendations for client Ana Amélia:
+      Client_ID     Product_ID  Predicted_Rating
+115  Ana Amélia   CJMOFM120PR8          0.171529
+116  Ana Amélia  VEPSFM167BG14          0.158738
+117  Ana Amélia  VEPCFM170ES-4          0.156987
+118  Ana Amélia   SHANFM109JS6          0.156548
+119  Ana Amélia    SPGRFM97X-4          0.156409
+
+
+Top recommendations for client Ana Carolina Domingues:
+                  Client_ID     Product_ID  Predicted_Rating
+120  Ana Carolina Domingues    CMKGMC22MR6          0.162510
+121  Ana Carolina Domingues     SHCHMC58-6          0.161607
+122  Ana Carolina Domingues  VEPSFM167BG14          0.158567
+123  Ana Carolina Domingues  VEPCFM170ES-4          0.156833
+124  Ana Carolina Domingues   SHANFM109JS6          0.156272
+
+
+Recall at 5 for client Ana Carolina Morais: 0.5
+Top recommendations for client Ana Carolina Morais:
+               Client_ID     Product_ID  Predicted_Rating
+125  Ana Carolina Morais   CJUMMC170MR2          0.182554
+126  Ana Carolina Morais   CJMCYC150BR2          0.171433
+127  Ana Carolina Morais  VEPSFM167BG14          0.151552
+128  Ana Carolina Morais  VEPCFM170ES-4          0.149660
+129  Ana Carolina Morais   SHANFM109JS6          0.149116
+
+
+Top recommendations for client Ana Carolina Morais Santos:
+                      Client_ID     Product_ID  Predicted_Rating
+130  Ana Carolina Morais Santos  CADAMC121XAZ1          0.181813
+131  Ana Carolina Morais Santos  BEDAMCY108BG2          0.176092
+132  Ana Carolina Morais Santos  VEPSFM167BG14          0.155745
+133  Ana Carolina Morais Santos  VEPCFM170ES-4          0.154057
+134  Ana Carolina Morais Santos    SPGRFM97X-4          0.153548
+
+
+Top recommendations for client Ana Eliza:
+     Client_ID     Product_ID  Predicted_Rating
+135  Ana Eliza   CJUMFM180BR6          0.161846
+136  Ana Eliza  VEPSFM167BG14          0.159465
+137  Ana Eliza  VEPCFM170ES-4          0.157674
+138  Ana Eliza   SHANFM109JS6          0.157168
+139  Ana Eliza    SPGRFM97X-4          0.157134
+
+
+Recall at 5 for client Ana Fávia Martins: 1.0
+Top recommendations for client Ana Fávia Martins:
+             Client_ID     Product_ID  Predicted_Rating
+140  Ana Fávia Martins   SPFRFM99PR34          0.202039
+141  Ana Fávia Martins  SPPTFM106PT-2          0.199589
+142  Ana Fávia Martins   CMCHMC37BG-1          0.191328
+143  Ana Fávia Martins  VEANFM137RS12          0.146782
+144  Ana Fávia Martins  VEPSFM167BG14          0.143447
+
+
+Recall at 5 for client Ana Maria Gontijo : 1.0
+Top recommendations for client Ana Maria Gontijo :
+              Client_ID     Product_ID  Predicted_Rating
+145  Ana Maria Gontijo     PODAMC98AL4          0.185832
+146  Ana Maria Gontijo     BEBEMC60CZ4          0.183682
+147  Ana Maria Gontijo     POBEMC60BR6          0.182247
+148  Ana Maria Gontijo     BEDAMC82JS6          0.162278
+149  Ana Maria Gontijo   VEPSFM167BG14          0.148445
+
+
+Recall at 5 for client Ana Nepomuceno: 1.0
+Top recommendations for client Ana Nepomuceno:
+          Client_ID     Product_ID  Predicted_Rating
+150  Ana Nepomuceno   CMPSFM139BR8          0.312974
+151  Ana Nepomuceno  VEPSFM167BG14          0.158588
+152  Ana Nepomuceno  VEPCFM170ES-4          0.156825
+153  Ana Nepomuceno    SPGRFM97X-4          0.156390
+154  Ana Nepomuceno   SHANFM109JS6          0.156313
+
+
+Top recommendations for client Ana Paola Castelhano:
+                Client_ID     Product_ID  Predicted_Rating
+155  Ana Paola Castelhano   CJMOFM140PR8          0.169917
+156  Ana Paola Castelhano  VEPSFM167BG14          0.157991
+157  Ana Paola Castelhano  VEPCFM170ES-4          0.156267
+158  Ana Paola Castelhano    SPGRFM97X-4          0.155807
+159  Ana Paola Castelhano   SHANFM109JS6          0.155746
+
+
+Top recommendations for client Ana Paula Fonte Silva:
+                 Client_ID     Product_ID  Predicted_Rating
+160  Ana Paula Fonte Silva    SPGRFM97Y-9          0.174293
+161  Ana Paula Fonte Silva   SPGRFM97Y-10          0.169811
+162  Ana Paula Fonte Silva    SPGRFM93Z-2          0.168199
+163  Ana Paula Fonte Silva  VEPSFM167BG14          0.151953
+164  Ana Paula Fonte Silva  VEPCFM170ES-4          0.150065
+
+
+Recall at 5 for client Ana Paula Metzka Isaac: 1.0
+Top recommendations for client Ana Paula Metzka Isaac:
+                  Client_ID     Product_ID  Predicted_Rating
+165  Ana Paula Metzka Isaac  VEPCFM160RS-2          0.166796
+166  Ana Paula Metzka Isaac  VEPCFM160RS-3          0.166590
+167  Ana Paula Metzka Isaac            NaN          0.153526
+168  Ana Paula Metzka Isaac  VEPSFM167BG14          0.152874
+169  Ana Paula Metzka Isaac  VEPCFM170ES-4          0.151152
+
+
+Top recommendations for client Ana Paula Pereira:
+             Client_ID     Product_ID  Predicted_Rating
+170  Ana Paula Pereira  VEPSFM167BG14          0.159807
+171  Ana Paula Pereira  VEPCFM170ES-4          0.158150
+172  Ana Paula Pereira    SPGRFM97X-4          0.157630
+173  Ana Paula Pereira   SHANFM109JS6          0.157567
+174  Ana Paula Pereira    CMDAMC90BG3          0.157446
+
+
+Top recommendations for client Ana Paula Rosa Zacchi:
+                 Client_ID     Product_ID  Predicted_Rating
+175  Ana Paula Rosa Zacchi   SPPTFM97PT-4          0.167246
+176  Ana Paula Rosa Zacchi  VEPSFM167BG14          0.158434
+177  Ana Paula Rosa Zacchi  VEPCFM170ES-4          0.156683
+178  Ana Paula Rosa Zacchi   SHANFM109JS6          0.156143
+179  Ana Paula Rosa Zacchi    SPGRFM97X-4          0.156117
+
+
+Recall at 5 for client Andrea Socrates : 1.0
+Top recommendations for client Andrea Socrates :
+            Client_ID      Product_ID  Predicted_Rating
+180  Andrea Socrates    CJFMAN137VR10          0.194293
+181  Andrea Socrates   CJMOFM110XOW10          0.170593
+182  Andrea Socrates      VEPCFM150-3          0.161934
+183  Andrea Socrates    VEPSFM167BG14          0.154205
+184  Andrea Socrates    VEPCFM170ES-4          0.152576
+
+
+Top recommendations for client Angela :
+    Client_ID     Product_ID  Predicted_Rating
+185   Angela     SUUMMC55MR6          0.160495
+186   Angela   VEPSFM167BG14          0.159782
+187   Angela   VEPCFM170ES-4          0.158076
+188   Angela     SPGRFM97X-4          0.157631
+189   Angela    SHANFM109JS6          0.157553
+
+
+Top recommendations for client Angela Maria da Silva Muniz:
+                       Client_ID     Product_ID  Predicted_Rating
+190  Angela Maria da Silva Muniz  VEPSFM167BG14          0.159797
+191  Angela Maria da Silva Muniz  VEPCFM170ES-4          0.158129
+192  Angela Maria da Silva Muniz    SPGRFM97X-4          0.157589
+193  Angela Maria da Silva Muniz   SHANFM109JS6          0.157554
+194  Angela Maria da Silva Muniz    CMDAMC90BG3          0.157400
+
+
+Recall at 5 for client Anna Beatriz Sanches: 0.0
+Top recommendations for client Anna Beatriz Sanches:
+                Client_ID     Product_ID  Predicted_Rating
+195  Anna Beatriz Sanches  VEPSFM167BG14          0.160209
+196  Anna Beatriz Sanches  VEPCFM170ES-4          0.158543
+197  Anna Beatriz Sanches    SPGRFM97X-4          0.158036
+198  Anna Beatriz Sanches   SHANFM109JS6          0.157980
+199  Anna Beatriz Sanches    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Antônia Raquel Medrado:
+                  Client_ID     Product_ID  Predicted_Rating
+200  Antônia Raquel Medrado  CJPCFM179RS12          0.182211
+201  Antônia Raquel Medrado  CJPCFM189PK12          0.171892
+202  Antônia Raquel Medrado  VEPSFM167BG14          0.154235
+203  Antônia Raquel Medrado  VEPCFM170ES-4          0.152605
+204  Antônia Raquel Medrado   SHANFM109JS6          0.152077
+
+
+Top recommendations for client Ariane Maia:
+       Client_ID    Product_ID  Predicted_Rating
+205  Ariane Maia   CMKGMC39AL2          0.204634
+206  Ariane Maia   BEUMMC75OW2          0.203079
+207  Ariane Maia  SPTJMC127-15          0.202451
+208  Ariane Maia  CADAMC134OW2          0.198318
+209  Ariane Maia  CUKGMC36XPR2          0.195318
+
+
+Top recommendations for client Arielle Camargo:
+           Client_ID     Product_ID  Predicted_Rating
+210  Arielle Camargo   CAANFM110OW6          0.185477
+211  Arielle Camargo   CJUMFM169LR6          0.183418
+212  Arielle Camargo    CAANFM87OW6          0.175325
+213  Arielle Camargo  VEPSFM167BG14          0.151470
+214  Arielle Camargo  VEPCFM170ES-4          0.150091
+
+
+Top recommendations for client Ariely Sessi:
+        Client_ID     Product_ID  Predicted_Rating
+215  Ariely Sessi  VEUMFM290VR10          0.179807
+216  Ariely Sessi  VEPSFM167BG14          0.158084
+217  Ariely Sessi  VEPCFM170ES-4          0.156254
+218  Ariely Sessi    SPGRFM97X-4          0.155899
+219  Ariely Sessi   SHANFM109JS6          0.155750
+
+
+Recall at 5 for client Arlete Gomes Campos: 1.0
+Top recommendations for client Arlete Gomes Campos:
+               Client_ID     Product_ID  Predicted_Rating
+220  Arlete Gomes Campos  CJUMMC129YCQ6          0.178506
+221  Arlete Gomes Campos  CJANFM195XVD8          0.169739
+222  Arlete Gomes Campos  VEPSFM167BG14          0.155757
+223  Arlete Gomes Campos  VEPCFM170ES-4          0.153856
+224  Arlete Gomes Campos   SHANFM109JS6          0.153303
+
+
+Top recommendations for client Ayandra Nunes Fernandes :
+                    Client_ID     Product_ID  Predicted_Rating
+225  Ayandra Nunes Fernandes    KTCJPS283BR4          0.181543
+226  Ayandra Nunes Fernandes   VEPSFM167BG14          0.157621
+227  Ayandra Nunes Fernandes   VEPCFM170ES-4          0.155737
+228  Ayandra Nunes Fernandes     SPGRFM97X-4          0.155368
+229  Ayandra Nunes Fernandes    SHANFM109JS6          0.155277
+
+
+Top recommendations for client Barbara Ellen Toledo Gouveia:
+                        Client_ID      Product_ID  Predicted_Rating
+230  Barbara Ellen Toledo Gouveia  VEPCFM170XRS-5          0.187847
+231  Barbara Ellen Toledo Gouveia    CJUMFM149ES6          0.186131
+232  Barbara Ellen Toledo Gouveia   VEPSFM167BG14          0.153184
+233  Barbara Ellen Toledo Gouveia   VEPCFM170ES-4          0.151701
+234  Barbara Ellen Toledo Gouveia     SPGRFM97X-4          0.150964
+
+
+Recall at 5 for client Beatriz Mendanha Ribeiro Valadares: 0.0
+Top recommendations for client Beatriz Mendanha Ribeiro Valadares:
+                              Client_ID     Product_ID  Predicted_Rating
+235  Beatriz Mendanha Ribeiro Valadares  CJANFM127BOW8          0.234033
+236  Beatriz Mendanha Ribeiro Valadares  CSPSFM156RS10          0.232190
+237  Beatriz Mendanha Ribeiro Valadares    CLBEMC60PR3          0.231470
+238  Beatriz Mendanha Ribeiro Valadares   CJMOFM100BG8          0.231065
+239  Beatriz Mendanha Ribeiro Valadares    BEKGMC90BG4          0.229106
+
+
+Top recommendations for client Beatriz Morais de Souza:
+                   Client_ID     Product_ID  Predicted_Rating
+240  Beatriz Morais de Souza            NaN          0.164826
+241  Beatriz Morais de Souza  VEPSFM167BG14          0.157022
+242  Beatriz Morais de Souza  VEPCFM170ES-4          0.155378
+243  Beatriz Morais de Souza    SPGRFM97X-4          0.154847
+244  Beatriz Morais de Souza   SHANFM109JS6          0.154783
+
+
+Top recommendations for client Bianca Kuhn Barbosa:
+               Client_ID     Product_ID  Predicted_Rating
+245  Bianca Kuhn Barbosa  VEPSFM167BG14          0.159835
+246  Bianca Kuhn Barbosa  VEPCFM170ES-4          0.158180
+247  Bianca Kuhn Barbosa    SPGRFM97X-4          0.157683
+248  Bianca Kuhn Barbosa   SHANFM109JS6          0.157583
+249  Bianca Kuhn Barbosa    CMDAMC90BG3          0.157471
+
+
+Top recommendations for client Bianca Polli:
+        Client_ID     Product_ID  Predicted_Rating
+250  Bianca Polli   CJANFM137OW2          0.191298
+251  Bianca Polli  VEPSFM167BG14          0.158466
+252  Bianca Polli  VEPCFM170ES-4          0.156811
+253  Bianca Polli    SPGRFM97X-4          0.156316
+254  Bianca Polli   SHANFM109JS6          0.156272
+
+
+Top recommendations for client Brenda Gontijo Pugliesi:
+                   Client_ID     Product_ID  Predicted_Rating
+255  Brenda Gontijo Pugliesi  VEPSFM186PR12          0.180242
+256  Brenda Gontijo Pugliesi  VEPSFM167BG14          0.157500
+257  Brenda Gontijo Pugliesi  VEPCFM170ES-4          0.155873
+258  Brenda Gontijo Pugliesi    SPGRFM97X-4          0.155287
+259  Brenda Gontijo Pugliesi   SHANFM109JS6          0.155230
+
+
+Top recommendations for client Brenda Souza :
+         Client_ID     Product_ID  Predicted_Rating
+260  Brenda Souza   CAKGMC90YAZ14          0.168418
+261  Brenda Souza   VEPSFM167BG14          0.159225
+262  Brenda Souza   VEPCFM170ES-4          0.157521
+263  Brenda Souza     SPGRFM97X-4          0.157071
+264  Brenda Souza    SHANFM109JS6          0.156981
+
+
+Recall at 5 for client Bruna: 1.0
+Top recommendations for client Bruna:
+    Client_ID      Product_ID  Predicted_Rating
+265     Bruna  VEPCFM170ZRS-3          0.227035
+266     Bruna   VEPSFM167BG14          0.157591
+267     Bruna   VEPCFM170ES-4          0.156036
+268     Bruna     SPGRFM97X-4          0.155383
+269     Bruna     CMDAMC90BG3          0.155347
+
+
+Recall at 5 for client Bruna Bonifácio: 0.0
+Top recommendations for client Bruna Bonifácio:
+           Client_ID     Product_ID  Predicted_Rating
+270  Bruna Bonifácio  VEPSFM167BG14          0.251946
+271  Bruna Bonifácio  CLIAFM128PR14          0.247324
+272  Bruna Bonifácio   BLIAFM69OW14          0.244244
+273  Bruna Bonifácio   CLDAMC126BG2          0.241995
+274  Bruna Bonifácio  VETWFM170PR16          0.238493
+
+
+Top recommendations for client Bruna Fernandes:
+           Client_ID      Product_ID  Predicted_Rating
+275  Bruna Fernandes   SAPRFM130JS20          0.239686
+276  Bruna Fernandes   BLPRFM101RS20          0.231865
+277  Bruna Fernandes   BLANFM73KOW16          0.230098
+278  Bruna Fernandes   SPPTFM106PT-3          0.226008
+279  Bruna Fernandes  VEPCFM170ZRS-6          0.225941
+
+
+Top recommendations for client Bruna Fonseca:
+         Client_ID     Product_ID  Predicted_Rating
+280  Bruna Fonseca   VEPSFM235AZ6          0.172642
+281  Bruna Fonseca  VEPSFM167BG14          0.158265
+282  Bruna Fonseca  VEPCFM170ES-4          0.156476
+283  Bruna Fonseca   SHANFM109JS6          0.155913
+284  Bruna Fonseca    SPGRFM97X-4          0.155889
+
+
+Top recommendations for client Bruna Kounboz:
+         Client_ID     Product_ID  Predicted_Rating
+285  Bruna Kounboz  VEPSFM167BG14          0.160209
+286  Bruna Kounboz  VEPCFM170ES-4          0.158543
+287  Bruna Kounboz    SPGRFM97X-4          0.158036
+288  Bruna Kounboz   SHANFM109JS6          0.157980
+289  Bruna Kounboz    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Bruna Lopes :
+        Client_ID     Product_ID  Predicted_Rating
+290  Bruna Lopes     CMBEMC35AZ2          0.163023
+291  Bruna Lopes   VEPSFM167BG14          0.159923
+292  Bruna Lopes   VEPCFM170ES-4          0.158239
+293  Bruna Lopes     SPGRFM97X-4          0.157748
+294  Bruna Lopes    SHANFM109JS6          0.157712
+
+
+Recall at 5 for client Bruna Lopes SITE: 1.0
+Top recommendations for client Bruna Lopes SITE:
+            Client_ID     Product_ID  Predicted_Rating
+295  Bruna Lopes SITE   CJMOFM115VD4          0.228073
+296  Bruna Lopes SITE    BLMOFM72PR4          0.176288
+297  Bruna Lopes SITE  VEPSFM167BG14          0.156871
+298  Bruna Lopes SITE  VEPCFM170ES-4          0.155091
+299  Bruna Lopes SITE    SPGRFM97X-4          0.154656
+
+
+Recall at 5 for client Bruna Monteiro: 1.0
+Top recommendations for client Bruna Monteiro:
+          Client_ID      Product_ID  Predicted_Rating
+300  Bruna Monteiro    SHANFM96PR10          0.215572
+301  Bruna Monteiro   SHANFM110JS10          0.179555
+302  Bruna Monteiro   MQPCFM178RS12          0.178520
+303  Bruna Monteiro  CJFMAN195XOW12          0.178165
+304  Bruna Monteiro   CJMOFM138OW10          0.175092
+
+
+Top recommendations for client Bruna Oliveira:
+          Client_ID     Product_ID  Predicted_Rating
+305  Bruna Oliveira  VEPSFM167BG14          0.159586
+306  Bruna Oliveira  VEPCFM170ES-4          0.157881
+307  Bruna Oliveira    SPGRFM97X-4          0.157333
+308  Bruna Oliveira   SHANFM109JS6          0.157315
+309  Bruna Oliveira    CMDAMC90BG3          0.157143
+
+
+Recall at 5 for client Bruna Wanessa Pereira Alves: 1.0
+Top recommendations for client Bruna Wanessa Pereira Alves:
+                       Client_ID     Product_ID  Predicted_Rating
+310  Bruna Wanessa Pereira Alves   VEPSFM232PR4          0.214477
+311  Bruna Wanessa Pereira Alves  VEPCFM190AZ-4          0.210717
+312  Bruna Wanessa Pereira Alves   CJMOFM120OW3          0.203387
+313  Bruna Wanessa Pereira Alves            NaN          0.121265
+314  Bruna Wanessa Pereira Alves  VEPSFM167BG14          0.110911
+
+
+Top recommendations for client Bruno Gonçalves:
+           Client_ID     Product_ID  Predicted_Rating
+315  Bruno Gonçalves   VEMOFM120MM8          0.169499
+316  Bruno Gonçalves            NaN          0.161498
+317  Bruno Gonçalves  VEPSFM167BG14          0.155533
+318  Bruno Gonçalves  VEPCFM170ES-4          0.153853
+319  Bruno Gonçalves    SPGRFM97X-4          0.153302
+
+
+Top recommendations for client Bárbara Mello Corrêa:
+                Client_ID     Product_ID  Predicted_Rating
+320  Bárbara Mello Corrêa   CSYCMC100MR4          0.181728
+321  Bárbara Mello Corrêa   CAKGMC100AZ4          0.181362
+322  Bárbara Mello Corrêa  VEPSFM167BG14          0.154898
+323  Bárbara Mello Corrêa  VEPCFM170ES-4          0.153036
+324  Bárbara Mello Corrêa   SHANFM109JS6          0.152538
+
+
+Recall at 5 for client Bárbara Yano: 1.0
+Top recommendations for client Bárbara Yano:
+        Client_ID      Product_ID  Predicted_Rating
+325  Bárbara Yano  SPTJFM119XBG27          0.199290
+326  Bárbara Yano   VEPCFM200ES-5          0.189512
+327  Bárbara Yano             NaN          0.148136
+328  Bárbara Yano   VEPSFM167BG14          0.145255
+329  Bárbara Yano   VEPCFM170ES-4          0.143432
+
+
+Top recommendations for client Camila Cristina Ramos:
+                 Client_ID     Product_ID  Predicted_Rating
+330  Camila Cristina Ramos  VEANFM146PR12          0.172891
+331  Camila Cristina Ramos  VEPSFM167BG14          0.158217
+332  Camila Cristina Ramos  VEPCFM170ES-4          0.156590
+333  Camila Cristina Ramos    SPGRFM97X-4          0.156044
+334  Camila Cristina Ramos   SHANFM109JS6          0.155945
+
+
+Top recommendations for client Camila Stival :
+          Client_ID     Product_ID  Predicted_Rating
+335  Camila Stival   VEPSFM167BG14          0.159456
+336  Camila Stival   VEPCFM170ES-4          0.157816
+337  Camila Stival     SPGRFM97X-4          0.157298
+338  Camila Stival    SHANFM109JS6          0.157261
+339  Camila Stival     CMDAMC90BG3          0.157107
+
+
+Top recommendations for client Camila de Paula Leal:
+                Client_ID     Product_ID  Predicted_Rating
+340  Camila de Paula Leal  VEPSFM167BG14          0.160209
+341  Camila de Paula Leal  VEPCFM170ES-4          0.158543
+342  Camila de Paula Leal    SPGRFM97X-4          0.158036
+343  Camila de Paula Leal   SHANFM109JS6          0.157980
+344  Camila de Paula Leal    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Camilla Santos:
+          Client_ID     Product_ID  Predicted_Rating
+345  Camilla Santos   VEPSFM186PR6          0.204804
+346  Camilla Santos   VELCFM170BR4          0.200232
+347  Camilla Santos   VEUMFM110AL1          0.199730
+348  Camilla Santos  VEPSFM167BG14          0.146572
+349  Camilla Santos  VEPCFM170ES-4          0.145255
+
+
+Recall at 5 for client Camilla Sousa Santos: 1.0
+Top recommendations for client Camilla Sousa Santos:
+                Client_ID     Product_ID  Predicted_Rating
+350  Camilla Sousa Santos   SPPTFM85PT-1          0.188134
+351  Camilla Sousa Santos   VEPSFM235AZ4          0.178746
+352  Camilla Sousa Santos            NaN          0.160008
+353  Camilla Sousa Santos  VEPSFM167BG14          0.147494
+354  Camilla Sousa Santos  VEPCFM170ES-4          0.145972
+
+
+Recall at 5 for client Camyla Brasil Paranhos Lima: 0.0
+Top recommendations for client Camyla Brasil Paranhos Lima:
+                       Client_ID     Product_ID  Predicted_Rating
+355  Camyla Brasil Paranhos Lima  CJMOFM129PR14          0.213196
+356  Camyla Brasil Paranhos Lima  BLANFM73YOW14          0.212212
+357  Camyla Brasil Paranhos Lima  CJFMAN195OW14          0.208030
+358  Camyla Brasil Paranhos Lima   BLFMMO57OW14          0.207624
+359  Camyla Brasil Paranhos Lima  CJANFM209OW14          0.206959
+
+
+Recall at 5 for client Carine Dill: 1.0
+Top recommendations for client Carine Dill:
+       Client_ID     Product_ID  Predicted_Rating
+360  Carine Dill  SAPSFM148OC10          0.254803
+361  Carine Dill   BLPSFM55PR10          0.207469
+362  Carine Dill  BLPSFM101OW10          0.198324
+363  Carine Dill  CJMOFM267JS10          0.192106
+364  Carine Dill  VEPSFM167BG14          0.140417
+
+
+Top recommendations for client Carla da Gama Soares Gomes:
+                      Client_ID     Product_ID  Predicted_Rating
+365  Carla da Gama Soares Gomes  VEPCFM190CL-1          0.178927
+366  Carla da Gama Soares Gomes  VEPSFM167BG14          0.156677
+367  Carla da Gama Soares Gomes  VEPCFM170ES-4          0.154849
+368  Carla da Gama Soares Gomes   SHANFM109JS6          0.154448
+369  Carla da Gama Soares Gomes    SPGRFM97X-4          0.154369
+
+
+Recall at 5 for client Carmem Dalva: 1.0
+Top recommendations for client Carmem Dalva:
+        Client_ID     Product_ID  Predicted_Rating
+370  Carmem Dalva  BEUMMC115MR10          0.232038
+371  Carmem Dalva  VEPSFM167BG14          0.159408
+372  Carmem Dalva  VEPCFM170ES-4          0.157654
+373  Carmem Dalva   SHANFM109JS6          0.157127
+374  Carmem Dalva    SPGRFM97X-4          0.157121
+
+
+Top recommendations for client Carolina Gonçalves:
+              Client_ID     Product_ID  Predicted_Rating
+375  Carolina Gonçalves  VEPSFM167BG14          0.160209
+376  Carolina Gonçalves  VEPCFM170ES-4          0.158543
+377  Carolina Gonçalves    SPGRFM97X-4          0.158036
+378  Carolina Gonçalves   SHANFM109JS6          0.157980
+379  Carolina Gonçalves    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Caroline Afonso Guimarães :
+                      Client_ID     Product_ID  Predicted_Rating
+380  Caroline Afonso Guimarães      SPGRFM97-1          0.164617
+381  Caroline Afonso Guimarães   VEPSFM167BG14          0.159553
+382  Caroline Afonso Guimarães   VEPCFM170ES-4          0.157863
+383  Caroline Afonso Guimarães     SPGRFM97X-4          0.157395
+384  Caroline Afonso Guimarães    SHANFM109JS6          0.157345
+
+
+Top recommendations for client Caroline Bezerra:
+            Client_ID     Product_ID  Predicted_Rating
+385  Caroline Bezerra    VEBEFM79MR4          0.169215
+386  Caroline Bezerra  VEPSFM167BG14          0.159045
+387  Caroline Bezerra  VEPCFM170ES-4          0.157325
+388  Caroline Bezerra    SPGRFM97X-4          0.156841
+389  Caroline Bezerra   SHANFM109JS6          0.156780
+
+
+Top recommendations for client Caroline Campos da Rocha:
+                    Client_ID     Product_ID  Predicted_Rating
+390  Caroline Campos da Rocha   VEPSFM333AZ8          0.182624
+391  Caroline Campos da Rocha  VEPSFM167BG14          0.158291
+392  Caroline Campos da Rocha  VEPCFM170ES-4          0.156602
+393  Caroline Campos da Rocha   SHANFM109JS6          0.156065
+394  Caroline Campos da Rocha    SPGRFM97X-4          0.156063
+
+
+Top recommendations for client Caroline Cavalcante:
+               Client_ID     Product_ID  Predicted_Rating
+395  Caroline Cavalcante  VEPCFM190RS-3          0.184425
+396  Caroline Cavalcante  VEPCFM185LR-3          0.179221
+397  Caroline Cavalcante  VEPSFM167BG14          0.154575
+398  Caroline Cavalcante  VEPCFM170ES-4          0.152973
+399  Caroline Cavalcante    SPGRFM97X-4          0.152439
+
+
+Recall at 5 for client Caroline Costa Nazareno Adachi: 0.4
+Top recommendations for client Caroline Costa Nazareno Adachi:
+                          Client_ID     Product_ID  Predicted_Rating
+400  Caroline Costa Nazareno Adachi   SAPSFM162AZ4          0.210160
+401  Caroline Costa Nazareno Adachi  SPFRFM110PR26          0.167642
+402  Caroline Costa Nazareno Adachi   CHSIFM46RSUN          0.165954
+403  Caroline Costa Nazareno Adachi    VESIFM75AL4          0.165635
+404  Caroline Costa Nazareno Adachi   ROSIFM144ES6          0.158633
+
+
+Recall at 5 for client Caroline Do Valle : 1.0
+Top recommendations for client Caroline Do Valle :
+              Client_ID      Product_ID  Predicted_Rating
+405  Caroline Do Valle     VEUMFM110AL3          0.195576
+406  Caroline Do Valle   VEPCFM170YRS-3          0.187871
+407  Caroline Do Valle    VEPSFM167BG14          0.153174
+408  Caroline Do Valle    VEPCFM170ES-4          0.151891
+409  Caroline Do Valle      SPGRFM97X-4          0.151133
+
+
+Top recommendations for client Caroline Oliveira:
+             Client_ID     Product_ID  Predicted_Rating
+410  Caroline Oliveira  VEPSFM167BG14          0.159650
+411  Caroline Oliveira  VEPCFM170ES-4          0.157998
+412  Caroline Oliveira    SPGRFM97X-4          0.157496
+413  Caroline Oliveira   SHANFM109JS6          0.157406
+414  Caroline Oliveira    CMDAMC90BG3          0.157282
+
+
+Recall at 5 for client Cassia Veronica Lima Silva: 1.0
+Top recommendations for client Cassia Veronica Lima Silva:
+                      Client_ID     Product_ID  Predicted_Rating
+415  Cassia Veronica Lima Silva  VEPSFM210VD-4          0.188612
+416  Cassia Veronica Lima Silva   KTCJPS250VD8          0.166340
+417  Cassia Veronica Lima Silva    SPGRFM93Z-9          0.163576
+418  Cassia Veronica Lima Silva    SPGRFM97W-8          0.161021
+419  Cassia Veronica Lima Silva  VEPSFM167BG14          0.152855
+
+
+Recall at 5 for client Cecilia : 1.0
+Top recommendations for client Cecilia :
+    Client_ID     Product_ID  Predicted_Rating
+420  Cecilia     MCGRMC85-10          0.189546
+421  Cecilia   VEPSFM167BG14          0.159568
+422  Cecilia   VEPCFM170ES-4          0.157865
+423  Cecilia     SPGRFM97X-4          0.157338
+424  Cecilia    SHANFM109JS6          0.157291
+
+
+Recall at 5 for client Cecilia Morais: 0.5
+Top recommendations for client Cecilia Morais:
+          Client_ID     Product_ID  Predicted_Rating
+425  Cecilia Morais            NaN          0.158787
+426  Cecilia Morais    BEBEMC60AZ1          0.158030
+427  Cecilia Morais  VEPSFM167BG14          0.154707
+428  Cecilia Morais  VEPCFM170ES-4          0.153041
+429  Cecilia Morais    SPGRFM97X-4          0.152456
+
+
+Top recommendations for client Cecilia Seabra:
+          Client_ID     Product_ID  Predicted_Rating
+430  Cecilia Seabra   SPGBMC123A-2          0.170030
+431  Cecilia Seabra   CMDAMC73WVR6          0.169714
+432  Cecilia Seabra    SPGRMC90-13          0.162446
+433  Cecilia Seabra  VEPSFM167BG14          0.156260
+434  Cecilia Seabra  VEPCFM170ES-4          0.154359
+
+
+Recall at 5 for client Cecília Saad: 0.0
+Top recommendations for client Cecília Saad:
+        Client_ID     Product_ID  Predicted_Rating
+435  Cecília Saad  VEPSFM167BG14          0.160209
+436  Cecília Saad  VEPCFM170ES-4          0.158543
+437  Cecília Saad    SPGRFM97X-4          0.158036
+438  Cecília Saad   SHANFM109JS6          0.157980
+439  Cecília Saad    CMDAMC90BG3          0.157852
+
+
+Recall at 5 for client Cejana Cristina de Castro Alves: 0.0
+Top recommendations for client Cejana Cristina de Castro Alves:
+                           Client_ID     Product_ID  Predicted_Rating
+440  Cejana Cristina de Castro Alves   BLMOFM48RS12          0.168118
+441  Cejana Cristina de Castro Alves  VEPCFM180PR-4          0.167679
+442  Cejana Cristina de Castro Alves   BLMOFM48RS10          0.167418
+443  Cejana Cristina de Castro Alves   VEPSFM264RS8          0.162470
+444  Cejana Cristina de Castro Alves    PJMOFM90OW8          0.156719
+
+
+Recall at 5 for client Ceres Cristina Bueno Dallarmi de Araújo: 1.0
+Top recommendations for client Ceres Cristina Bueno Dallarmi de Araújo:
+                                   Client_ID     Product_ID  Predicted_Rating
+445  Ceres Cristina Bueno Dallarmi de Araújo    VECHFM41X-4          0.193702
+446  Ceres Cristina Bueno Dallarmi de Araújo    VEMOFM90RS2          0.193455
+447  Ceres Cristina Bueno Dallarmi de Araújo  VEPCFM130ES-2          0.184661
+448  Ceres Cristina Bueno Dallarmi de Araújo   VEMOFM100RX2          0.180642
+449  Ceres Cristina Bueno Dallarmi de Araújo   CJBEFM100RS3          0.169620
+
+
+Recall at 5 for client Christianne Monteiro: 1.0
+Top recommendations for client Christianne Monteiro:
+                Client_ID     Product_ID  Predicted_Rating
+450  Christianne Monteiro    SDGRFM85-11          0.199332
+451  Christianne Monteiro    SHFMMO80OW8          0.177588
+452  Christianne Monteiro  VEPSFM167BG14          0.157372
+453  Christianne Monteiro  VEPCFM170ES-4          0.155685
+454  Christianne Monteiro    SPGRFM97X-4          0.155112
+
+
+Recall at 5 for client Cinthia Menegazzo de Sousa: 1.0
+Top recommendations for client Cinthia Menegazzo de Sousa:
+                      Client_ID     Product_ID  Predicted_Rating
+455  Cinthia Menegazzo de Sousa  MQPSFM149RS12          0.172383
+456  Cinthia Menegazzo de Sousa  KTCJPS235OW12          0.168158
+457  Cinthia Menegazzo de Sousa  VEPSFM210RS-6          0.167703
+458  Cinthia Menegazzo de Sousa  KTCJPS205VD12          0.167022
+459  Cinthia Menegazzo de Sousa  VEPSFM235AZ12          0.157995
+
+
+Recall at 5 for client Cintia Figueiredo : 0.0
+Top recommendations for client Cintia Figueiredo :
+              Client_ID     Product_ID  Predicted_Rating
+460  Cintia Figueiredo     VESIFM75AL8          0.275908
+461  Cintia Figueiredo   SAPSFM130PR10          0.275491
+462  Cintia Figueiredo   CJMOFM120AOW8          0.270999
+463  Cintia Figueiredo   CJMOFM10X0OW8          0.270099
+464  Cintia Figueiredo   CLPSFM125PR10          0.270045
+
+
+Top recommendations for client Clarice Porto:
+         Client_ID     Product_ID  Predicted_Rating
+465  Clarice Porto  BTPTFM120CB-6          0.183035
+466  Clarice Porto  VEPSFM167BG14          0.156322
+467  Clarice Porto  VEPCFM170ES-4          0.154696
+468  Clarice Porto    SPGRFM97X-4          0.154186
+469  Clarice Porto   SHANFM109JS6          0.154072
+
+
+Top recommendations for client Claudia Marçal:
+          Client_ID      Product_ID  Predicted_Rating
+470  Claudia Marçal  VEPCFM170ZRS-5          0.191090
+471  Claudia Marçal   VEPSFM167BG14          0.158057
+472  Claudia Marçal   VEPCFM170ES-4          0.156383
+473  Claudia Marçal     SPGRFM97X-4          0.155815
+474  Claudia Marçal    SHANFM109JS6          0.155764
+
+
+Top recommendations for client Consuelo Monteiro:
+             Client_ID     Product_ID  Predicted_Rating
+475  Consuelo Monteiro   VEMOFM110VD3          0.203514
+476  Consuelo Monteiro  VEPCFM140PR-3          0.199442
+477  Consuelo Monteiro  CJMOFM100XOW4          0.198216
+478  Consuelo Monteiro   BLMOFM50XOW4          0.195130
+479  Consuelo Monteiro  VEPSFM167BG14          0.139428
+
+
+Top recommendations for client Cristiane de Oliveira :
+                  Client_ID     Product_ID  Predicted_Rating
+480  Cristiane de Oliveira     JDMOFM60ES6          0.180010
+481  Cristiane de Oliveira     VECHFM84-10          0.172616
+482  Cristiane de Oliveira   VEPSFM167BG14          0.157075
+483  Cristiane de Oliveira   VEPCFM170ES-4          0.155274
+484  Cristiane de Oliveira     SPGRFM97X-4          0.154762
+
+
+Top recommendations for client Cristiano Carvalho:
+              Client_ID     Product_ID  Predicted_Rating
+485  Cristiano Carvalho  VEPSFM167BG14          0.159620
+486  Cristiano Carvalho  VEPCFM170ES-4          0.157933
+487  Cristiano Carvalho    SPGRFM97X-4          0.157460
+488  Cristiano Carvalho   SHANFM109JS6          0.157372
+489  Cristiano Carvalho    CMDAMC90BG3          0.157251
+
+
+Top recommendations for client Cristina Souza Leandro :
+                   Client_ID     Product_ID  Predicted_Rating
+490  Cristina Souza Leandro   VEPSFM167BG14          0.160209
+491  Cristina Souza Leandro   VEPCFM170ES-4          0.158543
+492  Cristina Souza Leandro     SPGRFM97X-4          0.158036
+493  Cristina Souza Leandro    SHANFM109JS6          0.157980
+494  Cristina Souza Leandro     CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Cynara Sene:
+       Client_ID     Product_ID  Predicted_Rating
+495  Cynara Sene   BLMOFM48OW16          0.172231
+496  Cynara Sene  SAIAFM110BG16          0.168079
+497  Cynara Sene            NaN          0.165107
+498  Cynara Sene  VEPSFM167BG14          0.151785
+499  Cynara Sene  VEPCFM170ES-4          0.150043
+
+
+Recall at 5 for client Daiana Refati: 1.0
+Top recommendations for client Daiana Refati:
+         Client_ID     Product_ID  Predicted_Rating
+500  Daiana Refati    BLPSFM62OW6          0.245750
+501  Daiana Refati  VEPCFM260ES-5          0.244366
+502  Daiana Refati  SPTJFM124PR24          0.242615
+503  Daiana Refati   CJBEFM100RS6          0.240535
+504  Daiana Refati   CJANFM182PR6          0.240335
+
+
+Top recommendations for client Daiane Barcelos:
+           Client_ID     Product_ID  Predicted_Rating
+505  Daiane Barcelos  VEPCFM170ES-5          0.187574
+506  Daiane Barcelos  VEPSFM167BG14          0.157819
+507  Daiane Barcelos  VEPCFM170ES-4          0.156146
+508  Daiane Barcelos   SHANFM109JS6          0.155629
+509  Daiane Barcelos    SPGRFM97X-4          0.155522
+
+
+Top recommendations for client Daiane Funck:
+        Client_ID     Product_ID  Predicted_Rating
+510  Daiane Funck    BLUMFM80BG2          0.166249
+511  Daiane Funck  VEPSFM167BG14          0.159144
+512  Daiane Funck  VEPCFM170ES-4          0.157508
+513  Daiane Funck    SPGRFM97X-4          0.156950
+514  Daiane Funck   SHANFM109JS6          0.156889
+
+
+Top recommendations for client Daiane Moraes:
+         Client_ID     Product_ID  Predicted_Rating
+515  Daiane Moraes  VEPSFM167BG14          0.160209
+516  Daiane Moraes  VEPCFM170ES-4          0.158543
+517  Daiane Moraes    SPGRFM97X-4          0.158036
+518  Daiane Moraes   SHANFM109JS6          0.157980
+519  Daiane Moraes    CMDAMC90BG3          0.157852
+
+
+Recall at 5 for client Daiane da Silva : 1.0
+Top recommendations for client Daiane da Silva :
+            Client_ID     Product_ID  Predicted_Rating
+520  Daiane da Silva    SPGBMC127A-4          0.246714
+521  Daiane da Silva   VEPSFM167BG14          0.159224
+522  Daiane da Silva   VEPCFM170ES-4          0.157433
+523  Daiane da Silva     SPGRFM97X-4          0.157070
+524  Daiane da Silva    SHANFM109JS6          0.156917
+
+
+Recall at 5 for client Daniela Lopes Moreno: 0.75
+Top recommendations for client Daniela Lopes Moreno:
+                Client_ID    Product_ID  Predicted_Rating
+525  Daniela Lopes Moreno   BEDAMC88MR8          0.171781
+526  Daniela Lopes Moreno   CMDAMC90BG6          0.169845
+527  Daniela Lopes Moreno   CMDAMC86MR6          0.169248
+528  Daniela Lopes Moreno  CJKGMC70XMR6          0.165273
+529  Daniela Lopes Moreno   BEDAMC88BG8          0.164421
+
+
+Top recommendations for client Daniela Signorelli:
+              Client_ID     Product_ID  Predicted_Rating
+530  Daniela Signorelli   CJANFM109OW8          0.167483
+531  Daniela Signorelli  VEPSFM167BG14          0.159321
+532  Daniela Signorelli  VEPCFM170ES-4          0.157602
+533  Daniela Signorelli    SPGRFM97X-4          0.157093
+534  Daniela Signorelli   SHANFM109JS6          0.157036
+
+
+Recall at 5 for client Daniela Silva Dutra: 1.0
+Top recommendations for client Daniela Silva Dutra:
+               Client_ID      Product_ID  Predicted_Rating
+535  Daniela Silva Dutra  SDPTFM106DR-15          0.219159
+536  Daniela Silva Dutra   VEPCFM129ES14          0.181690
+537  Daniela Silva Dutra   VEPSFM167BG14          0.153857
+538  Daniela Silva Dutra   VEPCFM170ES-4          0.152173
+539  Daniela Silva Dutra     SPGRFM97X-4          0.151553
+
+
+Top recommendations for client Danielle Prado de Paiva:
+                   Client_ID     Product_ID  Predicted_Rating
+540  Danielle Prado de Paiva    CJUMMC90CZ3          0.174532
+541  Danielle Prado de Paiva  VEPSFM167BG14          0.159028
+542  Danielle Prado de Paiva  VEPCFM170ES-4          0.157369
+543  Danielle Prado de Paiva   SHANFM109JS6          0.156795
+544  Danielle Prado de Paiva    SPGRFM97X-4          0.156781
+
+
+Top recommendations for client Danielle Silva:
+          Client_ID     Product_ID  Predicted_Rating
+545  Danielle Silva  CJMOFM170VD10          0.204752
+546  Danielle Silva  BLMOFM50XOW10          0.202750
+547  Danielle Silva  SPFRFM103DR33          0.200836
+548  Danielle Silva  SIPSFM119RS10          0.200624
+549  Danielle Silva  SPPTFM106PT-1          0.198810
+
+
+Top recommendations for client Danielly Rodrigues Simão:
+                    Client_ID     Product_ID  Predicted_Rating
+550  Danielly Rodrigues Simão  VEPSFM167BG14          0.159876
+551  Danielly Rodrigues Simão  VEPCFM170ES-4          0.158215
+552  Danielly Rodrigues Simão    SPGRFM97X-4          0.157729
+553  Danielly Rodrigues Simão   SHANFM109JS6          0.157650
+554  Danielly Rodrigues Simão    CMDAMC90BG3          0.157517
+
+
+Top recommendations for client Danyelle Costa:
+          Client_ID     Product_ID  Predicted_Rating
+555  Danyelle Costa   CSCFUN55LR12          0.216717
+556  Danyelle Costa  VEPSFM186PR10          0.204070
+557  Danyelle Costa    BLMOFM50OW8          0.199628
+558  Danyelle Costa  VETWFM240PR14          0.197600
+559  Danyelle Costa   JQMOFM120VD8          0.197467
+
+
+Top recommendations for client Davi Reis:
+     Client_ID     Product_ID  Predicted_Rating
+560  Davi Reis  VEPCFM200RS-2          0.175847
+561  Davi Reis  VEPSFM167BG14          0.158742
+562  Davi Reis  VEPCFM170ES-4          0.156964
+563  Davi Reis    SPGRFM97X-4          0.156514
+564  Davi Reis   SHANFM109JS6          0.156418
+
+
+Top recommendations for client Dayana Evangelista:
+              Client_ID     Product_ID  Predicted_Rating
+565  Dayana Evangelista    SHANFM96PR8          0.180931
+566  Dayana Evangelista   BLANFM73YOW6          0.177450
+567  Dayana Evangelista  VEPSFM167BG14          0.155485
+568  Dayana Evangelista  VEPCFM170ES-4          0.153802
+569  Dayana Evangelista   SHANFM109JS6          0.153238
+
+
+Top recommendations for client Debora Marcatto:
+           Client_ID      Product_ID  Predicted_Rating
+570  Debora Marcatto    SPPTFM85PT-4          0.172399
+571  Debora Marcatto  SPPTFM106PT-17          0.170874
+572  Debora Marcatto   VEPSFM167BG14          0.157835
+573  Debora Marcatto   VEPCFM170ES-4          0.156144
+574  Debora Marcatto    SHANFM109JS6          0.155622
+
+
+Recall at 5 for client Debora Raquel Santos da Silva: 0.0
+Top recommendations for client Debora Raquel Santos da Silva:
+                         Client_ID     Product_ID  Predicted_Rating
+575  Debora Raquel Santos da Silva  VEPSFM167BG14          0.160209
+576  Debora Raquel Santos da Silva  VEPCFM170ES-4          0.158543
+577  Debora Raquel Santos da Silva    SPGRFM97X-4          0.158036
+578  Debora Raquel Santos da Silva   SHANFM109JS6          0.157980
+579  Debora Raquel Santos da Silva    CMDAMC90BG3          0.157852
+
+
+Recall at 5 for client Debora Silva: 0.0
+Top recommendations for client Debora Silva:
+        Client_ID     Product_ID  Predicted_Rating
+580  Debora Silva    BLANFM69OW2          0.219712
+581  Debora Silva    SHSIFM40RS2          0.219111
+582  Debora Silva   CJANFM150OW2          0.215040
+583  Debora Silva  CJPCFM159AOW2          0.212517
+584  Debora Silva    VECHFM41X-6          0.211463
+
+
+Recall at 5 for client Deise Lara : 1.0
+Top recommendations for client Deise Lara :
+       Client_ID     Product_ID  Predicted_Rating
+585  Deise Lara    SHKJMC50VD12          0.262175
+586  Deise Lara     BLMOFM48PK6          0.194173
+587  Deise Lara    CAKGMC40PR10          0.164638
+588  Deise Lara    BLMOFM48XOW8          0.157565
+589  Deise Lara   VEPSFM167BG14          0.155599
+
+
+Recall at 5 for client Denise Espinola : 1.0
+Top recommendations for client Denise Espinola :
+            Client_ID     Product_ID  Predicted_Rating
+590  Denise Espinola    VEPSFM239X-7          0.250733
+591  Denise Espinola   VEPSFM167BG14          0.158990
+592  Denise Espinola   VEPCFM170ES-4          0.157269
+593  Denise Espinola     SPGRFM97X-4          0.156753
+594  Denise Espinola    SHANFM109JS6          0.156664
+
+
+Recall at 5 for client Denise Helena de Melo Nogueira Borges: 1.0
+Top recommendations for client Denise Helena de Melo Nogueira Borges:
+                                 Client_ID     Product_ID  Predicted_Rating
+595  Denise Helena de Melo Nogueira Borges   CMYCMC35DV-5          0.226946
+596  Denise Helena de Melo Nogueira Borges    CABEMC70CZ4          0.176360
+597  Denise Helena de Melo Nogueira Borges  CJYCMC95BCOW4          0.174626
+598  Denise Helena de Melo Nogueira Borges    BLBEMC70CZ4          0.173050
+599  Denise Helena de Melo Nogueira Borges  VEPSFM167BG14          0.152664
+
+
+Recall at 5 for client Denise Miele: 1.0
+Top recommendations for client Denise Miele:
+        Client_ID    Product_ID  Predicted_Rating
+600  Denise Miele  VEPSFM186RS8          0.215630
+601  Denise Miele  VEPCFM119RS8          0.179229
+602  Denise Miele  VEANFM187RS6          0.176099
+603  Denise Miele  KTCJPS205VD8          0.171967
+604  Denise Miele  VEMOFM90XRS8          0.171012
+
+
+Top recommendations for client Derize de Souza Almeida:
+                   Client_ID     Product_ID  Predicted_Rating
+605  Derize de Souza Almeida   BLPSFM107RS6          0.163041
+606  Derize de Souza Almeida  VEPSFM167BG14          0.159391
+607  Derize de Souza Almeida  VEPCFM170ES-4          0.157621
+608  Derize de Souza Almeida    SPGRFM97X-4          0.157170
+609  Derize de Souza Almeida   SHANFM109JS6          0.157084
+
+
+Top recommendations for client Dimpina Leda:
+        Client_ID     Product_ID  Predicted_Rating
+610  Dimpina Leda  VEPCFM110ES-6          0.166676
+611  Dimpina Leda  VEPSFM167BG14          0.158578
+612  Dimpina Leda  VEPCFM170ES-4          0.156921
+613  Dimpina Leda    SPGRFM97X-4          0.156443
+614  Dimpina Leda   SHANFM109JS6          0.156323
+
+
+Top recommendations for client Dunia Jarouche:
+          Client_ID     Product_ID  Predicted_Rating
+615  Dunia Jarouche   VEMOFM160VD4          0.177341
+616  Dunia Jarouche  VEPSFM167BG14          0.158177
+617  Dunia Jarouche  VEPCFM170ES-4          0.156439
+618  Dunia Jarouche    SPGRFM97X-4          0.155923
+619  Dunia Jarouche   SHANFM109JS6          0.155828
+
+
+Recall at 5 for client Dyeovana Ramos dos Santos: 1.0
+Top recommendations for client Dyeovana Ramos dos Santos:
+                     Client_ID     Product_ID  Predicted_Rating
+620  Dyeovana Ramos dos Santos  CJMOFM150ES12          0.178338
+621  Dyeovana Ramos dos Santos  CJFMAN119OW10          0.164595
+622  Dyeovana Ramos dos Santos  VEPSFM167BG14          0.156587
+623  Dyeovana Ramos dos Santos  VEPCFM170ES-4          0.154882
+624  Dyeovana Ramos dos Santos    SPGRFM97X-4          0.154449
+
+
+Top recommendations for client Débora Alves Lima Rodrigues:
+                       Client_ID     Product_ID  Predicted_Rating
+625  Débora Alves Lima Rodrigues   VEPCFM209ES8          0.169323
+626  Débora Alves Lima Rodrigues  VEPSFM167BG14          0.158884
+627  Débora Alves Lima Rodrigues  VEPCFM170ES-4          0.157139
+628  Débora Alves Lima Rodrigues    SPGRFM97X-4          0.156797
+629  Débora Alves Lima Rodrigues   SHANFM109JS6          0.156579
+
+
+Recall at 5 for client Débora Rodrigues: 1.0
+Top recommendations for client Débora Rodrigues:
+            Client_ID     Product_ID  Predicted_Rating
+630  Débora Rodrigues  VEPCFM210XD-3          0.183630
+631  Débora Rodrigues  VEPSFM167BG14          0.157190
+632  Débora Rodrigues  VEPCFM170ES-4          0.155535
+633  Débora Rodrigues    SPGRFM97X-4          0.155182
+634  Débora Rodrigues   SHANFM109JS6          0.154943
+
+
+Top recommendations for client Ecília Pires:
+        Client_ID     Product_ID  Predicted_Rating
+635  Ecília Pires   SHANFM137OW6          0.194248
+636  Ecília Pires   BLANFM160OW4          0.193773
+637  Ecília Pires   BLANFM160OW6          0.190065
+638  Ecília Pires   SHANFM137OW4          0.189201
+639  Ecília Pires  VEPSFM167BG14          0.140776
+
+
+Top recommendations for client Edna Ferreira dos Santos Gomes:
+                          Client_ID     Product_ID  Predicted_Rating
+640  Edna Ferreira dos Santos Gomes    VEPCFM182-1          0.179188
+641  Edna Ferreira dos Santos Gomes  VEPCFM170RS-3          0.176843
+642  Edna Ferreira dos Santos Gomes  VEPSFM167BG14          0.154896
+643  Edna Ferreira dos Santos Gomes  VEPCFM170ES-4          0.153206
+644  Edna Ferreira dos Santos Gomes    CMDAMC90BG3          0.152507
+
+
+Top recommendations for client Eduarda Souza:
+         Client_ID     Product_ID  Predicted_Rating
+645  Eduarda Souza  VEPSFM167BG14          0.159817
+646  Eduarda Souza  VEPCFM170ES-4          0.158120
+647  Eduarda Souza    SPGRFM97X-4          0.157645
+648  Eduarda Souza   SHANFM109JS6          0.157595
+649  Eduarda Souza    CMDAMC90BG3          0.157436
+
+
+Recall at 5 for client Elaine Teles Rodrigues: 0.0
+Top recommendations for client Elaine Teles Rodrigues:
+                  Client_ID    Product_ID  Predicted_Rating
+650  Elaine Teles Rodrigues   CLMOFM80PR6          0.231294
+651  Elaine Teles Rodrigues  SAPSFM119RS8          0.230675
+652  Elaine Teles Rodrigues   CJMOFM90OW8          0.226098
+653  Elaine Teles Rodrigues  BLANFM73XOW8          0.224628
+654  Elaine Teles Rodrigues  CAANFM146OW8          0.224451
+
+
+Top recommendations for client Eliane Teles:
+        Client_ID     Product_ID  Predicted_Rating
+655  Eliane Teles   CJFMAN187VD8          0.181014
+656  Eliane Teles  VEPSFM167BG14          0.158781
+657  Eliane Teles  VEPCFM170ES-4          0.157044
+658  Eliane Teles    SPGRFM97X-4          0.156519
+659  Eliane Teles   SHANFM109JS6          0.156465
+
+
+Top recommendations for client Elida :
+    Client_ID     Product_ID  Predicted_Rating
+660    Elida     BEDAMC90BG6          0.167836
+661    Elida     CMDAMC82OW6          0.159529
+662    Elida   VEPSFM167BG14          0.158242
+663    Elida   VEPCFM170ES-4          0.156532
+664    Elida     SPGRFM97X-4          0.156052
+
+
+Recall at 5 for client Elisa Graciete Damasceno Mainardi: 1.0
+Top recommendations for client Elisa Graciete Damasceno Mainardi:
+                             Client_ID     Product_ID  Predicted_Rating
+665  Elisa Graciete Damasceno Mainardi  VEPCFM210XD-6          0.184920
+666  Elisa Graciete Damasceno Mainardi    VECHFM57X-8          0.157474
+667  Elisa Graciete Damasceno Mainardi  VEPSFM167BG14          0.153667
+668  Elisa Graciete Damasceno Mainardi  VEPCFM170ES-4          0.152173
+669  Elisa Graciete Damasceno Mainardi   SHANFM109JS6          0.151595
+
+
+Top recommendations for client Ellen Peres :
+        Client_ID     Product_ID  Predicted_Rating
+670  Ellen Peres    CJANFM219OW8          0.208697
+671  Ellen Peres   CJANFM219OW10          0.205033
+672  Ellen Peres   VEPCFM260PR-3          0.186825
+673  Ellen Peres   VEPSFM167BG14          0.145908
+674  Ellen Peres   VEPCFM170ES-4          0.143820
+
+
+Top recommendations for client Emanuelly de Oliveira Viscard:
+                         Client_ID      Product_ID  Predicted_Rating
+675  Emanuelly de Oliveira Viscard    VEFMAN182BG8          0.196972
+676  Emanuelly de Oliveira Viscard  CJUMMC129YCQ10          0.194397
+677  Emanuelly de Oliveira Viscard   CJUMMC170MR10          0.189117
+678  Emanuelly de Oliveira Viscard   VEPSFM167BG14          0.147609
+679  Emanuelly de Oliveira Viscard   VEPCFM170ES-4          0.145994
+
+
+Top recommendations for client Erenice Gatti Gaiatto:
+                 Client_ID     Product_ID  Predicted_Rating
+680  Erenice Gatti Gaiatto  CJPCFM180ES-6          0.213516
+681  Erenice Gatti Gaiatto   SHMOFM96JS16          0.208837
+682  Erenice Gatti Gaiatto  VEPCFM170ES-6          0.203287
+683  Erenice Gatti Gaiatto  VEPSFM167BG14          0.140466
+684  Erenice Gatti Gaiatto  VEPCFM170ES-4          0.138766
+
+
+Top recommendations for client Erica Silva:
+       Client_ID     Product_ID  Predicted_Rating
+685  Erica Silva  VEPSFM167BG14          0.159360
+686  Erica Silva  VEPCFM170ES-4          0.157760
+687  Erica Silva    SPGRFM97X-4          0.157242
+688  Erica Silva   SHANFM109JS6          0.157180
+689  Erica Silva    CMDAMC90BG3          0.157006
+
+
+Recall at 5 for client Erika Lopes: 0.0
+Top recommendations for client Erika Lopes:
+       Client_ID    Product_ID  Predicted_Rating
+690  Erika Lopes   CMKGMC40OW2          0.225591
+691  Erika Lopes   BLMOFM48RS8          0.217981
+692  Erika Lopes  BLANFM73XOW6          0.215593
+693  Erika Lopes   CJUMMC90CZ2          0.215511
+694  Erika Lopes   BLMOFM67OW8          0.214524
+
+
+Top recommendations for client Ester Milena Brito dos Reis:
+                       Client_ID     Product_ID  Predicted_Rating
+695  Ester Milena Brito dos Reis  SATWFM110PR16          0.180077
+696  Ester Milena Brito dos Reis   BLTWFM90PR16          0.177716
+697  Ester Milena Brito dos Reis  VEPSFM167BG14          0.155971
+698  Ester Milena Brito dos Reis  VEPCFM170ES-4          0.154260
+699  Ester Milena Brito dos Reis   SHANFM109JS6          0.153542
+
+
+Recall at 5 for client Evelyne Ramos de Sousa: 1.0
+Top recommendations for client Evelyne Ramos de Sousa:
+                  Client_ID     Product_ID  Predicted_Rating
+700  Evelyne Ramos de Sousa   VEPSFM186RS4          0.223231
+701  Evelyne Ramos de Sousa  VEPSFM167BG14          0.158071
+702  Evelyne Ramos de Sousa  VEPCFM170ES-4          0.156444
+703  Evelyne Ramos de Sousa    SPGRFM97X-4          0.155911
+704  Evelyne Ramos de Sousa   SHANFM109JS6          0.155770
+
+
+Recall at 5 for client Fabia Andreia Silva Lima: 0.5
+Top recommendations for client Fabia Andreia Silva Lima:
+                    Client_ID    Product_ID  Predicted_Rating
+705  Fabia Andreia Silva Lima   BLPSFM61PR8          0.215882
+706  Fabia Andreia Silva Lima  CJANFM169OW3          0.213522
+707  Fabia Andreia Silva Lima  SAPSFM154PR8          0.210178
+708  Fabia Andreia Silva Lima   BLANFM69OW6          0.210165
+709  Fabia Andreia Silva Lima  SAPSFM154PR4          0.207950
+
+
+Top recommendations for client Fabiana Goveia:
+          Client_ID     Product_ID  Predicted_Rating
+710  Fabiana Goveia   SPPCFM97CH-5          0.174365
+711  Fabiana Goveia  VEPSFM167BG14          0.158811
+712  Fabiana Goveia  VEPCFM170ES-4          0.157066
+713  Fabiana Goveia    SPGRFM97X-4          0.156556
+714  Fabiana Goveia   SHANFM109JS6          0.156541
+
+
+Top recommendations for client Fabiana Sanches Pires :
+                  Client_ID     Product_ID  Predicted_Rating
+715  Fabiana Sanches Pires     BLFMMO57OW8          0.193913
+716  Fabiana Sanches Pires    CJMOFM129PR8          0.188042
+717  Fabiana Sanches Pires   VEPSFM235AZ10          0.182210
+718  Fabiana Sanches Pires   VEPSFM167BG14          0.149644
+719  Fabiana Sanches Pires   VEPCFM170ES-4          0.147818
+
+
+Recall at 5 for client Fabrine Romano: 1.0
+Top recommendations for client Fabrine Romano:
+          Client_ID     Product_ID  Predicted_Rating
+720  Fabrine Romano   SHANFM137OW8          0.203832
+721  Fabrine Romano  CJIAFM218OW14          0.203614
+722  Fabrine Romano  VEANFM286OW12          0.196565
+723  Fabrine Romano   SHFMMO96OW12          0.192498
+724  Fabrine Romano   BLIAFM90OW14          0.178367
+
+
+Top recommendations for client Farida Oliveira:
+           Client_ID     Product_ID  Predicted_Rating
+725  Farida Oliveira   CJMOFM150MM8          0.184147
+726  Farida Oliveira  VEPSFM167BG14          0.158441
+727  Farida Oliveira  VEPCFM170ES-4          0.156834
+728  Farida Oliveira   SHANFM109JS6          0.156316
+729  Farida Oliveira    SPGRFM97X-4          0.156176
+
+
+Recall at 5 for client Felicia : 1.0
+Top recommendations for client Felicia :
+    Client_ID     Product_ID  Predicted_Rating
+730  Felicia     VEMOFM90RS2          0.225490
+731  Felicia   VEPSFM167BG14          0.158716
+732  Felicia   VEPCFM170ES-4          0.157035
+733  Felicia     SPGRFM97X-4          0.156544
+734  Felicia    SHANFM109JS6          0.156418
+
+
+Recall at 5 for client Felina Sousa : 1.0
+Top recommendations for client Felina Sousa :
+         Client_ID      Product_ID  Predicted_Rating
+735  Felina Sousa    BEUMMC120OW-4          0.207954
+736  Felina Sousa    TNDAMC180BG34          0.200538
+737  Felina Sousa   CJANFM209XOW12          0.192783
+738  Felina Sousa     POKGMC53BR10          0.192680
+739  Felina Sousa     CMKGMC31OW10          0.191208
+
+
+Top recommendations for client Fernanda Aparecida Santos:
+                     Client_ID     Product_ID  Predicted_Rating
+740  Fernanda Aparecida Santos  CJANFM119OW10          0.160063
+741  Fernanda Aparecida Santos  VEPSFM167BG14          0.159614
+742  Fernanda Aparecida Santos  VEPCFM170ES-4          0.157894
+743  Fernanda Aparecida Santos    SPGRFM97X-4          0.157431
+744  Fernanda Aparecida Santos   SHANFM109JS6          0.157364
+
+
+Recall at 5 for client Fernanda Azevedo Lima Teixeira: 1.0
+Top recommendations for client Fernanda Azevedo Lima Teixeira:
+                          Client_ID     Product_ID  Predicted_Rating
+745  Fernanda Azevedo Lima Teixeira  MQANFM128JS10          0.243323
+746  Fernanda Azevedo Lima Teixeira  CLMOFM150JS10          0.213863
+747  Fernanda Azevedo Lima Teixeira  CJANFM190PR10          0.212872
+748  Fernanda Azevedo Lima Teixeira  VEPSFM167BG14          0.141300
+749  Fernanda Azevedo Lima Teixeira  VEPCFM170ES-4          0.139697
+
+
+Top recommendations for client Fernanda Gimez:
+          Client_ID     Product_ID  Predicted_Rating
+750  Fernanda Gimez  VEPSFM167BG14          0.159599
+751  Fernanda Gimez  VEPCFM170ES-4          0.157944
+752  Fernanda Gimez    CJFMMO90OW6          0.157703
+753  Fernanda Gimez    SPGRFM97X-4          0.157420
+754  Fernanda Gimez   SHANFM109JS6          0.157369
+
+
+Recall at 5 for client Fernanda Loiola: 1.0
+Top recommendations for client Fernanda Loiola:
+           Client_ID     Product_ID  Predicted_Rating
+755  Fernanda Loiola   VEUMFM149RS3          0.192279
+756  Fernanda Loiola  CJCHMC146MS-2          0.172503
+757  Fernanda Loiola  SPTJFM119RS25          0.172165
+758  Fernanda Loiola    CJUMFM159-2          0.171577
+759  Fernanda Loiola  CJMOFM100ZOW6          0.170644
+
+
+Top recommendations for client Fernanda Mendonça :
+              Client_ID     Product_ID  Predicted_Rating
+760  Fernanda Mendonça    CTPSFM102RS8          0.173410
+761  Fernanda Mendonça    CJMOFM129PK8          0.172904
+762  Fernanda Mendonça   VEPSFM167BG14          0.155483
+763  Fernanda Mendonça   VEPCFM170ES-4          0.153711
+764  Fernanda Mendonça     SPGRFM97X-4          0.153244
+
+
+Recall at 5 for client Fernanda Nasser: 1.0
+Top recommendations for client Fernanda Nasser:
+           Client_ID     Product_ID  Predicted_Rating
+765  Fernanda Nasser  SPFRFM110PR34          0.194577
+766  Fernanda Nasser     SDGRFM95-3          0.176464
+767  Fernanda Nasser    CJKGMC70VD3          0.168440
+768  Fernanda Nasser  VEPSFM167BG14          0.150768
+769  Fernanda Nasser    VECHFM57X-5          0.149477
+
+
+Recall at 5 for client Fernanda Perin Dourado: 1.0
+Top recommendations for client Fernanda Perin Dourado:
+                  Client_ID     Product_ID  Predicted_Rating
+770  Fernanda Perin Dourado  VEPCFM120RS-2          0.191178
+771  Fernanda Perin Dourado  VEPCFM120RS-5          0.189493
+772  Fernanda Perin Dourado    CSANFM86RS6          0.187986
+773  Fernanda Perin Dourado  VEPSFM167BG14          0.147573
+774  Fernanda Perin Dourado  VEPCFM170ES-4          0.145757
+
+
+Top recommendations for client Fernanda Silva Santos:
+                 Client_ID     Product_ID  Predicted_Rating
+775  Fernanda Silva Santos   VEMOFM120XD8          0.166937
+776  Fernanda Silva Santos  VEPSFM167BG14          0.159017
+777  Fernanda Silva Santos  VEPCFM170ES-4          0.157413
+778  Fernanda Silva Santos    SPGRFM97X-4          0.156866
+779  Fernanda Silva Santos   SHANFM109JS6          0.156748
+
+
+Top recommendations for client Fernando Henrique:
+             Client_ID     Product_ID  Predicted_Rating
+780  Fernando Henrique  VEPSFM167BG14          0.159418
+781  Fernando Henrique    CJKGMC70VD2          0.159159
+782  Fernando Henrique  VEPCFM170ES-4          0.157795
+783  Fernando Henrique    SPGRFM97X-4          0.157353
+784  Fernando Henrique   SHANFM109JS6          0.157171
+
+
+Top recommendations for client Flávia G. Coelho Torres:
+                   Client_ID     Product_ID  Predicted_Rating
+785  Flávia G. Coelho Torres     MCGRMC85-5          0.198007
+786  Flávia G. Coelho Torres    VEBEFM79MR1          0.192357
+787  Flávia G. Coelho Torres   CSYCMC100MR1          0.188321
+788  Flávia G. Coelho Torres   CLUMMC100JS1          0.185078
+789  Flávia G. Coelho Torres  VEPSFM167BG14          0.143646
+
+
+Top recommendations for client Gabriela Silva:
+          Client_ID     Product_ID  Predicted_Rating
+790  Gabriela Silva  VEFMAN260BG14          0.176732
+791  Gabriela Silva  VEPSFM167BG14          0.158005
+792  Gabriela Silva  VEPCFM170ES-4          0.156461
+793  Gabriela Silva    SPGRFM97X-4          0.155868
+794  Gabriela Silva   SHANFM109JS6          0.155826
+
+
+Recall at 5 for client Gabriela Sobral Corlat: 1.0
+Top recommendations for client Gabriela Sobral Corlat:
+                  Client_ID     Product_ID  Predicted_Rating
+795  Gabriela Sobral Corlat    SHMOFM27OW4          0.207469
+796  Gabriela Sobral Corlat  VEPSFM167BG14          0.157940
+797  Gabriela Sobral Corlat  VEPCFM170ES-4          0.156168
+798  Gabriela Sobral Corlat    SPGRFM97X-4          0.155740
+799  Gabriela Sobral Corlat   SHANFM109JS6          0.155692
+
+
+Top recommendations for client Gabryelle Carvalho:
+              Client_ID     Product_ID  Predicted_Rating
+800  Gabryelle Carvalho  SPTJMC124VD26          0.170973
+801  Gabryelle Carvalho  VEPSFM167BG14          0.158857
+802  Gabryelle Carvalho  VEPCFM170ES-4          0.157154
+803  Gabryelle Carvalho    SPGRFM97X-4          0.156722
+804  Gabryelle Carvalho   SHANFM109JS6          0.156492
+
+
+Top recommendations for client Gerantine Carvalho:
+              Client_ID     Product_ID  Predicted_Rating
+805  Gerantine Carvalho    VECHFM84-12          0.179123
+806  Gerantine Carvalho     VECHFM84-8          0.170660
+807  Gerantine Carvalho  VEPSFM167BG14          0.156829
+808  Gerantine Carvalho  VEPCFM170ES-4          0.155130
+809  Gerantine Carvalho    SPGRFM97X-4          0.154707
+
+
+Top recommendations for client Girlene Ferreira da Silva:
+                     Client_ID     Product_ID  Predicted_Rating
+810  Girlene Ferreira da Silva  VEPSFM167BG14          0.158477
+811  Girlene Ferreira da Silva  VEPCFM170ES-4          0.156711
+812  Girlene Ferreira da Silva    SPGRFM97X-4          0.156221
+813  Girlene Ferreira da Silva   SHANFM109JS6          0.156210
+814  Girlene Ferreira da Silva    CMDAMC90BG3          0.155982
+
+
+Top recommendations for client Gleice Santos:
+         Client_ID      Product_ID  Predicted_Rating
+815  Gleice Santos   VEPCFM170ES-2          0.198471
+816  Gleice Santos  VEPCFM170ZRS-3          0.193897
+817  Gleice Santos   VEPSFM167BG14          0.151065
+818  Gleice Santos   VEPCFM170ES-4          0.149394
+819  Gleice Santos     CMDAMC90BG3          0.148963
+
+
+Recall at 5 for client Gleiciane Natali: 1.0
+Top recommendations for client Gleiciane Natali:
+            Client_ID      Product_ID  Predicted_Rating
+820  Gleiciane Natali  VEPCFM189XES14          0.181814
+821  Gleiciane Natali   VEPSFM167BG14          0.158935
+822  Gleiciane Natali   VEPCFM170ES-4          0.157221
+823  Gleiciane Natali     SPGRFM97X-4          0.156715
+824  Gleiciane Natali    SHANFM109JS6          0.156653
+
+
+Recall at 5 for client Grazielly Alves Ferreira: 0.0
+Top recommendations for client Grazielly Alves Ferreira:
+                    Client_ID     Product_ID  Predicted_Rating
+825  Grazielly Alves Ferreira  VEPSFM167BG14          0.159773
+826  Grazielly Alves Ferreira  VEPCFM170ES-4          0.158100
+827  Grazielly Alves Ferreira    SPGRFM97X-4          0.157592
+828  Grazielly Alves Ferreira   SHANFM109JS6          0.157556
+829  Grazielly Alves Ferreira    CMDAMC90BG3          0.157370
+
+
+Top recommendations for client Grazielly Aparecida :
+                Client_ID     Product_ID  Predicted_Rating
+830  Grazielly Aparecida   VEMOFM150OW14          0.161420
+831  Grazielly Aparecida   VEPSFM167BG14          0.159393
+832  Grazielly Aparecida   VEPCFM170ES-4          0.157710
+833  Grazielly Aparecida     SPGRFM97X-4          0.157221
+834  Grazielly Aparecida    SHANFM109JS6          0.157134
+
+
+Recall at 5 for client Hillary Vaz: 0.5
+Top recommendations for client Hillary Vaz:
+       Client_ID     Product_ID  Predicted_Rating
+835  Hillary Vaz    BSPSFM158RS          0.219926
+836  Hillary Vaz   LAMIFM45RS-1          0.207498
+837  Hillary Vaz  VEMIFM380RS-3          0.196696
+838  Hillary Vaz   CLDAMC104MR6          0.165988
+839  Hillary Vaz    SHMOFM27OW4          0.164600
+
+
+Top recommendations for client Hérika Karine Silva Cunha Ribeiro:
+                             Client_ID     Product_ID  Predicted_Rating
+840  Hérika Karine Silva Cunha Ribeiro  VEPCFM200RS-1          0.169448
+841  Hérika Karine Silva Cunha Ribeiro  VEPSFM167BG14          0.158479
+842  Hérika Karine Silva Cunha Ribeiro  VEPCFM170ES-4          0.156674
+843  Hérika Karine Silva Cunha Ribeiro   SHANFM109JS6          0.156269
+844  Hérika Karine Silva Cunha Ribeiro    SPGRFM97X-4          0.156265
+
+
+Top recommendations for client Ingrid Halum Pereira:
+                Client_ID     Product_ID  Predicted_Rating
+845  Ingrid Halum Pereira  SPTJMC127MM22          0.176262
+846  Ingrid Halum Pereira  SPTJMC127MM23          0.173260
+847  Ingrid Halum Pereira  VEPSFM167BG14          0.154128
+848  Ingrid Halum Pereira  VEPCFM170ES-4          0.152148
+849  Ingrid Halum Pereira    SPGRFM97X-4          0.151842
+
+
+Top recommendations for client Isabella De Almeida:
+               Client_ID     Product_ID  Predicted_Rating
+850  Isabella De Almeida   VEANFM227OW2          0.171699
+851  Isabella De Almeida  VEPSFM167BG14          0.158751
+852  Isabella De Almeida  VEPCFM170ES-4          0.157095
+853  Isabella De Almeida    SPGRFM97X-4          0.156615
+854  Isabella De Almeida   SHANFM109JS6          0.156528
+
+
+Top recommendations for client Isis Souza:
+      Client_ID     Product_ID  Predicted_Rating
+855  Isis Souza  VEPSFM167BG14          0.160209
+856  Isis Souza  VEPCFM170ES-4          0.158543
+857  Isis Souza    SPGRFM97X-4          0.158036
+858  Isis Souza   SHANFM109JS6          0.157980
+859  Isis Souza    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Ivania Fischer:
+          Client_ID     Product_ID  Predicted_Rating
+860  Ivania Fischer  SPTJFM119BG30          0.175859
+861  Ivania Fischer  VEPSFM167BG14          0.158579
+862  Ivania Fischer  VEPCFM170ES-4          0.156869
+863  Ivania Fischer   SHANFM109JS6          0.156325
+864  Ivania Fischer    SPGRFM97X-4          0.156321
+
+
+Recall at 5 for client Ivete Custódia Ferreira Costa: 0.5
+Top recommendations for client Ivete Custódia Ferreira Costa:
+                         Client_ID     Product_ID  Predicted_Rating
+865  Ivete Custódia Ferreira Costa  SAPSFM148OC12          0.256238
+866  Ivete Custódia Ferreira Costa   CLDAMC130BG8          0.202858
+867  Ivete Custódia Ferreira Costa    POUMMC90OW8          0.202067
+868  Ivete Custódia Ferreira Costa   VEUMFM140RX3          0.200208
+869  Ivete Custódia Ferreira Costa    VEMOFM80LS3          0.198669
+
+
+Top recommendations for client Ivete Gomes Bastos:
+              Client_ID     Product_ID  Predicted_Rating
+870  Ivete Gomes Bastos   BLMOFM45OW12          0.173202
+871  Ivete Gomes Bastos   BLMOFM50OW10          0.169177
+872  Ivete Gomes Bastos  VEPSFM167BG14          0.157054
+873  Ivete Gomes Bastos  VEPCFM170ES-4          0.155432
+874  Ivete Gomes Bastos   SHANFM109JS6          0.154758
+
+
+Top recommendations for client Jaciele de Freitas Andrade:
+                      Client_ID     Product_ID  Predicted_Rating
+875  Jaciele de Freitas Andrade            NaN          0.203971
+876  Jaciele de Freitas Andrade  VEPCFM160AZ-1          0.176656
+877  Jaciele de Freitas Andrade     BSPSFM80BG          0.171965
+878  Jaciele de Freitas Andrade  VEPSFM167BG14          0.142316
+879  Jaciele de Freitas Andrade  VEPCFM170ES-4          0.140801
+
+
+Top recommendations for client Jacqueline Visniewski:
+                 Client_ID     Product_ID  Predicted_Rating
+880  Jacqueline Visniewski  VEPCFM140PR-6          0.177807
+881  Jacqueline Visniewski  VEPSFM167BG14          0.158566
+882  Jacqueline Visniewski  VEPCFM170ES-4          0.156863
+883  Jacqueline Visniewski    SPGRFM97X-4          0.156278
+884  Jacqueline Visniewski   SHANFM109JS6          0.156235
+
+
+Top recommendations for client Jamilla Pêgo:
+        Client_ID     Product_ID  Predicted_Rating
+885  Jamilla Pêgo  VEPCFM210ES-6          0.188040
+886  Jamilla Pêgo  VEPSFM167BG14          0.157867
+887  Jamilla Pêgo  VEPCFM170ES-4          0.156218
+888  Jamilla Pêgo    SPGRFM97X-4          0.155750
+889  Jamilla Pêgo   SHANFM109JS6          0.155622
+
+
+Top recommendations for client Jamizi de Oliveira Pereira:
+                      Client_ID     Product_ID  Predicted_Rating
+890  Jamizi de Oliveira Pereira  SAANFM168JS10          0.171132
+891  Jamizi de Oliveira Pereira  VEPSFM167BG14          0.159054
+892  Jamizi de Oliveira Pereira  VEPCFM170ES-4          0.157381
+893  Jamizi de Oliveira Pereira    SPGRFM97X-4          0.156841
+894  Jamizi de Oliveira Pereira   SHANFM109JS6          0.156797
+
+
+Recall at 5 for client Jana Brito: 0.3333333333333333
+Top recommendations for client Jana Brito:
+      Client_ID     Product_ID  Predicted_Rating
+895  Jana Brito  CLIAFM128PR16          0.203674
+896  Jana Brito   SHTWFM90AZ16          0.195381
+897  Jana Brito  BLIAFM100PR16          0.191089
+898  Jana Brito    SPGRMC90-22          0.167537
+899  Jana Brito  CQPRFM202PR18          0.166445
+
+
+Top recommendations for client Jane Aparecida Freitas Rodrigues:
+                            Client_ID     Product_ID  Predicted_Rating
+900  Jane Aparecida Freitas Rodrigues  VEPCFM120RS-4          0.174709
+901  Jane Aparecida Freitas Rodrigues  VEPCFM160RS-5          0.173154
+902  Jane Aparecida Freitas Rodrigues  VEPSFM167BG14          0.156034
+903  Jane Aparecida Freitas Rodrigues  VEPCFM170ES-4          0.154376
+904  Jane Aparecida Freitas Rodrigues    SPGRFM97X-4          0.153805
+
+
+Recall at 5 for client Janeth Vaz Oliveira: 0.0
+Top recommendations for client Janeth Vaz Oliveira:
+               Client_ID    Product_ID  Predicted_Rating
+905  Janeth Vaz Oliveira   BLPSFM61OW4          0.505127
+906  Janeth Vaz Oliveira   BLPSFM55PR4          0.502911
+907  Janeth Vaz Oliveira   BLPSFM55BG4          0.502397
+908  Janeth Vaz Oliveira   BLPSFM61PR4          0.501552
+909  Janeth Vaz Oliveira  SAPSFM148OC4          0.501409
+
+
+Top recommendations for client Janille Adrielli Rodriguês dos Santos :
+                                  Client_ID     Product_ID  Predicted_Rating
+910  Janille Adrielli Rodriguês dos Santos     VECHFM48X-8          0.159106
+911  Janille Adrielli Rodriguês dos Santos   VEPSFM167BG14          0.158559
+912  Janille Adrielli Rodriguês dos Santos   VEPCFM170ES-4          0.156878
+913  Janille Adrielli Rodriguês dos Santos     SPGRFM97X-4          0.156398
+914  Janille Adrielli Rodriguês dos Santos    SHANFM109JS6          0.156334
+
+
+Recall at 5 for client Jaqueline Adas Pereira Venâncio: 1.0
+Top recommendations for client Jaqueline Adas Pereira Venâncio:
+                           Client_ID     Product_ID  Predicted_Rating
+915  Jaqueline Adas Pereira Venâncio  VEPCFM190PB-3          0.182609
+916  Jaqueline Adas Pereira Venâncio  VEPSFM167BG14          0.158076
+917  Jaqueline Adas Pereira Venâncio  VEPCFM170ES-4          0.156373
+918  Jaqueline Adas Pereira Venâncio    SPGRFM97X-4          0.155871
+919  Jaqueline Adas Pereira Venâncio   SHANFM109JS6          0.155775
+
+
+Top recommendations for client Jaqueline Dias:
+          Client_ID     Product_ID  Predicted_Rating
+920  Jaqueline Dias  CJMOFM150MM12          0.174338
+921  Jaqueline Dias  VEPSFM167BG14          0.158089
+922  Jaqueline Dias  VEPCFM170ES-4          0.156495
+923  Jaqueline Dias    SPGRFM97X-4          0.155813
+924  Jaqueline Dias   SHANFM109JS6          0.155794
+
+
+Top recommendations for client Jaqueline Nicolli:
+             Client_ID     Product_ID  Predicted_Rating
+925  Jaqueline Nicolli    SPGRFM97X-4          0.181488
+926  Jaqueline Nicolli  CJMOFM100ZOW4          0.170806
+927  Jaqueline Nicolli  VEPSFM167BG14          0.156008
+928  Jaqueline Nicolli  VEPCFM170ES-4          0.154450
+929  Jaqueline Nicolli    CMDAMC90BG3          0.153684
+
+
+Top recommendations for client Jeovania S Borges Soares:
+                    Client_ID     Product_ID  Predicted_Rating
+930  Jeovania S Borges Soares   BLPSFM80RS-6          0.177402
+931  Jeovania S Borges Soares    CJPCFM176-1          0.173376
+932  Jeovania S Borges Soares   BLPSFM55BG10          0.170389
+933  Jeovania S Borges Soares  VEPSFM167BG14          0.152659
+934  Jeovania S Borges Soares  VEPCFM170ES-4          0.150955
+
+
+Recall at 5 for client Jessica Geraldino de Sousa : 1.0
+Top recommendations for client Jessica Geraldino de Sousa :
+                       Client_ID     Product_ID  Predicted_Rating
+935  Jessica Geraldino de Sousa    CJCHMC82VD-1          0.199314
+936  Jessica Geraldino de Sousa   VEPSFM167BG14          0.159256
+937  Jessica Geraldino de Sousa   VEPCFM170ES-4          0.157593
+938  Jessica Geraldino de Sousa    SHANFM109JS6          0.157074
+939  Jessica Geraldino de Sousa     SPGRFM97X-4          0.157066
+
+
+Top recommendations for client Jessica Nobrega:
+           Client_ID     Product_ID  Predicted_Rating
+940  Jessica Nobrega  VEPSFM167BG14          0.160209
+941  Jessica Nobrega  VEPCFM170ES-4          0.158543
+942  Jessica Nobrega    SPGRFM97X-4          0.158036
+943  Jessica Nobrega   SHANFM109JS6          0.157980
+944  Jessica Nobrega    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Jessica Vieira :
+           Client_ID     Product_ID  Predicted_Rating
+945  Jessica Vieira    SPPTFM81CB-2          0.167812
+946  Jessica Vieira   VEPSFM167BG14          0.158835
+947  Jessica Vieira   VEPCFM170ES-4          0.157137
+948  Jessica Vieira     SPGRFM97X-4          0.156623
+949  Jessica Vieira    SHANFM109JS6          0.156566
+
+
+Top recommendations for client Jessika Júbe :
+         Client_ID     Product_ID  Predicted_Rating
+950  Jessika Júbe   VEPCFM190ES-5          0.167862
+951  Jessika Júbe   VEPSFM167BG14          0.159162
+952  Jessika Júbe   VEPCFM170ES-4          0.157439
+953  Jessika Júbe     SPGRFM97X-4          0.156990
+954  Jessika Júbe     CMDAMC90BG3          0.156856
+
+
+Recall at 5 for client Jildauva Silva Santos: 1.0
+Top recommendations for client Jildauva Silva Santos:
+                 Client_ID      Product_ID  Predicted_Rating
+955  Jildauva Silva Santos  VEPCFM209XBR14          0.176070
+956  Jildauva Silva Santos   VEPSFM167BG14          0.158475
+957  Jildauva Silva Santos   VEPCFM170ES-4          0.156792
+958  Jildauva Silva Santos     SPGRFM97X-4          0.156299
+959  Jildauva Silva Santos    SHANFM109JS6          0.156283
+
+
+Top recommendations for client Joana Marques:
+         Client_ID     Product_ID  Predicted_Rating
+960  Joana Marques  VEPCFM250ES-3          0.176984
+961  Joana Marques  VEPSFM167BG14          0.158086
+962  Joana Marques  VEPCFM170ES-4          0.156486
+963  Joana Marques    SPGRFM97X-4          0.155956
+964  Joana Marques   SHANFM109JS6          0.155897
+
+
+Top recommendations for client Joana Rossetto:
+          Client_ID     Product_ID  Predicted_Rating
+965  Joana Rossetto   PJFMAN118OW6          0.160653
+966  Joana Rossetto  VEPSFM167BG14          0.159326
+967  Joana Rossetto  VEPCFM170ES-4          0.157611
+968  Joana Rossetto    SPGRFM97X-4          0.157160
+969  Joana Rossetto   SHANFM109JS6          0.157079
+
+
+Top recommendations for client Joiceleide Costa:
+            Client_ID     Product_ID  Predicted_Rating
+970  Joiceleide Costa  VEANFM146PR16          0.179892
+971  Joiceleide Costa   BLMOFM45OW16          0.176443
+972  Joiceleide Costa  VEPSFM167BG14          0.155659
+973  Joiceleide Costa  VEPCFM170ES-4          0.153947
+974  Joiceleide Costa    SPGRFM97X-4          0.153338
+
+
+Recall at 5 for client Jordana Carvalho: 1.0
+Top recommendations for client Jordana Carvalho:
+            Client_ID     Product_ID  Predicted_Rating
+975  Jordana Carvalho   CJPCFM169VD4          0.177522
+976  Jordana Carvalho  VEPSFM167BG14          0.159325
+977  Jordana Carvalho  VEPCFM170ES-4          0.157679
+978  Jordana Carvalho    SPGRFM97X-4          0.157114
+979  Jordana Carvalho   SHANFM109JS6          0.157079
+
+
+Recall at 5 for client Jordana Diniz: 1.0
+Top recommendations for client Jordana Diniz:
+         Client_ID     Product_ID  Predicted_Rating
+980  Jordana Diniz   BLPSFM76BR14          0.192410
+981  Jordana Diniz  VEPSFM167BG14          0.159450
+982  Jordana Diniz  VEPCFM170ES-4          0.157789
+983  Jordana Diniz    SPGRFM97X-4          0.157259
+984  Jordana Diniz   SHANFM109JS6          0.157222
+
+
+Recall at 5 for client Jordana da Silva Wolski: 1.0
+Top recommendations for client Jordana da Silva Wolski:
+                   Client_ID     Product_ID  Predicted_Rating
+985  Jordana da Silva Wolski   SDPTFM90DR-3          0.181279
+986  Jordana da Silva Wolski   SPPCFM85CH-5          0.175532
+987  Jordana da Silva Wolski    CJMOFM90OW2          0.166184
+988  Jordana da Silva Wolski  VEPSFM167BG14          0.155532
+989  Jordana da Silva Wolski  VEPCFM170ES-4          0.153651
+
+
+Recall at 5 for client Josana Perina : 1.0
+Top recommendations for client Josana Perina :
+          Client_ID     Product_ID  Predicted_Rating
+990  Josana Perina    VEANFM219AZ4          0.174051
+991  Josana Perina   VEPSFM167BG14          0.158844
+992  Josana Perina   VEPCFM170ES-4          0.157233
+993  Josana Perina    SHANFM109JS6          0.156657
+994  Josana Perina     SPGRFM97X-4          0.156623
+
+
+Top recommendations for client Jossana França:
+          Client_ID     Product_ID  Predicted_Rating
+995  Jossana França  VEPCFM156ES12          0.176979
+996  Jossana França  CJANFM109OW12          0.171729
+997  Jossana França  VEPCFM146CL12          0.167001
+998  Jossana França  VEPSFM167BG14          0.152306
+999  Jossana França  VEPCFM170ES-4          0.150665
+
+
+Top recommendations for client Juliana Freitas :
+             Client_ID     Product_ID  Predicted_Rating
+1000  Juliana Freitas   VEPCFM260RS-5          0.185438
+1001  Juliana Freitas   VEPSFM167BG14          0.157264
+1002  Juliana Freitas   VEPCFM170ES-4          0.155431
+1003  Juliana Freitas    SHANFM109JS6          0.155172
+1004  Juliana Freitas     SPGRFM97X-4          0.155080
+
+
+Top recommendations for client Juliana Junqueira:
+              Client_ID     Product_ID  Predicted_Rating
+1005  Juliana Junqueira   SPGBMC136C-1          0.177442
+1006  Juliana Junqueira    CMKGMC25AZ6          0.169404
+1007  Juliana Junqueira  VEPSFM167BG14          0.156224
+1008  Juliana Junqueira  VEPCFM170ES-4          0.154528
+1009  Juliana Junqueira    SPGRFM97X-4          0.154202
+
+
+Top recommendations for client Juliane Torres :
+            Client_ID     Product_ID  Predicted_Rating
+1010  Juliane Torres   CJANFM168COW2          0.173725
+1011  Juliane Torres   VEPSFM167BG14          0.159065
+1012  Juliane Torres   VEPCFM170ES-4          0.157444
+1013  Juliane Torres     SPGRFM97X-4          0.156933
+1014  Juliane Torres    SHANFM109JS6          0.156834
+
+
+Top recommendations for client Jusciane Morais Resplandes:
+                       Client_ID     Product_ID  Predicted_Rating
+1015  Jusciane Morais Resplandes  VEPSFM167BG14          0.159486
+1016  Jusciane Morais Resplandes  VEPCFM170ES-4          0.157736
+1017  Jusciane Morais Resplandes   SHANFM109JS6          0.157240
+1018  Jusciane Morais Resplandes    SPGRFM97X-4          0.157226
+1019  Jusciane Morais Resplandes    CMDAMC90BG3          0.157110
+
+
+Recall at 5 for client Jussara Xavier: 1.0
+Top recommendations for client Jussara Xavier:
+           Client_ID     Product_ID  Predicted_Rating
+1020  Jussara Xavier    BEUMMC90XD6          0.190995
+1021  Jussara Xavier    BEDAMC95VR8          0.172647
+1022  Jussara Xavier    BEDAMC73BG6          0.171200
+1023  Jussara Xavier   CMDAMC72XOW4          0.153537
+1024  Jussara Xavier  VEPSFM167BG14          0.153452
+
+
+Recall at 5 for client Jussiara Zaiaczkoski Nunes Zamo : 1.0
+Top recommendations for client Jussiara Zaiaczkoski Nunes Zamo :
+                             Client_ID     Product_ID  Predicted_Rating
+1025  Jussiara Zaiaczkoski Nunes Zamo   SPTJFM124PR29          0.171699
+1026  Jussiara Zaiaczkoski Nunes Zamo   SPTJFM124PR30          0.170167
+1027  Jussiara Zaiaczkoski Nunes Zamo   VEPSFM167BG14          0.155892
+1028  Jussiara Zaiaczkoski Nunes Zamo   VEPCFM170ES-4          0.154153
+1029  Jussiara Zaiaczkoski Nunes Zamo     SPGRFM97X-4          0.153668
+
+
+Top recommendations for client Kamilla Mesquita Beltrao Baracuhy:
+                              Client_ID     Product_ID  Predicted_Rating
+1030  Kamilla Mesquita Beltrao Baracuhy   VEPSFM427RS8          0.212709
+1031  Kamilla Mesquita Beltrao Baracuhy  VEPSFM167BG14          0.154882
+1032  Kamilla Mesquita Beltrao Baracuhy  VEPCFM170ES-4          0.152951
+1033  Kamilla Mesquita Beltrao Baracuhy    SPGRFM97X-4          0.152618
+1034  Kamilla Mesquita Beltrao Baracuhy   SHANFM109JS6          0.152593
+
+
+Top recommendations for client Kariane Santos:
+           Client_ID     Product_ID  Predicted_Rating
+1035  Kariane Santos  JQANFM178OW12          0.174769
+1036  Kariane Santos  VEPSFM167BG14          0.158448
+1037  Kariane Santos  VEPCFM170ES-4          0.156758
+1038  Kariane Santos    SPGRFM97X-4          0.156212
+1039  Kariane Santos   SHANFM109JS6          0.156164
+
+
+Top recommendations for client Karla Caldas Bicalho:
+                 Client_ID     Product_ID  Predicted_Rating
+1040  Karla Caldas Bicalho    SAANFM87PR8          0.165493
+1041  Karla Caldas Bicalho  VEPSFM167BG14          0.159315
+1042  Karla Caldas Bicalho  VEPCFM170ES-4          0.157548
+1043  Karla Caldas Bicalho    SPGRFM97X-4          0.157150
+1044  Karla Caldas Bicalho    CMDAMC90BG3          0.156933
+
+
+Top recommendations for client Karoline Gorgen:
+            Client_ID    Product_ID  Predicted_Rating
+1045  Karoline Gorgen  BLDAMC150BG8          0.202755
+1046  Karoline Gorgen  BLPSFM65PR10          0.200443
+1047  Karoline Gorgen  BLPSFM75RS14          0.198511
+1048  Karoline Gorgen  SAPSFM126ES8          0.196003
+1049  Karoline Gorgen  BLPSFM55BG14          0.195527
+
+
+Top recommendations for client Katheryne Fátima Dalmolin Serpa:
+                            Client_ID     Product_ID  Predicted_Rating
+1050  Katheryne Fátima Dalmolin Serpa  CJPCFM129ZES8          0.175612
+1051  Katheryne Fátima Dalmolin Serpa    CJKGMC75OW4          0.166982
+1052  Katheryne Fátima Dalmolin Serpa  VEPSFM167BG14          0.157347
+1053  Katheryne Fátima Dalmolin Serpa  VEPCFM170ES-4          0.155644
+1054  Katheryne Fátima Dalmolin Serpa    SPGRFM97X-4          0.155123
+
+
+Recall at 5 for client Keiliany Teodoro Moura: 1.0
+Top recommendations for client Keiliany Teodoro Moura:
+                   Client_ID     Product_ID  Predicted_Rating
+1055  Keiliany Teodoro Moura    BEBEFM80LR2          0.185524
+1056  Keiliany Teodoro Moura  VEPSFM167BG14          0.159267
+1057  Keiliany Teodoro Moura  VEPCFM170ES-4          0.157615
+1058  Keiliany Teodoro Moura    SPGRFM97X-4          0.157124
+1059  Keiliany Teodoro Moura   SHANFM109JS6          0.157013
+
+
+Top recommendations for client Kelly Zamignam:
+           Client_ID    Product_ID  Predicted_Rating
+1060  Kelly Zamignam   BLPSFM61RS2          0.208814
+1061  Kelly Zamignam  CSANFM137PR2          0.205961
+1062  Kelly Zamignam   SAANFM87PR2          0.198192
+1063  Kelly Zamignam  BLANFM128OW2          0.197391
+1064  Kelly Zamignam  CJMOFM120OW2          0.196231
+
+
+Recall at 5 for client Kellyn Magalhaes da Rosa Queiroz: 0.0
+Top recommendations for client Kellyn Magalhaes da Rosa Queiroz:
+                             Client_ID     Product_ID  Predicted_Rating
+1065  Kellyn Magalhaes da Rosa Queiroz   VEFMAN273BR4          0.181535
+1066  Kellyn Magalhaes da Rosa Queiroz  VEPSFM167BG14          0.157694
+1067  Kellyn Magalhaes da Rosa Queiroz  VEPCFM170ES-4          0.155892
+1068  Kellyn Magalhaes da Rosa Queiroz    SPGRFM97X-4          0.155496
+1069  Kellyn Magalhaes da Rosa Queiroz   SHANFM109JS6          0.155469
+
+
+Top recommendations for client Klívia Gleicy Silva:
+                Client_ID     Product_ID  Predicted_Rating
+1070  Klívia Gleicy Silva   CJFMAN187VD2          0.191499
+1071  Klívia Gleicy Silva    SPGRFM97Y-4          0.188395
+1072  Klívia Gleicy Silva   VEFMAN182BG4          0.185952
+1073  Klívia Gleicy Silva  VEPSFM167BG14          0.149817
+1074  Klívia Gleicy Silva  VEPCFM170ES-4          0.148143
+
+
+Top recommendations for client Laise Camargo :
+           Client_ID     Product_ID  Predicted_Rating
+1075  Laise Camargo    CJFMMO138VR8          0.177215
+1076  Laise Camargo   VEPSFM167BG14          0.159406
+1077  Laise Camargo   VEPCFM170ES-4          0.157668
+1078  Laise Camargo    SHANFM109JS6          0.157155
+1079  Laise Camargo     SPGRFM97X-4          0.157135
+
+
+Recall at 5 for client Lara Cristina Lacerda Silva: 0.5
+Top recommendations for client Lara Cristina Lacerda Silva:
+                        Client_ID     Product_ID  Predicted_Rating
+1080  Lara Cristina Lacerda Silva   VEANFM170PR4          0.211926
+1081  Lara Cristina Lacerda Silva  CJANFM178XPR4          0.210737
+1082  Lara Cristina Lacerda Silva   SPPTFM85PT-3          0.206494
+1083  Lara Cristina Lacerda Silva   BLANFM70XOW4          0.205855
+1084  Lara Cristina Lacerda Silva    BLANFM69OW4          0.201517
+
+
+Top recommendations for client Lara Lowhynne Bispo de Souza:
+                         Client_ID     Product_ID  Predicted_Rating
+1085  Lara Lowhynne Bispo de Souza  VEPSFM167BG14          0.159437
+1086  Lara Lowhynne Bispo de Souza  BLANFM73AOW10          0.158256
+1087  Lara Lowhynne Bispo de Souza  VEPCFM170ES-4          0.157706
+1088  Lara Lowhynne Bispo de Souza   SHANFM109JS6          0.157201
+1089  Lara Lowhynne Bispo de Souza    SPGRFM97X-4          0.157187
+
+
+Recall at 5 for client Larissa Caroline: 1.0
+Top recommendations for client Larissa Caroline:
+             Client_ID     Product_ID  Predicted_Rating
+1090  Larissa Caroline   SAPSFM120BG2          0.257038
+1091  Larissa Caroline   BLPSFM132BG2          0.193627
+1092  Larissa Caroline     BSPSFM80BG          0.187759
+1093  Larissa Caroline  VEPSFM167BG14          0.145823
+1094  Larissa Caroline  VEPCFM170ES-4          0.144325
+
+
+Top recommendations for client Larissa D:
+      Client_ID     Product_ID  Predicted_Rating
+1095  Larissa D  VEPSFM167BG14          0.160209
+1096  Larissa D  VEPCFM170ES-4          0.158543
+1097  Larissa D    SPGRFM97X-4          0.158036
+1098  Larissa D   SHANFM109JS6          0.157980
+1099  Larissa D    CMDAMC90BG3          0.157852
+
+
+Recall at 5 for client Larissa Dalsoto: 0.0
+Top recommendations for client Larissa Dalsoto:
+            Client_ID     Product_ID  Predicted_Rating
+1100  Larissa Dalsoto  SAPSFM120BG10          0.258546
+1101  Larissa Dalsoto  BLPSFM132BG10          0.247289
+1102  Larissa Dalsoto  CJMOFM129PR12          0.246941
+1103  Larissa Dalsoto  SHANFM100PR10          0.244282
+1104  Larissa Dalsoto  JQANFM182RS12          0.239756
+
+
+Top recommendations for client Larissa Muxfeldt:
+             Client_ID     Product_ID  Predicted_Rating
+1105  Larissa Muxfeldt   SPPTFM97PT-4          0.165655
+1106  Larissa Muxfeldt  VEPSFM167BG14          0.158656
+1107  Larissa Muxfeldt  VEPCFM170ES-4          0.156915
+1108  Larissa Muxfeldt   SHANFM109JS6          0.156372
+1109  Larissa Muxfeldt    SPGRFM97X-4          0.156357
+
+
+Top recommendations for client Larissa da Silva:
+             Client_ID     Product_ID  Predicted_Rating
+1110  Larissa da Silva  VEPSFM167BG14          0.160209
+1111  Larissa da Silva  VEPCFM170ES-4          0.158543
+1112  Larissa da Silva    SPGRFM97X-4          0.158036
+1113  Larissa da Silva   SHANFM109JS6          0.157980
+1114  Larissa da Silva    CMDAMC90BG3          0.157852
+
+
+Recall at 5 for client Latifa Buzzo: 0.0
+Top recommendations for client Latifa Buzzo:
+         Client_ID     Product_ID  Predicted_Rating
+1115  Latifa Buzzo  POCHMC63BR-18          0.163054
+1116  Latifa Buzzo    POUMMC90MR6          0.159674
+1117  Latifa Buzzo    CMCHMC38-20          0.156133
+1118  Latifa Buzzo    VECHFM60-18          0.155005
+1119  Latifa Buzzo  VEPSFM167BG14          0.154703
+
+
+Top recommendations for client Laura Abadia:
+         Client_ID     Product_ID  Predicted_Rating
+1120  Laura Abadia   CJKGMC70XMR3          0.173758
+1121  Laura Abadia  CJKGMC70XMR12          0.167445
+1122  Laura Abadia  VEPSFM167BG14          0.156173
+1123  Laura Abadia  VEPCFM170ES-4          0.154701
+1124  Laura Abadia    SPGRFM97X-4          0.154170
+
+
+Recall at 5 for client Leane Oliveira: 0.5
+Top recommendations for client Leane Oliveira:
+           Client_ID     Product_ID  Predicted_Rating
+1125  Leane Oliveira    CAMOFM80OW8          0.173932
+1126  Leane Oliveira  CJMCYC150BR12          0.173669
+1127  Leane Oliveira    CLBEFM50PR8          0.171733
+1128  Leane Oliveira   CJMOFM129PR6          0.171401
+1129  Leane Oliveira   SPPTFM97PT-3          0.160920
+
+
+Top recommendations for client Lenora Nery:
+        Client_ID     Product_ID  Predicted_Rating
+1130  Lenora Nery     BSPSFM80BG          0.165229
+1131  Lenora Nery  VEPSFM167BG14          0.158992
+1132  Lenora Nery  VEPCFM170ES-4          0.157355
+1133  Lenora Nery    SPGRFM97X-4          0.156838
+1134  Lenora Nery   SHANFM109JS6          0.156712
+
+
+Top recommendations for client Lidia Neves:
+        Client_ID     Product_ID  Predicted_Rating
+1135  Lidia Neves  VEPCFM169BR12          0.162810
+1136  Lidia Neves  VEPSFM167BG14          0.159269
+1137  Lidia Neves  VEPCFM170ES-4          0.157524
+1138  Lidia Neves    SPGRFM97X-4          0.157056
+1139  Lidia Neves   SHANFM109JS6          0.156998
+
+
+Recall at 5 for client Liliane Pacheco: 1.0
+Top recommendations for client Liliane Pacheco:
+            Client_ID     Product_ID  Predicted_Rating
+1140  Liliane Pacheco   BAUMMC109OW8          0.177197
+1141  Liliane Pacheco  SPTJMC127MM27          0.176638
+1142  Liliane Pacheco    CMKGMC22OW6          0.158542
+1143  Liliane Pacheco  VEPSFM167BG14          0.151889
+1144  Liliane Pacheco  VEPCFM170ES-4          0.150067
+
+
+Top recommendations for client Lillie Lima Dos Santos Sousa :
+                          Client_ID     Product_ID  Predicted_Rating
+1145  Lillie Lima Dos Santos Sousa     VEPCFM182-4          0.164152
+1146  Lillie Lima Dos Santos Sousa   VEPSFM167BG14          0.159280
+1147  Lillie Lima Dos Santos Sousa   VEPCFM170ES-4          0.157604
+1148  Lillie Lima Dos Santos Sousa     SPGRFM97X-4          0.157141
+1149  Lillie Lima Dos Santos Sousa    SHANFM109JS6          0.157029
+
+
+Top recommendations for client Lisa Perillo:
+         Client_ID     Product_ID  Predicted_Rating
+1150  Lisa Perillo    SPGRFM93Z-3          0.178567
+1151  Lisa Perillo  VELCFM179WRS2          0.177620
+1152  Lisa Perillo     SDGRFM85-3          0.173200
+1153  Lisa Perillo    SPGRFM93Z-4          0.155749
+1154  Lisa Perillo  VEPSFM167BG14          0.151616
+
+
+Recall at 5 for client Livia Coelho Sampaio: 1.0
+Top recommendations for client Livia Coelho Sampaio:
+                 Client_ID      Product_ID  Predicted_Rating
+1155  Livia Coelho Sampaio  CJANFM145ARS10          0.193734
+1156  Livia Coelho Sampaio  CJANFM195BBG10          0.187453
+1157  Livia Coelho Sampaio  CJBEFM109XRS10          0.179820
+1158  Livia Coelho Sampaio   CJPCFM179RS10          0.163007
+1159  Livia Coelho Sampaio   VEPSFM167BG14          0.143157
+
+
+Top recommendations for client Lohany Setmaier:
+            Client_ID     Product_ID  Predicted_Rating
+1160  Lohany Setmaier    VEBEFM98RS2          0.172329
+1161  Lohany Setmaier  VEPSFM167BG14          0.159298
+1162  Lohany Setmaier  VEPCFM170ES-4          0.157573
+1163  Lohany Setmaier   SHANFM109JS6          0.157046
+1164  Lohany Setmaier    SPGRFM97X-4          0.157017
+
+
+Top recommendations for client Lorena Praxedes:
+            Client_ID     Product_ID  Predicted_Rating
+1165  Lorena Praxedes   CMDAMC71XOW2          0.165598
+1166  Lorena Praxedes    SHBEFM60RS1          0.163976
+1167  Lorena Praxedes  VEPSFM167BG14          0.157511
+1168  Lorena Praxedes  VEPCFM170ES-4          0.155734
+1169  Lorena Praxedes    SPGRFM97X-4          0.155345
+
+
+Top recommendations for client Lorenna Ferreira Pina Pestana:
+                          Client_ID     Product_ID  Predicted_Rating
+1170  Lorenna Ferreira Pina Pestana   TNGRMC85MR25          0.162304
+1171  Lorenna Ferreira Pina Pestana   TNGRMC85MR26          0.161451
+1172  Lorenna Ferreira Pina Pestana  VEPSFM167BG14          0.158171
+1173  Lorenna Ferreira Pina Pestana  VEPCFM170ES-4          0.156544
+1174  Lorenna Ferreira Pina Pestana    SPGRFM97X-4          0.155953
+
+
+Top recommendations for client Lorenna Rezende:
+            Client_ID     Product_ID  Predicted_Rating
+1175  Lorenna Rezende    BLPSFM76BR4          0.187178
+1176  Lorenna Rezende  VEPCFM240VD-4          0.184018
+1177  Lorenna Rezende   SPPTFM81CB-3          0.176513
+1178  Lorenna Rezende            NaN          0.175415
+1179  Lorenna Rezende    SPGRFM97-10          0.153639
+
+
+Top recommendations for client Lorranny Nunes de Melo:
+                   Client_ID      Product_ID  Predicted_Rating
+1180  Lorranny Nunes de Melo  CMDAMC7373ZLR6          0.165234
+1181  Lorranny Nunes de Melo     BLMOFM48PK4          0.164616
+1182  Lorranny Nunes de Melo     MQFMMO96AZ4          0.163320
+1183  Lorranny Nunes de Melo   VEPSFM167BG14          0.155470
+1184  Lorranny Nunes de Melo   VEPCFM170ES-4          0.153858
+
+
+Recall at 5 for client Lorrany Fernanda: 1.0
+Top recommendations for client Lorrany Fernanda:
+             Client_ID      Product_ID  Predicted_Rating
+1185  Lorrany Fernanda  CJFMAN195XOW10          0.184466
+1186  Lorrany Fernanda    CMKGMC53AL10          0.168967
+1187  Lorrany Fernanda   VEPSFM167BG14          0.157936
+1188  Lorrany Fernanda   VEPCFM170ES-4          0.156239
+1189  Lorrany Fernanda    SHANFM109JS6          0.155647
+
+
+Recall at 5 for client Luana Nazare: 0.0
+Top recommendations for client Luana Nazare:
+         Client_ID     Product_ID  Predicted_Rating
+1190  Luana Nazare  VEPSFM167BG14          0.159593
+1191  Luana Nazare  VEPCFM170ES-4          0.157959
+1192  Luana Nazare    SPGRFM97X-4          0.157487
+1193  Luana Nazare   SHANFM109JS6          0.157378
+1194  Luana Nazare    CMDAMC90BG3          0.157268
+
+
+Top recommendations for client Luana Salua Alvez de Souza:
+                       Client_ID     Product_ID  Predicted_Rating
+1195  Luana Salua Alvez de Souza    VECHFM60-23          0.164158
+1196  Luana Salua Alvez de Souza   BLPSFM65PR14          0.162747
+1197  Luana Salua Alvez de Souza  VEPSFM167BG14          0.158924
+1198  Luana Salua Alvez de Souza  VEPCFM170ES-4          0.157252
+1199  Luana Salua Alvez de Souza    SPGRFM97X-4          0.156588
+
+
+Top recommendations for client Lucilene Gomes de Oliveira:
+                       Client_ID     Product_ID  Predicted_Rating
+1200  Lucilene Gomes de Oliveira  CJFMAN187VD10          0.182783
+1201  Lucilene Gomes de Oliveira  CJFMAN187VD12          0.178327
+1202  Lucilene Gomes de Oliveira  VEPSFM167BG14          0.155182
+1203  Lucilene Gomes de Oliveira  VEPCFM170ES-4          0.153477
+1204  Lucilene Gomes de Oliveira   SHANFM109JS6          0.153062
+
+
+Top recommendations for client Lucimar Cristina Rodrigues :
+                        Client_ID     Product_ID  Predicted_Rating
+1205  Lucimar Cristina Rodrigues   VEPSFM167BG14          0.160209
+1206  Lucimar Cristina Rodrigues   VEPCFM170ES-4          0.158543
+1207  Lucimar Cristina Rodrigues     SPGRFM97X-4          0.158036
+1208  Lucimar Cristina Rodrigues    SHANFM109JS6          0.157980
+1209  Lucimar Cristina Rodrigues     CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Lucimar Santos:
+           Client_ID     Product_ID  Predicted_Rating
+1210  Lucimar Santos  VEPSFM167BG14          0.160209
+1211  Lucimar Santos  VEPCFM170ES-4          0.158543
+1212  Lucimar Santos    SPGRFM97X-4          0.158036
+1213  Lucimar Santos   SHANFM109JS6          0.157980
+1214  Lucimar Santos    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Lucyana Damaso:
+           Client_ID    Product_ID  Predicted_Rating
+1215  Lucyana Damaso   BEDAMC73BG2          0.196568
+1216  Lucyana Damaso  BLDAMC176JS6          0.195775
+1217  Lucyana Damaso  BLDAMC176JS2          0.190749
+1218  Lucyana Damaso   CMDAMC89BG2          0.163285
+1219  Lucyana Damaso   BEDAMC88BG3          0.155321
+
+
+Recall at 5 for client Ludmilla Bahia Peres: 1.0
+Top recommendations for client Ludmilla Bahia Peres:
+                 Client_ID     Product_ID  Predicted_Rating
+1220  Ludmilla Bahia Peres    CMDAMC82CZ2          0.199432
+1221  Ludmilla Bahia Peres  VEPSFM230OW-3          0.194623
+1222  Ludmilla Bahia Peres   BLPSFM76XRS6          0.187443
+1223  Ludmilla Bahia Peres    CLPSFM80ES6          0.174706
+1224  Ludmilla Bahia Peres  VEPSFM167BG14          0.144663
+
+
+Recall at 5 for client Luiza Helena Pontes Costa: 0.3333333333333333
+Top recommendations for client Luiza Helena Pontes Costa:
+                      Client_ID     Product_ID  Predicted_Rating
+1225  Luiza Helena Pontes Costa   CAKGMC42AZ12          0.192046
+1226  Luiza Helena Pontes Costa   BEUMMCMR7912          0.191951
+1227  Luiza Helena Pontes Costa   BLUMMC50MR12          0.190295
+1228  Luiza Helena Pontes Costa  CJYCMC100CZ10          0.189822
+1229  Luiza Helena Pontes Costa   CMKGMC31VD12          0.189164
+
+
+Recall at 5 for client Luma Isabela Coelho Rodrigues: 1.0
+Top recommendations for client Luma Isabela Coelho Rodrigues:
+                          Client_ID     Product_ID  Predicted_Rating
+1230  Luma Isabela Coelho Rodrigues  CJPCFM162ES14          0.200244
+1231  Luma Isabela Coelho Rodrigues  JQANFM178OW16          0.200176
+1232  Luma Isabela Coelho Rodrigues  CJPCFM180ES-5          0.188966
+1233  Luma Isabela Coelho Rodrigues  SAANFM100OW16          0.180507
+1234  Luma Isabela Coelho Rodrigues  VEPSFM167BG14          0.147244
+
+
+Top recommendations for client Luzia Carolina Silva Silvestre:
+                           Client_ID     Product_ID  Predicted_Rating
+1235  Luzia Carolina Silva Silvestre   CMKGMC35XVD6          0.185706
+1236  Luzia Carolina Silva Silvestre    CMKGMC31OW6          0.176238
+1237  Luzia Carolina Silva Silvestre  CJMOFM138OW12          0.171341
+1238  Luzia Carolina Silva Silvestre  VEPSFM167BG14          0.154373
+1239  Luzia Carolina Silva Silvestre  VEPCFM170ES-4          0.152748
+
+
+Recall at 5 for client Lyandra Costa: 0.3333333333333333
+Top recommendations for client Lyandra Costa:
+          Client_ID     Product_ID  Predicted_Rating
+1240  Lyandra Costa    CMBEMC35OW3          0.196001
+1241  Lyandra Costa   BLDAMC150BG3          0.194215
+1242  Lyandra Costa  TNDAMC180BG23          0.193873
+1243  Lyandra Costa    CMBEMC35MR3          0.192548
+1244  Lyandra Costa    CMDAMC90BG3          0.190254
+
+
+Top recommendations for client Léa de Oliveira:
+            Client_ID     Product_ID  Predicted_Rating
+1245  Léa de Oliveira   SAPSFM127AZ6          0.173403
+1246  Léa de Oliveira  VEPSFM167BG14          0.159324
+1247  Léa de Oliveira  VEPCFM170ES-4          0.157660
+1248  Léa de Oliveira    SPGRFM97X-4          0.157177
+1249  Léa de Oliveira   SHANFM109JS6          0.157103
+
+
+Recall at 5 for client Lívia Levino Cavalcante: 1.0
+Top recommendations for client Lívia Levino Cavalcante:
+                    Client_ID      Product_ID  Predicted_Rating
+1250  Lívia Levino Cavalcante   VEPCFM170VD-2          0.210920
+1251  Lívia Levino Cavalcante  VEPCFM170XVD-2          0.209919
+1252  Lívia Levino Cavalcante  VEPCFM170XRS-2          0.195375
+1253  Lívia Levino Cavalcante   VELCFM179WAZ2          0.191184
+1254  Lívia Levino Cavalcante    VEPCFM209ES2          0.168535
+
+
+Recall at 5 for client Lívia Tereza de Araújo Barros Lobo: 1.0
+Top recommendations for client Lívia Tereza de Araújo Barros Lobo:
+                               Client_ID     Product_ID  Predicted_Rating
+1255  Lívia Tereza de Araújo Barros Lobo   VEPCFM179VD4          0.206930
+1256  Lívia Tereza de Araújo Barros Lobo  VEPSFM167BG14          0.159086
+1257  Lívia Tereza de Araújo Barros Lobo  VEPCFM170ES-4          0.157390
+1258  Lívia Tereza de Araújo Barros Lobo    SPGRFM97X-4          0.156869
+1259  Lívia Tereza de Araújo Barros Lobo   SHANFM109JS6          0.156821
+
+
+Top recommendations for client Madalena:
+     Client_ID    Product_ID  Predicted_Rating
+1260  Madalena   BLMOFM40OW2          0.207675
+1261  Madalena   BLPSFM83BG2          0.206144
+1262  Madalena  VEPSFM190RS2          0.205613
+1263  Madalena  CLPSFM101BG2          0.204813
+1264  Madalena  CJBEFM100RS2          0.204420
+
+
+Top recommendations for client Maikelin Sandri dos Passos:
+                       Client_ID     Product_ID  Predicted_Rating
+1265  Maikelin Sandri dos Passos    CMDAMC82CZ6          0.186912
+1266  Maikelin Sandri dos Passos    CMDAMC90OW6          0.173089
+1267  Maikelin Sandri dos Passos  VEPSFM167BG14          0.155966
+1268  Maikelin Sandri dos Passos  VEPCFM170ES-4          0.154407
+1269  Maikelin Sandri dos Passos    SPGRFM97X-4          0.153941
+
+
+Top recommendations for client Marcela Castelo Camargo :
+                     Client_ID     Product_ID  Predicted_Rating
+1270  Marcela Castelo Camargo   VEPSFM167BG14          0.160209
+1271  Marcela Castelo Camargo   VEPCFM170ES-4          0.158543
+1272  Marcela Castelo Camargo     SPGRFM97X-4          0.158036
+1273  Marcela Castelo Camargo    SHANFM109JS6          0.157980
+1274  Marcela Castelo Camargo     CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Marcella Melo :
+           Client_ID     Product_ID  Predicted_Rating
+1275  Marcella Melo   VEPSFM167BG14          0.159824
+1276  Marcella Melo     CJMOFM70VR8          0.158909
+1277  Marcella Melo   VEPCFM170ES-4          0.158151
+1278  Marcella Melo     SPGRFM97X-4          0.157658
+1279  Marcella Melo    SHANFM109JS6          0.157603
+
+
+Top recommendations for client Maria Carolina:
+           Client_ID     Product_ID  Predicted_Rating
+1280  Maria Carolina  VEPSFM167BG14          0.160209
+1281  Maria Carolina  VEPCFM170ES-4          0.158543
+1282  Maria Carolina    SPGRFM97X-4          0.158036
+1283  Maria Carolina   SHANFM109JS6          0.157980
+1284  Maria Carolina    CMDAMC90BG3          0.157852
+
+
+Recall at 5 for client Maria Do Rosário Praça : 1.0
+Top recommendations for client Maria Do Rosário Praça :
+                    Client_ID      Product_ID  Predicted_Rating
+1285  Maria Do Rosário Praça   VEPCFM189XES12          0.174063
+1286  Maria Do Rosário Praça    VEPSFM167BG14          0.158657
+1287  Maria Do Rosário Praça    VEPCFM170ES-4          0.156967
+1288  Maria Do Rosário Praça      SPGRFM97X-4          0.156414
+1289  Maria Do Rosário Praça     SHANFM109JS6          0.156353
+
+
+Top recommendations for client Maria Elaine de Oliveira:
+                     Client_ID      Product_ID  Predicted_Rating
+1290  Maria Elaine de Oliveira  VEPCFM189XES12          0.173770
+1291  Maria Elaine de Oliveira   VEPSFM167BG14          0.158410
+1292  Maria Elaine de Oliveira   VEPCFM170ES-4          0.156716
+1293  Maria Elaine de Oliveira     SPGRFM97X-4          0.156155
+1294  Maria Elaine de Oliveira    SHANFM109JS6          0.156093
+
+
+Recall at 5 for client Maria Eugenia de Araújo Fortes da Silveira: 1.0
+Top recommendations for client Maria Eugenia de Araújo Fortes da Silveira:
+                                       Client_ID  ... Predicted_Rating
+1295  Maria Eugenia de Araújo Fortes da Silveira  ...         0.194447
+1296  Maria Eugenia de Araújo Fortes da Silveira  ...         0.175221
+1297  Maria Eugenia de Araújo Fortes da Silveira  ...         0.172642
+1298  Maria Eugenia de Araújo Fortes da Silveira  ...         0.161875
+1299  Maria Eugenia de Araújo Fortes da Silveira  ...         0.150244
+
+[5 rows x 3 columns]
+
+
+Recall at 5 for client Maria Kalcilene de Oliveira Silva: 0.5
+Top recommendations for client Maria Kalcilene de Oliveira Silva:
+                              Client_ID     Product_ID  Predicted_Rating
+1300  Maria Kalcilene de Oliveira Silva   BLANFM73ZOW6          0.204575
+1301  Maria Kalcilene de Oliveira Silva    BLPSFM83RS6          0.185166
+1302  Maria Kalcilene de Oliveira Silva   BLANFM73AOW6          0.182724
+1303  Maria Kalcilene de Oliveira Silva   CJCHMC72VD-3          0.182399
+1304  Maria Kalcilene de Oliveira Silva  SPTJMC133PR-7          0.178243
+
+
+Top recommendations for client Maria Luiza Guimarães :
+                   Client_ID     Product_ID  Predicted_Rating
+1305  Maria Luiza Guimarães    CJUMFM170RS6          0.166697
+1306  Maria Luiza Guimarães   VEPSFM167BG14          0.159211
+1307  Maria Luiza Guimarães   VEPCFM170ES-4          0.157414
+1308  Maria Luiza Guimarães    SHANFM109JS6          0.156977
+1309  Maria Luiza Guimarães     SPGRFM97X-4          0.156896
+
+
+Top recommendations for client Maria Lúcia :
+         Client_ID     Product_ID  Predicted_Rating
+1310  Maria Lúcia     VECHFM48X-8          0.161484
+1311  Maria Lúcia   VEPSFM167BG14          0.159426
+1312  Maria Lúcia   VEPCFM170ES-4          0.157714
+1313  Maria Lúcia     SPGRFM97X-4          0.157228
+1314  Maria Lúcia    SHANFM109JS6          0.157178
+
+
+Recall at 5 for client Maria Rita: 1.0
+Top recommendations for client Maria Rita:
+       Client_ID     Product_ID  Predicted_Rating
+1315  Maria Rita    BLPSFM75RS4          0.214255
+1316  Maria Rita    BLMOFM48RS4          0.166381
+1317  Maria Rita            NaN          0.158808
+1318  Maria Rita  VEPSFM167BG14          0.155343
+1319  Maria Rita  VEPCFM170ES-4          0.153541
+
+
+Recall at 5 for client Mariana Teles: 0.6666666666666666
+Top recommendations for client Mariana Teles:
+          Client_ID    Product_ID  Predicted_Rating
+1320  Mariana Teles  MQANFM128JS4          0.221410
+1321  Mariana Teles  SAMOFM110OW3          0.218597
+1322  Mariana Teles   BLPSFM83RS2          0.217303
+1323  Mariana Teles   CJBEFM98RS2          0.175586
+1324  Mariana Teles    CJPS392RS4          0.167125
+
+
+Top recommendations for client Mariana Vieira:
+           Client_ID     Product_ID  Predicted_Rating
+1325  Mariana Vieira  CJMCYC110OW10          0.171127
+1326  Mariana Vieira   BEKGMC63MR10          0.159657
+1327  Mariana Vieira  VEPSFM167BG14          0.156787
+1328  Mariana Vieira  VEPCFM170ES-4          0.154969
+1329  Mariana Vieira    SPGRFM97X-4          0.154631
+
+
+Top recommendations for client Mariana de Matos Loiola :
+                     Client_ID     Product_ID  Predicted_Rating
+1330  Mariana de Matos Loiola   VEPSFM167BG14          0.159722
+1331  Mariana de Matos Loiola   VEPCFM170ES-4          0.158049
+1332  Mariana de Matos Loiola     SPGRFM97X-4          0.157493
+1333  Mariana de Matos Loiola    SHANFM109JS6          0.157462
+1334  Mariana de Matos Loiola     CMDAMC90BG3          0.157298
+
+
+Top recommendations for client Marina Morais :
+           Client_ID     Product_ID  Predicted_Rating
+1335  Marina Morais    VEPCFM139RS8          0.173009
+1336  Marina Morais   BTPTFM120CB-4          0.165067
+1337  Marina Morais      SDGRFM85-9          0.163860
+1338  Marina Morais   VEPSFM167BG14          0.154310
+1339  Marina Morais   VEPCFM170ES-4          0.152600
+
+
+Top recommendations for client Marina Rodrigues de Oliveira:
+                         Client_ID     Product_ID  Predicted_Rating
+1340  Marina Rodrigues de Oliveira    BLUMFM80BG3          0.165955
+1341  Marina Rodrigues de Oliveira  VEPSFM167BG14          0.159420
+1342  Marina Rodrigues de Oliveira  VEPCFM170ES-4          0.157747
+1343  Marina Rodrigues de Oliveira    SPGRFM97X-4          0.157223
+1344  Marina Rodrigues de Oliveira   SHANFM109JS6          0.157178
+
+
+Recall at 5 for client Marina Souza : 1.0
+Top recommendations for client Marina Souza :
+          Client_ID     Product_ID  Predicted_Rating
+1345  Marina Souza   VEPCFM120RS-4          0.188263
+1346  Marina Souza   VEPCFM190ES-3          0.186804
+1347  Marina Souza    VELCFM179LV2          0.172450
+1348  Marina Souza   VEPSFM167BG14          0.148228
+1349  Marina Souza   VEPCFM170ES-4          0.147120
+
+
+Top recommendations for client Marta Maria :
+         Client_ID     Product_ID  Predicted_Rating
+1350  Marta Maria   VEANFM250OW10          0.179361
+1351  Marta Maria   VEPSFM167BG14          0.158644
+1352  Marta Maria   VEPCFM170ES-4          0.157036
+1353  Marta Maria     SPGRFM97X-4          0.156447
+1354  Marta Maria    SHANFM109JS6          0.156442
+
+
+Top recommendations for client Maryele Machado Campos:
+                   Client_ID     Product_ID  Predicted_Rating
+1355  Maryele Machado Campos  CJUMFM120XRS3          0.168326
+1356  Maryele Machado Campos   VEANFM182RS3          0.167026
+1357  Maryele Machado Campos  VEPSFM167BG14          0.157628
+1358  Maryele Machado Campos  VEPCFM170ES-4          0.156064
+1359  Maryele Machado Campos    SPGRFM97X-4          0.155491
+
+
+Top recommendations for client Mayana Melo:
+        Client_ID      Product_ID  Predicted_Rating
+1360  Mayana Melo  SPTJFM132DR-15          0.185126
+1361  Mayana Melo   VEPSFM167BG14          0.158287
+1362  Mayana Melo   VEPCFM170ES-4          0.156661
+1363  Mayana Melo     SPGRFM97X-4          0.156148
+1364  Mayana Melo    SHANFM109JS6          0.156117
+
+
+Recall at 5 for client Mayara Veiga: 1.0
+Top recommendations for client Mayara Veiga:
+         Client_ID     Product_ID  Predicted_Rating
+1365  Mayara Veiga   SPPCFM85PR-2          0.181933
+1366  Mayara Veiga    VEBEFM70MR1          0.163694
+1367  Mayara Veiga  VEPSFM167BG14          0.156517
+1368  Mayara Veiga  VEPCFM170ES-4          0.154925
+1369  Mayara Veiga   SHANFM109JS6          0.154277
+
+
+Recall at 5 for client Maynes Antunes: 0.25
+Top recommendations for client Maynes Antunes:
+           Client_ID      Product_ID  Predicted_Rating
+1370  Maynes Antunes    CJANFM127OW4          0.228087
+1371  Maynes Antunes     BLBEFM50OW4          0.227791
+1372  Maynes Antunes    CQUMFM140MR6          0.226985
+1373  Maynes Antunes  SPTJFM132DR-10          0.214062
+1374  Maynes Antunes    CJANFM187OW4          0.184735
+
+
+Recall at 5 for client Mayrane Ribeiro: 1.0
+Top recommendations for client Mayrane Ribeiro:
+            Client_ID     Product_ID  Predicted_Rating
+1375  Mayrane Ribeiro   CJANFM170CL8          0.215330
+1376  Mayrane Ribeiro   SHANFM137JS8          0.202106
+1377  Mayrane Ribeiro   BLANFM73AOW8          0.193505
+1378  Mayrane Ribeiro  VEPSFM167BG14          0.148487
+1379  Mayrane Ribeiro  VEPCFM170ES-4          0.146650
+
+
+Top recommendations for client Mekianne Mattos:
+            Client_ID     Product_ID  Predicted_Rating
+1380  Mekianne Mattos  VEPSFM235AZ12          0.172436
+1381  Mekianne Mattos  VEPSFM167BG14          0.157586
+1382  Mekianne Mattos  VEPCFM170ES-4          0.155917
+1383  Mekianne Mattos    SPGRFM97X-4          0.155375
+1384  Mekianne Mattos   SHANFM109JS6          0.155326
+
+
+Top recommendations for client Michel Falavinha:
+             Client_ID     Product_ID  Predicted_Rating
+1385  Michel Falavinha    SHBEFM60RS4          0.181049
+1386  Michel Falavinha   BLBEFM60XOW4          0.174371
+1387  Michel Falavinha  VEPSFM167BG14          0.157089
+1388  Michel Falavinha  VEPCFM170ES-4          0.155483
+1389  Michel Falavinha    SPGRFM97X-4          0.154883
+
+
+Recall at 5 for client Michele Vilaca Rodrigues Murari: 1.0
+Top recommendations for client Michele Vilaca Rodrigues Murari:
+                            Client_ID     Product_ID  Predicted_Rating
+1390  Michele Vilaca Rodrigues Murari    VEBEFM70MR3          0.171501
+1391  Michele Vilaca Rodrigues Murari  VEPSFM167BG14          0.159514
+1392  Michele Vilaca Rodrigues Murari  VEPCFM170ES-4          0.157810
+1393  Michele Vilaca Rodrigues Murari    SPGRFM97X-4          0.157302
+1394  Michele Vilaca Rodrigues Murari   SHANFM109JS6          0.157259
+
+
+Recall at 5 for client Michelle Beatriz Viana Kato: 0.0
+Top recommendations for client Michelle Beatriz Viana Kato:
+                        Client_ID     Product_ID  Predicted_Rating
+1395  Michelle Beatriz Viana Kato    CQPSFM189-4          0.196833
+1396  Michelle Beatriz Viana Kato    BLPSFM55PR8          0.192587
+1397  Michelle Beatriz Viana Kato    SIPSFM102-4          0.186554
+1398  Michelle Beatriz Viana Kato    SHFMMO96OW8          0.186443
+1399  Michelle Beatriz Viana Kato  SHPSFM123XPR8          0.185309
+
+
+Top recommendations for client Michelle Gouveia Benício de Araújo:
+                               Client_ID     Product_ID  Predicted_Rating
+1400  Michelle Gouveia Benício de Araújo    VEMOFM90ES8          0.164943
+1401  Michelle Gouveia Benício de Araújo  VEPSFM167BG14          0.159160
+1402  Michelle Gouveia Benício de Araújo  VEPCFM170ES-4          0.157418
+1403  Michelle Gouveia Benício de Araújo    SPGRFM97X-4          0.156969
+1404  Michelle Gouveia Benício de Araújo   SHANFM109JS6          0.156868
+
+
+Recall at 5 for client Michelle Morais dos Anjos : 1.0
+Top recommendations for client Michelle Morais dos Anjos :
+                       Client_ID     Product_ID  Predicted_Rating
+1405  Michelle Morais dos Anjos    CJPCFM109RS8          0.166642
+1406  Michelle Morais dos Anjos      SDGRFM85-9          0.166086
+1407  Michelle Morais dos Anjos   VEPSFM167BG14          0.156778
+1408  Michelle Morais dos Anjos   VEPCFM170ES-4          0.155043
+1409  Michelle Morais dos Anjos    SHANFM109JS6          0.154529
+
+
+Top recommendations for client Monique Loiola Barroso:
+                   Client_ID     Product_ID  Predicted_Rating
+1410  Monique Loiola Barroso     TNGRMC90-4          0.160307
+1411  Monique Loiola Barroso  VEPSFM167BG14          0.159536
+1412  Monique Loiola Barroso  VEPCFM170ES-4          0.157856
+1413  Monique Loiola Barroso   SHANFM109JS6          0.157323
+1414  Monique Loiola Barroso    SPGRFM97X-4          0.157319
+
+
+Top recommendations for client Morgana Belém:
+          Client_ID    Product_ID  Predicted_Rating
+1415  Morgana Belém  CSANFM137PR6          0.185694
+1416  Morgana Belém  SHANFM100PR6          0.178012
+1417  Morgana Belém  BLANFM128OW6          0.176595
+1418  Morgana Belém  BISIFM100XD6          0.167969
+1419  Morgana Belém  TOSIUN100XES          0.167419
+
+
+Top recommendations for client Márcia Betânia Silva:
+                 Client_ID     Product_ID  Predicted_Rating
+1420  Márcia Betânia Silva   CMUMMC44VD10          0.168668
+1421  Márcia Betânia Silva    BEKGMC53CZ8          0.159968
+1422  Márcia Betânia Silva  VEPSFM167BG14          0.158293
+1423  Márcia Betânia Silva  VEPCFM170ES-4          0.156512
+1424  Márcia Betânia Silva    SPGRFM97X-4          0.156048
+
+
+Recall at 5 for client Mônica Ribeiro: 0.0
+Top recommendations for client Mônica Ribeiro:
+           Client_ID    Product_ID  Predicted_Rating
+1425  Mônica Ribeiro  BLPSFM109RS8          0.212959
+1426  Mônica Ribeiro  VEPSFM264RS4          0.206023
+1427  Mônica Ribeiro  BLPSFM80RS-1          0.202030
+1428  Mônica Ribeiro  KTCJPS220OW6          0.199081
+1429  Mônica Ribeiro  SIPSFM149RS2          0.198537
+
+
+Top recommendations for client Nahiara Silva Santos:
+                 Client_ID     Product_ID  Predicted_Rating
+1430  Nahiara Silva Santos  SAIAFM110BG14          0.175768
+1431  Nahiara Silva Santos            NaN          0.166947
+1432  Nahiara Silva Santos  VEPSFM167BG14          0.154074
+1433  Nahiara Silva Santos  VEPCFM170ES-4          0.152338
+1434  Nahiara Silva Santos   SHANFM109JS6          0.151761
+
+
+Top recommendations for client Naira Rocha Chaves:
+               Client_ID     Product_ID  Predicted_Rating
+1435  Naira Rocha Chaves   VEANFM182OW8          0.170763
+1436  Naira Rocha Chaves  VEPSFM167BG14          0.158855
+1437  Naira Rocha Chaves  VEPCFM170ES-4          0.157086
+1438  Naira Rocha Chaves    SPGRFM97X-4          0.156633
+1439  Naira Rocha Chaves   SHANFM109JS6          0.156523
+
+
+Recall at 5 for client Natali: 1.0
+Top recommendations for client Natali:
+     Client_ID      Product_ID  Predicted_Rating
+1440    Natali  VEANFM290XVR14          0.209218
+1441    Natali   VEPCFM156ES14          0.207641
+1442    Natali   VEPCFM270VD-3          0.156586
+1443    Natali   CJMOFM267JS14          0.148795
+1444    Natali   VEPCFM200AZ-3          0.144625
+
+
+Recall at 5 for client Natalia Nubia: 1.0
+Top recommendations for client Natalia Nubia:
+          Client_ID     Product_ID  Predicted_Rating
+1445  Natalia Nubia  VEPCFM140PR-2          0.193302
+1446  Natalia Nubia   CJANFM169OW2          0.192654
+1447  Natalia Nubia   CSBEFM100OW3          0.182080
+1448  Natalia Nubia  VEPSFM167BG14          0.150622
+1449  Natalia Nubia  VEPCFM170ES-4          0.148986
+
+
+Top recommendations for client Nathalia Lopes:
+           Client_ID     Product_ID  Predicted_Rating
+1450  Nathalia Lopes   VEANFM170PR2          0.180876
+1451  Nathalia Lopes            NaN          0.167193
+1452  Nathalia Lopes  VEPSFM167BG14          0.153300
+1453  Nathalia Lopes  VEPCFM170ES-4          0.151462
+1454  Nathalia Lopes    SPGRFM97X-4          0.150993
+
+
+Recall at 5 for client Nathália Cruvinel: 0.5
+Top recommendations for client Nathália Cruvinel:
+              Client_ID     Product_ID  Predicted_Rating
+1455  Nathália Cruvinel  VEPCFM130VD-4          0.185687
+1456  Nathália Cruvinel   CJANFM210OW4          0.170075
+1457  Nathália Cruvinel    CSCFUN55LR4          0.162558
+1458  Nathália Cruvinel    SHFMMO96OW4          0.159476
+1459  Nathália Cruvinel  VEPCFM129YOW2          0.158782
+
+
+Top recommendations for client Nayana Carolina:
+            Client_ID      Product_ID  Predicted_Rating
+1460  Nayana Carolina  VEPCFM160ZES-2          0.205634
+1461  Nayana Carolina  VEPCFM170YRS-2          0.196862
+1462  Nayana Carolina   VEPSFM167BG14          0.152027
+1463  Nayana Carolina   VEPCFM170ES-4          0.150828
+1464  Nayana Carolina    CJFMMO138VR8          0.150011
+
+
+Top recommendations for client Nayana Silva:
+         Client_ID     Product_ID  Predicted_Rating
+1465  Nayana Silva  VEPSFM167BG14          0.160209
+1466  Nayana Silva  VEPCFM170ES-4          0.158543
+1467  Nayana Silva    SPGRFM97X-4          0.158036
+1468  Nayana Silva   SHANFM109JS6          0.157980
+1469  Nayana Silva    CMDAMC90BG3          0.157852
+
+
+Recall at 5 for client Nayarah Vaz: 0.0
+Top recommendations for client Nayarah Vaz:
+        Client_ID    Product_ID  Predicted_Rating
+1470  Nayarah Vaz  BLPRFM80PR16          0.245161
+1471  Nayarah Vaz  SAPSFM130RS6          0.243911
+1472  Nayarah Vaz   BLPSFM89OW6          0.243423
+1473  Nayarah Vaz  VEPSFM220RS6          0.243353
+1474  Nayarah Vaz  BLPSFM120PR6          0.242689
+
+
+Top recommendations for client Nicole Godoi:
+         Client_ID     Product_ID  Predicted_Rating
+1475  Nicole Godoi   BLMOFM48XOW6          0.160378
+1476  Nicole Godoi  VEPSFM167BG14          0.160031
+1477  Nicole Godoi  VEPCFM170ES-4          0.158357
+1478  Nicole Godoi    SPGRFM97X-4          0.157858
+1479  Nicole Godoi   SHANFM109JS6          0.157812
+
+
+Top recommendations for client Nilva Moreira :
+           Client_ID     Product_ID  Predicted_Rating
+1480  Nilva Moreira      SPGRFM97-9          0.272554
+1481  Nilva Moreira   VEPSFM167BG14          0.159402
+1482  Nilva Moreira   VEPCFM170ES-4          0.157789
+1483  Nilva Moreira     SPGRFM97X-4          0.157223
+1484  Nilva Moreira    SHANFM109JS6          0.157176
+
+
+Top recommendations for client Nina :
+     Client_ID     Product_ID  Predicted_Rating
+1485     Nina    CSBEFM100OW1          0.169383
+1486     Nina   VEPSFM167BG14          0.159011
+1487     Nina   VEPCFM170ES-4          0.157366
+1488     Nina    SHANFM109JS6          0.156760
+1489     Nina     SPGRFM97X-4          0.156729
+
+
+Top recommendations for client Nubia Alves Frohlich (Mariana):
+                           Client_ID     Product_ID  Predicted_Rating
+1490  Nubia Alves Frohlich (Mariana)  MASIFM120RS12          0.181448
+1491  Nubia Alves Frohlich (Mariana)  VEPSFM167BG14          0.158735
+1492  Nubia Alves Frohlich (Mariana)  VEPCFM170ES-4          0.157150
+1493  Nubia Alves Frohlich (Mariana)   SHANFM109JS6          0.156501
+1494  Nubia Alves Frohlich (Mariana)    SPGRFM97X-4          0.156499
+
+
+Recall at 5 for client Obert Silva: 0.0
+Top recommendations for client Obert Silva:
+        Client_ID     Product_ID  Predicted_Rating
+1495  Obert Silva    VEMOFM90VD6          0.190950
+1496  Obert Silva    SPGRFM97Y-8          0.186997
+1497  Obert Silva  SHPSFM130VD-3          0.185133
+1498  Obert Silva  SHPSFM130ES-3          0.182971
+1499  Obert Silva   BLPSFM80VD-3          0.181325
+
+
+Top recommendations for client Ohana Mota:
+       Client_ID     Product_ID  Predicted_Rating
+1500  Ohana Mota  VEPSFM167BG14          0.160209
+1501  Ohana Mota  VEPCFM170ES-4          0.158543
+1502  Ohana Mota    SPGRFM97X-4          0.158036
+1503  Ohana Mota   SHANFM109JS6          0.157980
+1504  Ohana Mota    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Olivia Leão :
+         Client_ID     Product_ID  Predicted_Rating
+1505  Olivia Leão    VEFMAN219RS6          0.190547
+1506  Olivia Leão    CJANFM182OW6          0.190313
+1507  Olivia Leão   VEPSFM167BG14          0.154042
+1508  Olivia Leão   VEPCFM170ES-4          0.151982
+1509  Olivia Leão     SPGRFM97X-4          0.151683
+
+
+Recall at 5 for client Pamella Ribeiro: 1.0
+Top recommendations for client Pamella Ribeiro:
+            Client_ID     Product_ID  Predicted_Rating
+1510  Pamella Ribeiro   BLIAFM90OW14          0.187157
+1511  Pamella Ribeiro  SHANFM100PR16          0.184982
+1512  Pamella Ribeiro   BLMOFM67OW14          0.182968
+1513  Pamella Ribeiro   SIIAFM87OW14          0.159442
+1514  Pamella Ribeiro  VEPSFM167BG14          0.140014
+
+
+Recall at 5 for client Patricia Cristina Santos: 1.0
+Top recommendations for client Patricia Cristina Santos:
+                     Client_ID     Product_ID  Predicted_Rating
+1515  Patricia Cristina Santos  CJPCFM140ES-4          0.223519
+1516  Patricia Cristina Santos  MQIAFM150PR16          0.180786
+1517  Patricia Cristina Santos  VEPSFM167BG14          0.154397
+1518  Patricia Cristina Santos  VEPCFM170ES-4          0.152636
+1519  Patricia Cristina Santos   SHANFM109JS6          0.152164
+
+
+Top recommendations for client Patricia Daudt  Alkmim:
+                   Client_ID     Product_ID  Predicted_Rating
+1520  Patricia Daudt  Alkmim  CJPCFM150OW-3          0.204352
+1521  Patricia Daudt  Alkmim   KTCJPS220OW8          0.203227
+1522  Patricia Daudt  Alkmim   CJPCFM119VR8          0.201469
+1523  Patricia Daudt  Alkmim  CJANFM168COW8          0.199550
+1524  Patricia Daudt  Alkmim   CJPCFM139ES8          0.197911
+
+
+Recall at 5 for client Patricia da Conceição S Santos: 0.2
+Top recommendations for client Patricia da Conceição S Santos:
+                           Client_ID    Product_ID  Predicted_Rating
+1525  Patricia da Conceição S Santos  MQANFM128JS2          0.204543
+1526  Patricia da Conceição S Santos  BLANFM73XOW1          0.203289
+1527  Patricia da Conceição S Santos  VEANFM210OW2          0.201354
+1528  Patricia da Conceição S Santos   CJPCFM275-1          0.189492
+1529  Patricia da Conceição S Santos  CJANFM127OW2          0.170185
+
+
+Top recommendations for client Patrícia Alessandra Brutner Scavazza :
+                                  Client_ID      Product_ID  Predicted_Rating
+1530  Patrícia Alessandra Brutner Scavazza    KTCJPS224ES10          0.183644
+1531  Patrícia Alessandra Brutner Scavazza   CJANFM150XAL10          0.183172
+1532  Patrícia Alessandra Brutner Scavazza    VEPSFM167BG14          0.153460
+1533  Patrícia Alessandra Brutner Scavazza    VEPCFM170ES-4          0.151899
+1534  Patrícia Alessandra Brutner Scavazza     SHANFM109JS6          0.151361
+
+
+Top recommendations for client Paula Dalmaso:
+          Client_ID      Product_ID  Predicted_Rating
+1535  Paula Dalmaso  CJANFM145XOW12          0.161113
+1536  Paula Dalmaso  CJANFM145ARS14          0.160172
+1537  Paula Dalmaso   VEPSFM167BG14          0.158122
+1538  Paula Dalmaso   VEPCFM170ES-4          0.156451
+1539  Paula Dalmaso     SPGRFM97X-4          0.155818
+
+
+Recall at 5 for client Paula Guimarães Pena: 0.0
+Top recommendations for client Paula Guimarães Pena:
+                 Client_ID     Product_ID  Predicted_Rating
+1540  Paula Guimarães Pena  VEPSFM167BG14          0.159216
+1541  Paula Guimarães Pena     TNGRMC85-1          0.157937
+1542  Paula Guimarães Pena  VEPCFM170ES-4          0.157466
+1543  Paula Guimarães Pena    SPGRFM97X-4          0.156942
+1544  Paula Guimarães Pena   SHANFM109JS6          0.156916
+
+
+Recall at 5 for client Paula Kotake: 1.0
+Top recommendations for client Paula Kotake:
+         Client_ID     Product_ID  Predicted_Rating
+1545  Paula Kotake    VEBEFM79MR3          0.198726
+1546  Paula Kotake   CJUMFM180BR4          0.195198
+1547  Paula Kotake   CJFMAN187VD4          0.187466
+1548  Paula Kotake  VEPCFM110ES-3          0.182482
+1549  Paula Kotake  CJKGMC70XMR10          0.141857
+
+
+Top recommendations for client Paula Maduro:
+         Client_ID     Product_ID  Predicted_Rating
+1550  Paula Maduro  JQMOFM148JS14          0.181477
+1551  Paula Maduro   BLPSFM80RS-7          0.177691
+1552  Paula Maduro  VEPSFM167BG14          0.155343
+1553  Paula Maduro  VEPCFM170ES-4          0.153539
+1554  Paula Maduro    SPGRFM97X-4          0.152891
+
+
+Top recommendations for client Paulo Santiago:
+           Client_ID     Product_ID  Predicted_Rating
+1555  Paulo Santiago    BEBEFM80LR3          0.161157
+1556  Paulo Santiago  VEPSFM167BG14          0.159296
+1557  Paulo Santiago  VEPCFM170ES-4          0.157676
+1558  Paulo Santiago    SPGRFM97X-4          0.157118
+1559  Paulo Santiago   SHANFM109JS6          0.157047
+
+
+Recall at 5 for client Poliana Batista: 1.0
+Top recommendations for client Poliana Batista:
+            Client_ID     Product_ID  Predicted_Rating
+1560  Poliana Batista   SHUMMC90AZ10          0.201219
+1561  Poliana Batista   BABEMC79XAZ6          0.166454
+1562  Poliana Batista  BLPSFM129RS12          0.162337
+1563  Poliana Batista   SHFMMO96OW12          0.154671
+1564  Poliana Batista     VECHFM84-9          0.152663
+
+
+Top recommendations for client Poliane Mendes:
+           Client_ID     Product_ID  Predicted_Rating
+1565  Poliane Mendes    CAANFM73RS8          0.165588
+1566  Poliane Mendes   MAANFM119RS6          0.165587
+1567  Poliane Mendes  VEPSFM167BG14          0.157830
+1568  Poliane Mendes  VEPCFM170ES-4          0.156132
+1569  Poliane Mendes   SHANFM109JS6          0.155534
+
+
+Recall at 5 for client Priscila Bontempo: 0.25
+Top recommendations for client Priscila Bontempo:
+              Client_ID      Product_ID  Predicted_Rating
+1570  Priscila Bontempo    VEPSFM264RS2          0.174144
+1571  Priscila Bontempo   VEPCFM120RS-3          0.164409
+1572  Priscila Bontempo     VEBEFM98RS6          0.162647
+1573  Priscila Bontempo    CJUMMC170MR8          0.154838
+1574  Priscila Bontempo  VEPCFM170ZRS-1          0.149912
+
+
+Recall at 5 for client Priscila Hermano: 0.6666666666666666
+Top recommendations for client Priscila Hermano:
+             Client_ID     Product_ID  Predicted_Rating
+1575  Priscila Hermano  BLPSFM76XRS12          0.183197
+1576  Priscila Hermano  BLPSFM76XRS14          0.171723
+1577  Priscila Hermano   BLPSFM80OW12          0.170311
+1578  Priscila Hermano  BLPSFM107OW-7          0.167158
+1579  Priscila Hermano  VEPSFM167BG14          0.148652
+
+
+Top recommendations for client Priscila L Fanelli:
+               Client_ID     Product_ID  Predicted_Rating
+1580  Priscila L Fanelli    SPGRFM97-13          0.167776
+1581  Priscila L Fanelli  VEPSFM167BG14          0.159444
+1582  Priscila L Fanelli  VEPCFM170ES-4          0.157809
+1583  Priscila L Fanelli    SPGRFM97X-4          0.157251
+1584  Priscila L Fanelli   SHANFM109JS6          0.157206
+
+
+Top recommendations for client Priscilla Filgueira:
+                Client_ID     Product_ID  Predicted_Rating
+1585  Priscilla Filgueira  VEPCFM150VR-4          0.166765
+1586  Priscilla Filgueira  VEPSFM167BG14          0.159008
+1587  Priscilla Filgueira  VEPCFM170ES-4          0.157199
+1588  Priscilla Filgueira    SPGRFM97X-4          0.156750
+1589  Priscilla Filgueira   SHANFM109JS6          0.156679
+
+
+Recall at 5 for client Rafaela Guidi: 0.25
+Top recommendations for client Rafaela Guidi:
+          Client_ID     Product_ID  Predicted_Rating
+1590  Rafaela Guidi  CLPRFM210AR16          0.186465
+1591  Rafaela Guidi    CSPCFM990-9          0.165944
+1592  Rafaela Guidi  CLPSFM101BG14          0.156187
+1593  Rafaela Guidi   BLPSFM83BG12          0.155925
+1594  Rafaela Guidi  CJPCFM170PR-5          0.153796
+
+
+Top recommendations for client Rafaela Melo:
+         Client_ID     Product_ID  Predicted_Rating
+1595  Rafaela Melo    CJPCFM275-4          0.192024
+1596  Rafaela Melo  VEPSFM167BG14          0.158216
+1597  Rafaela Melo  VEPCFM170ES-4          0.156485
+1598  Rafaela Melo   SHANFM109JS6          0.155960
+1599  Rafaela Melo    SPGRFM97X-4          0.155918
+
+
+Recall at 5 for client Rafaella Gurgel: 0.5
+Top recommendations for client Rafaella Gurgel:
+            Client_ID     Product_ID  Predicted_Rating
+1600  Rafaella Gurgel     SPGRMC90-8          0.179846
+1601  Rafaella Gurgel    BEDAMC88PR3          0.165385
+1602  Rafaella Gurgel  VEPSFM167BG14          0.156608
+1603  Rafaella Gurgel  VEPCFM170ES-4          0.155134
+1604  Rafaella Gurgel    SPGRFM97X-4          0.154601
+
+
+Top recommendations for client Rafaella Haje Cintra:
+                 Client_ID     Product_ID  Predicted_Rating
+1605  Rafaella Haje Cintra   SPGRFM97X-10          0.169183
+1606  Rafaella Haje Cintra  VEPSFM167BG14          0.159465
+1607  Rafaella Haje Cintra  VEPCFM170ES-4          0.157802
+1608  Rafaella Haje Cintra   SHANFM109JS6          0.157206
+1609  Rafaella Haje Cintra    SPGRFM97X-4          0.157191
+
+
+Top recommendations for client Rafaella de Mello Oline:
+                    Client_ID     Product_ID  Predicted_Rating
+1610  Rafaella de Mello Oline   CJMOFM115VD2          0.184281
+1611  Rafaella de Mello Oline   BLANFM73ZOW2          0.176891
+1612  Rafaella de Mello Oline  VEPSFM167BG14          0.154610
+1613  Rafaella de Mello Oline  VEPCFM170ES-4          0.152934
+1614  Rafaella de Mello Oline    SPGRFM97X-4          0.152472
+
+
+Recall at 5 for client Randa Ayoubi: 1.0
+Top recommendations for client Randa Ayoubi:
+         Client_ID     Product_ID  Predicted_Rating
+1615  Randa Ayoubi  VEPCFM129YOW3          0.173141
+1616  Randa Ayoubi  VEPSFM167BG14          0.159107
+1617  Randa Ayoubi  VEPCFM170ES-4          0.157506
+1618  Randa Ayoubi    SPGRFM97X-4          0.156932
+1619  Randa Ayoubi   SHANFM109JS6          0.156854
+
+
+Recall at 5 for client Raquel Gonella: 1.0
+Top recommendations for client Raquel Gonella:
+           Client_ID     Product_ID  Predicted_Rating
+1620  Raquel Gonella  VEPCFM270VD-2          0.195310
+1621  Raquel Gonella  VEPSFM167BG14          0.158089
+1622  Raquel Gonella  VEPCFM170ES-4          0.156344
+1623  Raquel Gonella    SPGRFM97X-4          0.155819
+1624  Raquel Gonella   SHANFM109JS6          0.155802
+
+
+Top recommendations for client Raquel Silva:
+         Client_ID     Product_ID  Predicted_Rating
+1625  Raquel Silva  VEPCFM200RS-5          0.170356
+1626  Raquel Silva  VEPSFM167BG14          0.158423
+1627  Raquel Silva  VEPCFM170ES-4          0.156563
+1628  Raquel Silva   SHANFM109JS6          0.156049
+1629  Raquel Silva    SPGRFM97X-4          0.156033
+
+
+Top recommendations for client Rebeca Passarinho:
+              Client_ID     Product_ID  Predicted_Rating
+1630  Rebeca Passarinho  PJFMAN118OW12          0.164971
+1631  Rebeca Passarinho  VEPSFM167BG14          0.159138
+1632  Rebeca Passarinho  VEPCFM170ES-4          0.157451
+1633  Rebeca Passarinho    SPGRFM97X-4          0.156970
+1634  Rebeca Passarinho   SHANFM109JS6          0.156895
+
+
+Top recommendations for client Rebeca Tavares:
+           Client_ID     Product_ID  Predicted_Rating
+1635  Rebeca Tavares   JDFMAN110OW6          0.165137
+1636  Rebeca Tavares  VEPSFM167BG14          0.159516
+1637  Rebeca Tavares  VEPCFM170ES-4          0.157806
+1638  Rebeca Tavares    SPGRFM97X-4          0.157309
+1639  Rebeca Tavares   SHANFM109JS6          0.157252
+
+
+Top recommendations for client Regiane Velasque:
+             Client_ID     Product_ID  Predicted_Rating
+1640  Regiane Velasque  VEPCFM260RS-1          0.187509
+1641  Regiane Velasque  VEPSFM167BG14          0.157629
+1642  Regiane Velasque  VEPCFM170ES-4          0.155826
+1643  Regiane Velasque    SPGRFM97X-4          0.155240
+1644  Regiane Velasque   SHANFM109JS6          0.155218
+
+
+Top recommendations for client Regina Santana:
+           Client_ID     Product_ID  Predicted_Rating
+1645  Regina Santana    SHMOFM27OW2          0.170545
+1646  Regina Santana    CSBEFM90OW3          0.164731
+1647  Regina Santana  VEPSFM167BG14          0.157654
+1648  Regina Santana  VEPCFM170ES-4          0.155994
+1649  Regina Santana    SPGRFM97X-4          0.155493
+
+
+Recall at 5 for client Rejane da Silva Vieira: 1.0
+Top recommendations for client Rejane da Silva Vieira:
+                   Client_ID     Product_ID  Predicted_Rating
+1650  Rejane da Silva Vieira    CAPSFM149-4          0.226170
+1651  Rejane da Silva Vieira  CJANFM187OW12          0.210045
+1652  Rejane da Silva Vieira  CLPSFM149ES12          0.205434
+1653  Rejane da Silva Vieira  VEPSFM167BG14          0.160297
+1654  Rejane da Silva Vieira  VEPCFM170ES-4          0.158959
+
+
+Recall at 5 for client Renata Brasil Rangel : 0.0
+Top recommendations for client Renata Brasil Rangel :
+                  Client_ID     Product_ID  Predicted_Rating
+1655  Renata Brasil Rangel   VEPCFM140PR-5          0.199633
+1656  Renata Brasil Rangel   VEPCFM260AZ-1          0.199412
+1657  Renata Brasil Rangel    SPPCFM97PR-2          0.195198
+1658  Renata Brasil Rangel     CMDAMC78MR6          0.194746
+1659  Renata Brasil Rangel     CMDAMC82AZ4          0.193164
+
+
+Top recommendations for client Renata Gomes Pereira Arataque:
+                          Client_ID      Product_ID  Predicted_Rating
+1660  Renata Gomes Pereira Arataque             NaN          0.184456
+1661  Renata Gomes Pereira Arataque  VEPCFM170XVD-3          0.184229
+1662  Renata Gomes Pereira Arataque     SPGRFM93Z-1          0.181733
+1663  Renata Gomes Pereira Arataque   VEPSFM167BG14          0.154721
+1664  Renata Gomes Pereira Arataque   VEPCFM170ES-4          0.152965
+
+
+Recall at 5 for client Renata Martins Vaz: 1.0
+Top recommendations for client Renata Martins Vaz:
+               Client_ID     Product_ID  Predicted_Rating
+1665  Renata Martins Vaz   SPGBMC133B-5          0.201704
+1666  Renata Martins Vaz  VEPSFM167BG14          0.160299
+1667  Renata Martins Vaz  VEPCFM170ES-4          0.158643
+1668  Renata Martins Vaz    SPGRFM97X-4          0.158072
+1669  Renata Martins Vaz   SHANFM109JS6          0.158006
+
+
+Top recommendations for client Renato Aparecido Pereira:
+                     Client_ID     Product_ID  Predicted_Rating
+1670  Renato Aparecido Pereira   VEPCFM109RS8          0.184149
+1671  Renato Aparecido Pereira   VEBEFM100OW8          0.172266
+1672  Renato Aparecido Pereira  VEPSFM167BG14          0.160123
+1673  Renato Aparecido Pereira  VEPCFM170ES-4          0.158335
+1674  Renato Aparecido Pereira    SPGRFM97X-4          0.157816
+
+
+Recall at 5 for client Rhayanne Cardoso Negrao: 0.5
+Top recommendations for client Rhayanne Cardoso Negrao:
+                    Client_ID     Product_ID  Predicted_Rating
+1675  Rhayanne Cardoso Negrao  CJMOFM119BOW4          0.170540
+1676  Rhayanne Cardoso Negrao   VEBEFM129MR4          0.161360
+1677  Rhayanne Cardoso Negrao  VEPSFM167BG14          0.160229
+1678  Rhayanne Cardoso Negrao  VEPCFM170ES-4          0.158711
+1679  Rhayanne Cardoso Negrao   SHANFM109JS6          0.158031
+
+
+Top recommendations for client Roberta :
+     Client_ID     Product_ID  Predicted_Rating
+1680  Roberta    CMYCMC35DV-6          0.160618
+1681  Roberta   VEPSFM167BG14          0.160207
+1682  Roberta   VEPCFM170ES-4          0.158544
+1683  Roberta     SPGRFM97X-4          0.158046
+1684  Roberta    SHANFM109JS6          0.157987
+
+
+Top recommendations for client Rogumerci Terezinha :
+                 Client_ID     Product_ID  Predicted_Rating
+1685  Rogumerci Terezinha    VEMOFM110VD6          0.164819
+1686  Rogumerci Terezinha     VECHFM41X-8          0.162578
+1687  Rogumerci Terezinha   VEPSFM167BG14          0.159890
+1688  Rogumerci Terezinha   VEPCFM170ES-4          0.158200
+1689  Rogumerci Terezinha    SHANFM109JS6          0.157731
+
+
+Top recommendations for client Rosana Meneses Prado:
+                 Client_ID     Product_ID  Predicted_Rating
+1690  Rosana Meneses Prado  VEPSFM210RS-4          0.181507
+1691  Rosana Meneses Prado    SPGRFM97-15          0.178320
+1692  Rosana Meneses Prado  VEPSFM167BG14          0.159850
+1693  Rosana Meneses Prado  VEPCFM170ES-4          0.158158
+1694  Rosana Meneses Prado    SPGRFM97X-4          0.157678
+
+
+Top recommendations for client Rosana Souza:
+         Client_ID     Product_ID  Predicted_Rating
+1695  Rosana Souza  CJUMFM205AL12          0.198654
+1696  Rosana Souza  CJUMFM170RS14          0.191409
+1697  Rosana Souza  VEPSFM167BG14          0.160507
+1698  Rosana Souza  VEPCFM170ES-4          0.158918
+1699  Rosana Souza   SHANFM109JS6          0.158247
+
+
+Top recommendations for client Rosana magalhães :
+              Client_ID     Product_ID  Predicted_Rating
+1700  Rosana magalhães    VELCFM179BG6          0.181333
+1701  Rosana magalhães     VEPCFM182-5          0.180945
+1702  Rosana magalhães   VEPSFM167BG14          0.160165
+1703  Rosana magalhães   VEPCFM170ES-4          0.158390
+1704  Rosana magalhães    SHANFM109JS6          0.157795
+
+
+Recall at 5 for client Rose Leles: 1.0
+Top recommendations for client Rose Leles:
+       Client_ID     Product_ID  Predicted_Rating
+1705  Rose Leles  CJANFM137ES14          0.219130
+1706  Rose Leles  VEPSFM167BG14          0.160250
+1707  Rose Leles  VEPCFM170ES-4          0.158494
+1708  Rose Leles    SPGRFM97X-4          0.158012
+1709  Rose Leles   SHANFM109JS6          0.158006
+
+
+Top recommendations for client Roseany Meneses:
+            Client_ID     Product_ID  Predicted_Rating
+1710  Roseany Meneses  VEPCFM190AZ-7          0.180004
+1711  Roseany Meneses    SAANFM87PR8          0.164231
+1712  Roseany Meneses  VEPSFM167BG14          0.159091
+1713  Roseany Meneses  VEPCFM170ES-4          0.157267
+1714  Roseany Meneses    SPGRFM97X-4          0.156939
+
+
+Recall at 5 for client Roselaine Pereira : 1.0
+Top recommendations for client Roselaine Pereira :
+               Client_ID     Product_ID  Predicted_Rating
+1715  Roselaine Pereira    SPPTFM85PT-2          0.223496
+1716  Roselaine Pereira   VEPSFM167BG14          0.159310
+1717  Roselaine Pereira   VEPCFM170ES-4          0.157584
+1718  Roselaine Pereira     SPGRFM97X-4          0.157057
+1719  Roselaine Pereira    SHANFM109JS6          0.157054
+
+
+Recall at 5 for client Rosicleia dos Santos: 1.0
+Top recommendations for client Rosicleia dos Santos:
+                 Client_ID      Product_ID  Predicted_Rating
+1720  Rosicleia dos Santos   VEPCFM210XD-5          0.223404
+1721  Rosicleia dos Santos   CJANFM137ES12          0.222844
+1722  Rosicleia dos Santos  CJANFM145XOW14          0.185005
+1723  Rosicleia dos Santos   VEPSFM167BG14          0.161255
+1724  Rosicleia dos Santos   VEPCFM170ES-4          0.159337
+
+
+Recall at 5 for client Sabrina Falco: 1.0
+Top recommendations for client Sabrina Falco:
+          Client_ID     Product_ID  Predicted_Rating
+1725  Sabrina Falco   MASIFM110VD8          0.174766
+1726  Sabrina Falco   SHMOFM100PR8          0.168202
+1727  Sabrina Falco  VEPSFM167BG14          0.160385
+1728  Sabrina Falco  VEPCFM170ES-4          0.158680
+1729  Sabrina Falco    SPGRFM97X-4          0.158149
+
+
+Top recommendations for client Sabrina Mota:
+         Client_ID     Product_ID  Predicted_Rating
+1730  Sabrina Mota    CJUMFM159-4          0.196258
+1731  Sabrina Mota  VEPCFM146CL10          0.186730
+1732  Sabrina Mota  CJANFM168XD10          0.180426
+1733  Sabrina Mota  VEPSFM167BG14          0.160572
+1734  Sabrina Mota  VEPCFM170ES-4          0.158856
+
+
+Recall at 5 for client Samara Carvalho: 1.0
+Top recommendations for client Samara Carvalho:
+            Client_ID      Product_ID  Predicted_Rating
+1735  Samara Carvalho             NaN          0.253887
+1736  Samara Carvalho  VEPCFM260XRS-2          0.199956
+1737  Samara Carvalho    VEANFM196PB1          0.198916
+1738  Samara Carvalho   VEPCFM120RS-1          0.187303
+1739  Samara Carvalho   VEPCFM190AZ-1          0.181270
+
+
+Top recommendations for client Samira Corrêa:
+          Client_ID     Product_ID  Predicted_Rating
+1740  Samira Corrêa   CJPCFM206AZ6          0.179498
+1741  Samira Corrêa  VEPSFM167BG14          0.159894
+1742  Samira Corrêa  VEPCFM170ES-4          0.158442
+1743  Samira Corrêa    SPGRFM97X-4          0.158087
+1744  Samira Corrêa   SHANFM109JS6          0.157747
+
+
+Top recommendations for client Sandra Dias:
+        Client_ID     Product_ID  Predicted_Rating
+1745  Sandra Dias   CMIAFM78OW16          0.166875
+1746  Sandra Dias  VEPSFM167BG14          0.160307
+1747  Sandra Dias  VEPCFM170ES-4          0.158679
+1748  Sandra Dias    SPGRFM97X-4          0.158140
+1749  Sandra Dias   SHANFM109JS6          0.158078
+
+
+Recall at 5 for client Sanubia Bustorff Quintao: 1.0
+Top recommendations for client Sanubia Bustorff Quintao:
+                     Client_ID     Product_ID  Predicted_Rating
+1750  Sanubia Bustorff Quintao    BLMOFM40OW3          0.186674
+1751  Sanubia Bustorff Quintao   CJMOFM120PR2          0.185930
+1752  Sanubia Bustorff Quintao    CAMOFM80OW3          0.174813
+1753  Sanubia Bustorff Quintao  VEPSFM167BG14          0.160252
+1754  Sanubia Bustorff Quintao  VEPCFM170ES-4          0.158414
+
+
+Top recommendations for client Sara:
+     Client_ID     Product_ID  Predicted_Rating
+1755      Sara  CJSIMC150PB14          0.173316
+1756      Sara  VEPSFM167BG14          0.160175
+1757      Sara  VEPCFM170ES-4          0.158490
+1758      Sara   SHANFM109JS6          0.157966
+1759      Sara    SPGRFM97X-4          0.157941
+
+
+Top recommendations for client Selma Maria:
+        Client_ID     Product_ID  Predicted_Rating
+1760  Selma Maria  VEPSFM167BG14          0.160211
+1761  Selma Maria  VEPCFM170ES-4          0.158581
+1762  Selma Maria    SPGRFM97X-4          0.158007
+1763  Selma Maria   SHANFM109JS6          0.157997
+1764  Selma Maria    CMDAMC90BG3          0.157897
+
+
+Top recommendations for client Silvana Geraldo Martins Assis :
+                           Client_ID     Product_ID  Predicted_Rating
+1765  Silvana Geraldo Martins Assis    BLANFM45AOW2          0.169570
+1766  Silvana Geraldo Martins Assis     BLPSFM60RS2          0.168055
+1767  Silvana Geraldo Martins Assis     BLANFM72OW4          0.165600
+1768  Silvana Geraldo Martins Assis    BLPSFM107RS4          0.164289
+1769  Silvana Geraldo Martins Assis   VEPSFM167BG14          0.159920
+
+
+Top recommendations for client Simone Pires:
+         Client_ID     Product_ID  Predicted_Rating
+1770  Simone Pires  VEMOFM160VD10          0.175279
+1771  Simone Pires  VEPSFM167BG14          0.160101
+1772  Simone Pires  VEPCFM170ES-4          0.158413
+1773  Simone Pires    SPGRFM97X-4          0.157916
+1774  Simone Pires   SHANFM109JS6          0.157814
+
+
+Recall at 5 for client Sofia Ferro: 0.0
+Top recommendations for client Sofia Ferro:
+        Client_ID    Product_ID  Predicted_Rating
+1775  Sofia Ferro           NaN          0.363463
+1776  Sofia Ferro  BLANFM80XOW4          0.212987
+1777  Sofia Ferro   BLFMBE55OW6          0.212484
+1778  Sofia Ferro   VEBEFM98RS3          0.211455
+1779  Sofia Ferro  SAANFM119RS4          0.201817
+
+
+Recall at 5 for client Solange Pires: 0.0
+Top recommendations for client Solange Pires:
+          Client_ID     Product_ID  Predicted_Rating
+1780  Solange Pires  CJCHMC144BR-5          0.469904
+1781  Solange Pires    CJCHMC129-5          0.463837
+1782  Solange Pires   CMDAMC71VR10          0.463046
+1783  Solange Pires   CJCHMC93VD-1          0.463002
+1784  Solange Pires   CADAMC78OW10          0.461588
+
+
+Top recommendations for client Sophia Gabrielly :
+              Client_ID     Product_ID  Predicted_Rating
+1785  Sophia Gabrielly   VEPSFM167BG14          0.160209
+1786  Sophia Gabrielly   VEPCFM170ES-4          0.158543
+1787  Sophia Gabrielly     SPGRFM97X-4          0.158036
+1788  Sophia Gabrielly    SHANFM109JS6          0.157980
+1789  Sophia Gabrielly     CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Stefani Francisco:
+              Client_ID     Product_ID  Predicted_Rating
+1790  Stefani Francisco   BLANFM73KOW8          0.184922
+1791  Stefani Francisco   SHANFM110JS8          0.180178
+1792  Stefani Francisco  VEPSFM167BG14          0.160230
+1793  Stefani Francisco  VEPCFM170ES-4          0.158522
+1794  Stefani Francisco    CMDAMC90BG3          0.157827
+
+
+Top recommendations for client Stephanie Sebba :
+             Client_ID     Product_ID  Predicted_Rating
+1795  Stephanie Sebba    VELCFM179LV2          0.168907
+1796  Stephanie Sebba   VEPSFM167BG14          0.158817
+1797  Stephanie Sebba   VEPCFM170ES-4          0.157193
+1798  Stephanie Sebba     SPGRFM97X-4          0.156661
+1799  Stephanie Sebba    SHANFM109JS6          0.156573
+
+
+Recall at 5 for client Sthefanie Frare: 1.0
+Top recommendations for client Sthefanie Frare:
+            Client_ID     Product_ID  Predicted_Rating
+1800  Sthefanie Frare   JQMOFM100AZ4          0.206698
+1801  Sthefanie Frare   CJMOFM90BOW4          0.181198
+1802  Sthefanie Frare  VEPSFM167BG14          0.159397
+1803  Sthefanie Frare  VEPCFM170ES-4          0.158016
+1804  Sthefanie Frare    SPGRFM97X-4          0.157529
+
+
+Recall at 5 for client Suely Camelo Favoretti: 1.0
+Top recommendations for client Suely Camelo Favoretti:
+                   Client_ID     Product_ID  Predicted_Rating
+1805  Suely Camelo Favoretti    VECHFM60-29          0.165391
+1806  Suely Camelo Favoretti    VECHFM60-26          0.164229
+1807  Suely Camelo Favoretti  VEPSFM167BG14          0.160258
+1808  Suely Camelo Favoretti  VEPCFM170ES-4          0.158526
+1809  Suely Camelo Favoretti    SPGRFM97X-4          0.158118
+
+
+Top recommendations for client Suleima:
+     Client_ID     Product_ID  Predicted_Rating
+1810   Suleima  VEPSFM167BG14          0.160209
+1811   Suleima  VEPCFM170ES-4          0.158543
+1812   Suleima    SPGRFM97X-4          0.158036
+1813   Suleima   SHANFM109JS6          0.157980
+1814   Suleima    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Suleima Santos :
+            Client_ID     Product_ID  Predicted_Rating
+1815  Suleima Santos    SPPTFM81BR-3          0.170658
+1816  Suleima Santos   VEPSFM167BG14          0.160260
+1817  Suleima Santos   VEPCFM170ES-4          0.158636
+1818  Suleima Santos     SPGRFM97X-4          0.158076
+1819  Suleima Santos    SHANFM109JS6          0.158067
+
+
+Recall at 5 for client Susete Alcarde: 0.3333333333333333
+Top recommendations for client Susete Alcarde:
+           Client_ID    Product_ID  Predicted_Rating
+1820  Susete Alcarde  BLANFM73XOW4          0.248029
+1821  Susete Alcarde  CSMOFM120PR4          0.237546
+1822  Susete Alcarde   BLBEMC70CZ1          0.236197
+1823  Susete Alcarde   VECHFM48X-1          0.226777
+1824  Susete Alcarde   SABEFM50OW4          0.225694
+
+
+Recall at 5 for client Suzy Lidiane : 1.0
+Top recommendations for client Suzy Lidiane :
+          Client_ID     Product_ID  Predicted_Rating
+1825  Suzy Lidiane    CJUMFM159ES4          0.206905
+1826  Suzy Lidiane   TNDAMC180BG32          0.206643
+1827  Suzy Lidiane    CJMOFM129BG4          0.204707
+1828  Suzy Lidiane    CJUMFM149ES4          0.199400
+1829  Suzy Lidiane   VEPCFM130ES-5          0.198334
+
+
+Top recommendations for client Sâmara Rayk Chaves da Silva :
+                         Client_ID     Product_ID  Predicted_Rating
+1830  Sâmara Rayk Chaves da Silva   MQPCFM178RS10          0.209330
+1831  Sâmara Rayk Chaves da Silva     CJFMMO138-4          0.205136
+1832  Sâmara Rayk Chaves da Silva   CJPCFM160VD-6          0.204848
+1833  Sâmara Rayk Chaves da Silva   CJPCFM179RS12          0.204387
+1834  Sâmara Rayk Chaves da Silva    CLANFM137JS6          0.157714
+
+
+Recall at 5 for client Tabatha Machado: 1.0
+Top recommendations for client Tabatha Machado:
+            Client_ID     Product_ID  Predicted_Rating
+1835  Tabatha Machado    PODAMC98PR6          0.181575
+1836  Tabatha Machado    PODAMC98PR4          0.176085
+1837  Tabatha Machado  VEPSFM167BG14          0.160278
+1838  Tabatha Machado  VEPCFM170ES-4          0.158613
+1839  Tabatha Machado    SPGRFM97X-4          0.158014
+
+
+Recall at 5 for client Talita: 0.0
+Top recommendations for client Talita:
+     Client_ID     Product_ID  Predicted_Rating
+1840    Talita  VEPSFM167BG14          0.160209
+1841    Talita  VEPCFM170ES-4          0.158543
+1842    Talita    SPGRFM97X-4          0.158036
+1843    Talita   SHANFM109JS6          0.157980
+1844    Talita    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Talita Stuque:
+          Client_ID     Product_ID  Predicted_Rating
+1845  Talita Stuque  VEPCFM170ES-4          0.209014
+1846  Talita Stuque  BIPCFM120VD-5          0.201781
+1847  Talita Stuque  MAANFM119RS12          0.199243
+1848  Talita Stuque  SHANFM127JS10          0.169777
+1849  Talita Stuque   SHFMMO96OW10          0.168182
+
+
+Recall at 5 for client Tamara Climaco Machado: 0.5
+Top recommendations for client Tamara Climaco Machado:
+                   Client_ID    Product_ID  Predicted_Rating
+1850  Tamara Climaco Machado  BLPSFM76ZRS2          0.221840
+1851  Tamara Climaco Machado  SAMOFM110OW2          0.216383
+1852  Tamara Climaco Machado   BLPSFM80OW2          0.214146
+1853  Tamara Climaco Machado           NaN          0.208693
+1854  Tamara Climaco Machado   CJMOFM90BG2          0.206750
+
+
+Top recommendations for client Tamara Jobard:
+          Client_ID     Product_ID  Predicted_Rating
+1855  Tamara Jobard  VEPSFM167BG14          0.159251
+1856  Tamara Jobard    SPGRFM97W-6          0.158344
+1857  Tamara Jobard  VEPCFM170ES-4          0.157591
+1858  Tamara Jobard    SPGRFM97X-4          0.157097
+1859  Tamara Jobard   SHANFM109JS6          0.157008
+
+
+Top recommendations for client Tatiana Gemiliano Almas Berbert:
+                            Client_ID     Product_ID  Predicted_Rating
+1860  Tatiana Gemiliano Almas Berbert   VEPSFM382AZ6          0.196025
+1861  Tatiana Gemiliano Almas Berbert  VEPSFM167BG14          0.160488
+1862  Tatiana Gemiliano Almas Berbert  VEPCFM170ES-4          0.158668
+1863  Tatiana Gemiliano Almas Berbert    CMDAMC90BG3          0.158334
+1864  Tatiana Gemiliano Almas Berbert   SHANFM109JS6          0.158177
+
+
+Top recommendations for client Tatiana Kopeinig:
+             Client_ID     Product_ID  Predicted_Rating
+1865  Tatiana Kopeinig  CAIAFM100OW18          0.165854
+1866  Tatiana Kopeinig  VEPSFM167BG14          0.160196
+1867  Tatiana Kopeinig  VEPCFM170ES-4          0.158486
+1868  Tatiana Kopeinig    SPGRFM97X-4          0.158019
+1869  Tatiana Kopeinig   SHANFM109JS6          0.157978
+
+
+Top recommendations for client Tatiane Corsi:
+          Client_ID     Product_ID  Predicted_Rating
+1870  Tatiane Corsi  VEPSFM167BG14          0.160209
+1871  Tatiane Corsi  VEPCFM170ES-4          0.158543
+1872  Tatiane Corsi    SPGRFM97X-4          0.158036
+1873  Tatiane Corsi   SHANFM109JS6          0.157980
+1874  Tatiane Corsi    CMDAMC90BG3          0.157852
+
+
+Top recommendations for client Tatiane Marina dos Anjos Pereira:
+                             Client_ID     Product_ID  Predicted_Rating
+1875  Tatiane Marina dos Anjos Pereira   VEPCFM109RS8          0.195386
+1876  Tatiane Marina dos Anjos Pereira  CJANFM150XAL8          0.191205
+1877  Tatiane Marina dos Anjos Pereira   VEBEFM100OW8          0.188739
+1878  Tatiane Marina dos Anjos Pereira  VEPSFM167BG14          0.160575
+1879  Tatiane Marina dos Anjos Pereira  VEPCFM170ES-4          0.158540
+
+
+Recall at 5 for client Tatiane Marques: 1.0
+Top recommendations for client Tatiane Marques:
+            Client_ID      Product_ID  Predicted_Rating
+1880  Tatiane Marques   VEPSFM427RS12          0.257978
+1881  Tatiane Marques  SPTJFM119ABG32          0.233229
+1882  Tatiane Marques   VEPSFM167BG14          0.160071
+1883  Tatiane Marques     SPGRFM97X-4          0.157940
+1884  Tatiane Marques   VEPCFM170ES-4          0.157777
+
+
+Top recommendations for client Tatiele Bester Hermes :
+                   Client_ID     Product_ID  Predicted_Rating
+1885  Tatiele Bester Hermes   VEPCFM290RS-6          0.180989
+1886  Tatiele Bester Hermes   VEPSFM167BG14          0.160162
+1887  Tatiele Bester Hermes   VEPCFM170ES-4          0.158526
+1888  Tatiele Bester Hermes    SHANFM109JS6          0.158019
+1889  Tatiele Bester Hermes     SPGRFM97X-4          0.157999
+
+
+Top recommendations for client Tatyane Cassimiro:
+              Client_ID      Product_ID  Predicted_Rating
+1890  Tatyane Cassimiro  VEPCFM170XVD-5          0.179265
+1891  Tatyane Cassimiro   VEPSFM167BG14          0.160515
+1892  Tatyane Cassimiro   VEPCFM170ES-4          0.158759
+1893  Tatyane Cassimiro     SPGRFM97X-4          0.158227
+1894  Tatyane Cassimiro    SHANFM109JS6          0.158111
+
+
+Recall at 5 for client Tayssa Moraes Miranda Ribeiro: 1.0
+Top recommendations for client Tayssa Moraes Miranda Ribeiro:
+                          Client_ID     Product_ID  Predicted_Rating
+1895  Tayssa Moraes Miranda Ribeiro  CJUMFM169LR14          0.211062
+1896  Tayssa Moraes Miranda Ribeiro  VEPSFM167BG14          0.160239
+1897  Tayssa Moraes Miranda Ribeiro  VEPCFM170ES-4          0.158601
+1898  Tayssa Moraes Miranda Ribeiro    SPGRFM97X-4          0.158054
+1899  Tayssa Moraes Miranda Ribeiro   SHANFM109JS6          0.157991
+
+
+Top recommendations for client Thaina Cristina de Sousa Pereira :
+                              Client_ID     Product_ID  Predicted_Rating
+1900  Thaina Cristina de Sousa Pereira    VEANFM140RS3          0.172106
+1901  Thaina Cristina de Sousa Pereira   VEPSFM167BG14          0.160387
+1902  Thaina Cristina de Sousa Pereira   VEPCFM170ES-4          0.158687
+1903  Thaina Cristina de Sousa Pereira     SPGRFM97X-4          0.158274
+1904  Thaina Cristina de Sousa Pereira    SHANFM109JS6          0.158143
+
+
+Top recommendations for client Thais Fernandes:
+            Client_ID     Product_ID  Predicted_Rating
+1905  Thais Fernandes    VECHFM48X-2          0.167098
+1906  Thais Fernandes  VEPSFM167BG14          0.160180
+1907  Thais Fernandes  VEPCFM170ES-4          0.158564
+1908  Thais Fernandes    SPGRFM97X-4          0.158051
+1909  Thais Fernandes   SHANFM109JS6          0.157989
+
+
+Recall at 5 for client Thais Fernandes Brasil: 0.0
+Top recommendations for client Thais Fernandes Brasil:
+                   Client_ID     Product_ID  Predicted_Rating
+1910  Thais Fernandes Brasil    BLPSFM61RS8          0.387180
+1911  Thais Fernandes Brasil    VEBEFM98RS8          0.382789
+1912  Thais Fernandes Brasil   CJANFM187OW6          0.380554
+1913  Thais Fernandes Brasil  BLPSFM76ZAZ-4          0.379039
+1914  Thais Fernandes Brasil  CJPCFM160VD-4          0.376541
+
+
+Top recommendations for client Thais Linhares:
+           Client_ID     Product_ID  Predicted_Rating
+1915  Thais Linhares   CJANFM119OW6          0.179431
+1916  Thais Linhares    VEMOFM70ES6          0.175137
+1917  Thais Linhares  VEPSFM167BG14          0.160188
+1918  Thais Linhares  VEPCFM170ES-4          0.158615
+1919  Thais Linhares   SHANFM109JS6          0.158091
+
+
+Top recommendations for client Thalita Simas Araujo:
+                 Client_ID     Product_ID  Predicted_Rating
+1920  Thalita Simas Araujo  VEPCFM190RS-4          0.186338
+1921  Thalita Simas Araujo   VEPCFM176X-3          0.185065
+1922  Thalita Simas Araujo  VEPSFM167BG14          0.159879
+1923  Thalita Simas Araujo  VEPCFM170ES-4          0.158161
+1924  Thalita Simas Araujo   SHANFM109JS6          0.157594
+
+
+Top recommendations for client Thalita da Costa Moreno Gama Weirich:
+                                 Client_ID     Product_ID  Predicted_Rating
+1925  Thalita da Costa Moreno Gama Weirich  VEPCFM200LR-4          0.172685
+1926  Thalita da Costa Moreno Gama Weirich  VEPSFM167BG14          0.160181
+1927  Thalita da Costa Moreno Gama Weirich  VEPCFM170ES-4          0.158490
+1928  Thalita da Costa Moreno Gama Weirich    SPGRFM97X-4          0.157995
+1929  Thalita da Costa Moreno Gama Weirich   SHANFM109JS6          0.157949
+
+
+Recall at 5 for client Thayse Gardini Alvarenga Jundi: 1.0
+Top recommendations for client Thayse Gardini Alvarenga Jundi:
+                           Client_ID     Product_ID  Predicted_Rating
+1930  Thayse Gardini Alvarenga Jundi   CJYCMC150AZ6          0.221982
+1931  Thayse Gardini Alvarenga Jundi  VEPSFM167BG14          0.160163
+1932  Thayse Gardini Alvarenga Jundi  VEPCFM170ES-4          0.158509
+1933  Thayse Gardini Alvarenga Jundi    SPGRFM97X-4          0.158052
+1934  Thayse Gardini Alvarenga Jundi   SHANFM109JS6          0.157921
+
+
+Recall at 5 for client Thiara da Cruz Silva: 0.0
+Top recommendations for client Thiara da Cruz Silva:
+                 Client_ID    Product_ID  Predicted_Rating
+1935  Thiara da Cruz Silva  BLPSFM80RS-3          0.265801
+1936  Thiara da Cruz Silva   BLPSFM55PR6          0.265163
+1937  Thiara da Cruz Silva   BLPSFM55BG6          0.264725
+1938  Thiara da Cruz Silva   BLMOFM36AL6          0.260653
+1939  Thiara da Cruz Silva  VEMOFM167PR4          0.256136
+
+
+Top recommendations for client Valquiria :
+       Client_ID      Product_ID  Predicted_Rating
+1940  Valquiria   CAKGMC100WBR12          0.169504
+1941  Valquiria    VEPSFM167BG14          0.160360
+1942  Valquiria    VEPCFM170ES-4          0.158676
+1943  Valquiria      SPGRFM97X-4          0.158203
+1944  Valquiria     SHANFM109JS6          0.158119
+
+
+Top recommendations for client Valéria Alcantara Alves Crispim:
+                            Client_ID     Product_ID  Predicted_Rating
+1945  Valéria Alcantara Alves Crispim    VEBEFM70MR4          0.167828
+1946  Valéria Alcantara Alves Crispim  VEPSFM167BG14          0.160272
+1947  Valéria Alcantara Alves Crispim  VEPCFM170ES-4          0.158624
+1948  Valéria Alcantara Alves Crispim    SPGRFM97X-4          0.158130
+1949  Valéria Alcantara Alves Crispim   SHANFM109JS6          0.158055
+
+
+Top recommendations for client Valéria Francielle Santos Pena :
+                            Client_ID     Product_ID  Predicted_Rating
+1950  Valéria Francielle Santos Pena   VEPSFM167BG14          0.160178
+1951  Valéria Francielle Santos Pena      SDGRFM87-3          0.159330
+1952  Valéria Francielle Santos Pena   VEPCFM170ES-4          0.158563
+1953  Valéria Francielle Santos Pena     SPGRFM97X-4          0.158024
+1954  Valéria Francielle Santos Pena    SHANFM109JS6          0.157980
+
+
+Top recommendations for client Valéria Godoy:
+          Client_ID     Product_ID  Predicted_Rating
+1955  Valéria Godoy  VEPSFM167BG14          0.160209
+1956  Valéria Godoy  VEPCFM170ES-4          0.158543
+1957  Valéria Godoy    SPGRFM97X-4          0.158036
+1958  Valéria Godoy   SHANFM109JS6          0.157980
+1959  Valéria Godoy    CMDAMC90BG3          0.157852
+
+
+Recall at 5 for client Vanessa Faccin: 0.0
+Top recommendations for client Vanessa Faccin:
+           Client_ID    Product_ID  Predicted_Rating
+1960  Vanessa Faccin   VEBEFM79MR8          0.246468
+1961  Vanessa Faccin  VEMOFM110VD8          0.241055
+1962  Vanessa Faccin   VEBEFM70MR8          0.237712
+1963  Vanessa Faccin  VEMOFM90XVD8          0.237044
+1964  Vanessa Faccin  CJMOFM120PR6          0.236996
+
+
+Recall at 5 for client Vanessa Fontes: 1.0
+Top recommendations for client Vanessa Fontes:
+           Client_ID     Product_ID  Predicted_Rating
+1965  Vanessa Fontes   JDMOFM100JS2          0.220485
+1966  Vanessa Fontes   CJPCFM139ES2          0.216375
+1967  Vanessa Fontes  VEPCFM130VD-2          0.210290
+1968  Vanessa Fontes   MQPSFM149RS2          0.205359
+1969  Vanessa Fontes  VEPSFM167BG14          0.160553
+
+
+Recall at 5 for client Vanessa Lapot: 1.0
+Top recommendations for client Vanessa Lapot:
+          Client_ID     Product_ID  Predicted_Rating
+1970  Vanessa Lapot  CJANFM145OW10          0.216124
+1971  Vanessa Lapot  VEPSFM167BG14          0.160233
+1972  Vanessa Lapot  VEPCFM170ES-4          0.158492
+1973  Vanessa Lapot    SPGRFM97X-4          0.158027
+1974  Vanessa Lapot   SHANFM109JS6          0.157977
+
+
+Recall at 5 for client Vanessa Lopes: 0.0
+Top recommendations for client Vanessa Lopes:
+          Client_ID     Product_ID  Predicted_Rating
+1975  Vanessa Lopes  TNDAMC180BG21          0.307355
+1976  Vanessa Lopes  TNDAMC180MR21          0.303889
+1977  Vanessa Lopes    BEDAMC94MR2          0.302270
+1978  Vanessa Lopes    BEBEMC60CZ1          0.301389
+1979  Vanessa Lopes    BEDAMC88PR1          0.299154
+
+
+Top recommendations for client Vanessa Martins Alves:
+                  Client_ID     Product_ID  Predicted_Rating
+1980  Vanessa Martins Alves  CJMOFM10X0OW2          0.174113
+1981  Vanessa Martins Alves  VEPSFM167BG14          0.160227
+1982  Vanessa Martins Alves  VEPCFM170ES-4          0.158607
+1983  Vanessa Martins Alves    SPGRFM97X-4          0.158081
+1984  Vanessa Martins Alves   SHANFM109JS6          0.158073
+
+
+Recall at 5 for client Vania dos santos Rocha: 1.0
+Top recommendations for client Vania dos santos Rocha:
+                   Client_ID    Product_ID  Predicted_Rating
+1985  Vania dos santos Rocha  CAYCMC119JS4          0.198726
+1986  Vania dos santos Rocha  JQYCMC128AZ4          0.196260
+1987  Vania dos santos Rocha   CMYCMC50OW4          0.191909
+1988  Vania dos santos Rocha  SPPTMC81BR-4          0.178565
+1989  Vania dos santos Rocha    TNGRMC90-7          0.172449
+
+
+Top recommendations for client Victoria Junqueira :
+                Client_ID     Product_ID  Predicted_Rating
+1990  Victoria Junqueira     CSPCFM990-5          0.166378
+1991  Victoria Junqueira     CSPCFM990-7          0.164556
+1992  Victoria Junqueira   VEPSFM167BG14          0.160349
+1993  Victoria Junqueira   VEPCFM170ES-4          0.158501
+1994  Victoria Junqueira    SHANFM109JS6          0.158124
+
+
+Recall at 5 for client Victoria Mendes: 1.0
+Top recommendations for client Victoria Mendes:
+            Client_ID     Product_ID  Predicted_Rating
+1995  Victoria Mendes   CJFMAN119OW2          0.178133
+1996  Victoria Mendes  VEPCFM149AVR3          0.161588
+1997  Victoria Mendes  VEPSFM167BG14          0.158454
+1998  Victoria Mendes            NaN          0.157377
+1999  Victoria Mendes  VEPCFM170ES-4          0.156883
+
+
+Top recommendations for client Viviele Pizoli:
+           Client_ID     Product_ID  Predicted_Rating
+2000  Viviele Pizoli   SAMOFM80PR16          0.179712
+2001  Viviele Pizoli  BLANFM73YOW16          0.174569
+2002  Viviele Pizoli  VEPSFM167BG14          0.160029
+2003  Viviele Pizoli  VEPCFM170ES-4          0.158438
+2004  Viviele Pizoli   SHANFM109JS6          0.157978
+
+
+Top recommendations for client Vovó da Hadassa:
+            Client_ID     Product_ID  Predicted_Rating
+2005  Vovó da Hadassa  VEPSFM167BG14          0.160251
+2006  Vovó da Hadassa    CMCHMC38-11          0.159536
+2007  Vovó da Hadassa  VEPCFM170ES-4          0.158576
+2008  Vovó da Hadassa    SPGRFM97X-4          0.158049
+2009  Vovó da Hadassa   SHANFM109JS6          0.158001
+
+
+Top recommendations for client Wanessa Ayres :
+           Client_ID     Product_ID  Predicted_Rating
+2010  Wanessa Ayres   VEPSFM167BG14          0.160235
+2011  Wanessa Ayres   VEPCFM170ES-4          0.158633
+2012  Wanessa Ayres     SPGRFM97X-4          0.158138
+2013  Wanessa Ayres    SHANFM109JS6          0.158029
+2014  Wanessa Ayres     CMDAMC90BG3          0.157909
+
+
+Top recommendations for client Wanessa Naves:
+          Client_ID     Product_ID  Predicted_Rating
+2015  Wanessa Naves  VEPCFM110ES-2          0.171016
+2016  Wanessa Naves     SULPFM19-3          0.163438
+2017  Wanessa Naves  VEPSFM167BG14          0.160163
+2018  Wanessa Naves  VEPCFM170ES-4          0.158518
+2019  Wanessa Naves   SHANFM109JS6          0.157987
+
+
+Top recommendations for client Wanessa Pazini:
+           Client_ID     Product_ID  Predicted_Rating
+2020  Wanessa Pazini  CJTWFM180PR16          0.186014
+2021  Wanessa Pazini  VEPSFM167BG14          0.160303
+2022  Wanessa Pazini  VEPCFM170ES-4          0.158644
+2023  Wanessa Pazini    SPGRFM97X-4          0.158150
+2024  Wanessa Pazini   SHANFM109JS6          0.158142
+
+
+Top recommendations for client Wanessa Romanhol :
+              Client_ID     Product_ID  Predicted_Rating
+2025  Wanessa Romanhol   VEPSFM167BG14          0.160285
+2026  Wanessa Romanhol   VEPCFM170ES-4          0.158582
+2027  Wanessa Romanhol     SPGRFM97X-4          0.158075
+2028  Wanessa Romanhol    SHANFM109JS6          0.158044
+2029  Wanessa Romanhol     CMDAMC90BG3          0.157909
+
+
+Recall at 5 for client Wilsa Maria Laura: 1.0
+Top recommendations for client Wilsa Maria Laura:
+              Client_ID     Product_ID  Predicted_Rating
+2030  Wilsa Maria Laura   VEBEFM100OW4          0.171734
+2031  Wilsa Maria Laura   VEBEFM100OW6          0.168857
+2032  Wilsa Maria Laura            NaN          0.163245
+2033  Wilsa Maria Laura  VEPSFM167BG14          0.153842
+2034  Wilsa Maria Laura  VEPCFM170ES-4          0.152250
+
+
+Top recommendations for client Yanna Marta Araujo Marques:
+                       Client_ID     Product_ID  Predicted_Rating
+2035  Yanna Marta Araujo Marques   CJMOFM120PR3          0.213821
+2036  Yanna Marta Araujo Marques   JQMOFM130JS6          0.212652
+2037  Yanna Marta Araujo Marques  CJKGMC150AZ10          0.211007
+2038  Yanna Marta Araujo Marques   VEMOFM90XVD3          0.208758
+2039  Yanna Marta Araujo Marques  VEPSFM167BG14          0.159799
+
+
+Top recommendations for client Yasmin Terra:
+         Client_ID     Product_ID  Predicted_Rating
+2040  Yasmin Terra  SPTJFM132DR-2          0.207513
+2041  Yasmin Terra    CSPCFM110-2          0.205929
+2042  Yasmin Terra    BLBEFM90OW2          0.204800
+2043  Yasmin Terra     VECHFM60-3          0.202266
+2044  Yasmin Terra  VEPSFM167BG14          0.160475
+
+
+Recall at 5 for client Yluska F M Maciel : 1.0
+Top recommendations for client Yluska F M Maciel :
+               Client_ID     Product_ID  Predicted_Rating
+2045  Yluska F M Maciel     BLMOFM40OW8          0.215684
+2046  Yluska F M Maciel    VEANFM146PR8          0.208646
+2047  Yluska F M Maciel   VEPSFM167BG14          0.160329
+2048  Yluska F M Maciel   VEPCFM170ES-4          0.158713
+2049  Yluska F M Maciel     SPGRFM97X-4          0.158338
+
+
+Recall at 5 for client Yura Cardoso: 1.0
+Top recommendations for client Yura Cardoso:
+         Client_ID     Product_ID  Predicted_Rating
+2050  Yura Cardoso    TNGRMC90-17          0.196332
+2051  Yura Cardoso  SPTJMC127MM29          0.190250
+2052  Yura Cardoso  VEPSFM167BG14          0.160148
+2053  Yura Cardoso  VEPCFM170ES-4          0.158326
+2054  Yura Cardoso    SPGRFM97X-4          0.157836
+
+
+Recall at 5 for client thaynara Ulisses Medeiro: 0.0
+Top recommendations for client thaynara Ulisses Medeiro:
+                     Client_ID     Product_ID  Predicted_Rating
+2055  thaynara Ulisses Medeiro    JDMOFM60ES4          0.347044
+2056  thaynara Ulisses Medeiro    BLMOFM45OW4          0.344406
+2057  thaynara Ulisses Medeiro   CJANFM169OW4          0.344068
+2058  thaynara Ulisses Medeiro    JDMOFM80ES4          0.338990
+2059  thaynara Ulisses Medeiro  SPTJFM124PR25          0.338686
+
+
+Top recommendations for client Élen Strieder:
+          Client_ID     Product_ID  Predicted_Rating
+2060  Élen Strieder   CAPSFM85RS-3          0.197552
+2061  Élen Strieder  VEPCFM185LR-5          0.189390
+2062  Élen Strieder  BLPSFM76RSX-3          0.186660
+2063  Élen Strieder  VEPSFM167BG14          0.160572
+2064  Élen Strieder  VEPCFM170ES-4          0.158767
+
+

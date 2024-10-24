@@ -1,0 +1,1403 @@
+Sales_Date,Monetary_Value,Discount,Client_ID,Product_ID,Product_Name,Brand_Name,Unnamed: 7
+2024-02-21,238.9,0,Roseany Meneses,SAANFM87PR8,Saia Metalizada Conceito Animê - 8 anos - Prata,Animê,834448287
+2024-02-21,243.39,0,Silvana Geraldo Martins Assis ,BLPSFM60RS2,Blusa canelada básica Pituchinhus - 2 anos - Rosa médio,Pituchinhus,834474365
+2024-02-21,243.39,0,Silvana Geraldo Martins Assis ,BLPSFM107RS4,Blusa com babados de tule Pituchinhus - 4 anos - Rosa claro,Pituchinhus,834474365
+2024-02-21,216.43,0,Felicia ,VEMOFM90RS2,Vestido Tiger Momi - 2 anos - Momi tiger,Momi,834479688
+2024-02-21,218.98,0,Valquiria ,CAKGMC100WBR12,Camisa casual slim ML King & Joe Play - 12 anos - Branca,King & Joe Play,834513278
+2024-02-22,240.24,0,Lillie Lima Dos Santos Sousa ,VEPCFM182-4,Vestido Little Ties Petit Cherie - Rosa - 4 anos,Petit Cherie,834557324
+2024-02-21,767.79,0,Amanda Emílio Pereira,BLANFM105OW8,Camisa com gola de strass Animê - 8 anos - Off white,Animê,834577904
+2024-02-21,767.79,0,Amanda Emílio Pereira,CTMOFM80PR8,Colete Tricot Classics Momi - 8 anos - Preto,Momi,834577904
+2024-02-21,767.79,0,Amanda Emílio Pereira,SAANFM159JS6,Salopete jump jeans Animê - 6 anos - Jeans,Animê,834577904
+2024-02-21,767.79,0,Amanda Emílio Pereira,SAANFM136JS6,Salopete jeans com strass Animê - 6 anos - Jeans,Animê,834577904
+2024-02-21,767.79,0,Amanda Emílio Pereira,CJFMAN137VR4,Conjunto blusa e shorts detalhes em laise Animê - 4 anos - Vermelho,Animê,834577904
+2024-02-22,424.95,0,Tatiele Bester Hermes ,VEPCFM290RS-6,Vestido Shine Petit Cherie - 8 anos - Rosa,Petit Cherie,834632224
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,BLPSFM55PR4,Regata Basics Pituchinhus - 4 anos - Preto,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,SAPSFM130PR4,Saia-short frufru de tule bordada Pituchinhus - 4 anos - Preto,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,BLPSFM61PR4,Blusa ML Básica Cotton Pituchinhus - 4 anos - Preto,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,VEPSFM427RS4,Vestido Conceito Tule Frufru Bordados Pituchinhus - 4 anos - Rose,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,BLPSFM61RS4,Blusa Básica ML Térmica Pituchinhus - 4 anos - Rosa baby,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,BLPSFM55BG4,Regata Basics Pituchinhus - 4 anos - Bege claro,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,VEPSFM186PR4,Vestido Tricot Botões Jóia Coração Pituchinhus - 4 anos - Preto,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,VEPSFM167BG4,Vestido Bouclé Bordados e Bolsos Pituchinhus - 4 anos - Bege claro,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,BLPSFM83BG4,Blusa ML Tricot Pituchinhus - 4 anos - Mescla bege,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,CLPSFM101BG4,Legging Tricot Pituchinhus - 4 anos - Mescla bege,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,BLPSFM61OW4,Blusa ML Básica Cotton Pituchinhus - 4 anos - Off white,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,CSPSFM191RS4,Casaco Pele Puffer Pituchinhus - 4 anos - Rosa baby,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,BLPSFM133RS4,Blusa Tricot Xadrez Ursinha Cristal Pituchinhus - 4 anos - Rosa dolce,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,SAPSFM120RS4,Saia-shorts Tricot Xadrez Ursinhas Cristal Pituchinhus - 4 anos - Rosa dolce,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,SAPSFM148OC4,Saia-shorts Pregas Bolso Cargo Pituchinhus - 4 anos - Ocre,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,CTPSFM102RS4,Colete Tricot Tranças & Laços Pituchinhus - 4 anos - Rosa cosmos,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,CMPSFM139BR4,Camisa Clássica Urso Patche Pituchinhus - 4 anos - Branco,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,SAPSFM119RS4,Shorts-saia Bolsos Cargo Patches Ursa Pituchinhus - 4 anos - Rose,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,MQANFM128JS3,Jump Strass Animê - 3 anos - Jeans,Animê,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,BLANFM73XOW3,Blusa Mangas Evasê e Strass Animê - 3 anos - Pérola,Animê,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,VEPSFM210VD-2,Vestido conceito em tule com lastex Pituchinhus - 4 anos - Verde,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,BSPSFM80BG,Bolsa Ursinha Pituchinhus,Pituchinhus,834635256
+2024-02-22,6365.09,0,Janeth Vaz Oliveira,BSPSFM158RS,Bolsa Pearl And Charm Pituchinhus,Pituchinhus,834635256
+2024-02-22,1537.07,0,Thiara da Cruz Silva,BLPSFM55BG6,Regata Basics Pituchinhus - 6 anos - Bege claro,Pituchinhus,834653031
+2024-02-22,1537.07,0,Thiara da Cruz Silva,BLPSFM55PR6,Regata Basics Pituchinhus - 6 anos - Preto,Pituchinhus,834653031
+2024-02-22,1537.07,0,Thiara da Cruz Silva,BLPSFM80RS-3,Blusa ursinhas e flores Pituchinhus - 6 anos - Rosa,Pituchinhus,834653031
+2024-02-22,1537.07,0,Thiara da Cruz Silva,VEUMFM170MR6,Vestido em tricoline com elástico com glitter - 6 anos - Marinho,Um Mais Um,834653031
+2024-02-22,1537.07,0,Thiara da Cruz Silva,VEMOFM167PR4,Vestido Winter Flower Momi - 4 anos - Preto,Momi,834653031
+2024-02-22,1537.07,0,Thiara da Cruz Silva,BLMOFM36AL6,Blusa Canelada Momi - 6 anos - Amarela,Momi,834653031
+2024-02-22,1537.07,0,Thiara da Cruz Silva,BLMOFM36OW6,Blusa Canelada Momi - 6 anos - Off white,Momi,834653031
+2024-02-22,1537.07,0,Thiara da Cruz Silva,SPTJFM124PR27,Sapatilha Brigitte Tip Toey Joey - 27 - Preto,Tip Toey Joey,834653031
+2024-02-22,1537.07,0,Thiara da Cruz Silva,SPTJFM124ZVR27,Sapatilha Brigitte Tip Toey Joey - 27 - Vermelho,Tip Toey Joey,834653031
+2024-02-22,769.53,0,Pamella Ribeiro,BLMOFM67OW14,Blusa Velvet Heart Momi - 14 anos - Off white,Momi,834716694
+2024-02-22,769.53,0,Pamella Ribeiro,SIIAFM87OW14,Shorts-saia Laço I Am - 14 anos - Off white,I Am,834716694
+2024-02-22,769.53,0,Pamella Ribeiro,BLIAFM90OW14,Top Laço I Am - 14 anos - Off white,I Am,834716694
+2024-02-22,769.53,0,Pamella Ribeiro,SHANFM100PR16,Shorts-saia Transpasse Conceito Animê - 16 anos - Preto,Animê,834716694
+2024-02-22,610.0,0,Olivia Leão ,CJANFM182OW6,Conjunto blusa com mangas fluídas e saia conceito Animê - 6 anos - Pérola,Animê,834727175
+2024-02-22,610.0,0,Olivia Leão ,VEFMAN219RS6,Vestido de tule e paetê Animê - 6 anos - Rosa,Animê,834727175
+2024-02-23,207.92,0,Ivete Custódia Ferreira Costa,CJANFM145OW12,Conjunto blusa over sized e legging Minnie & Animê - 12 anos - Off white,Animê,834794527
+2024-02-23,237.06,0,Sabrina Falco,SHMOFM100PR8,Shorts de Sarja com Amarração Momi - 8 anos - Preto,Momi,834817042
+2024-02-23,192.75,0,Derize de Souza Almeida,BLPSFM107RS6,Blusa com babados de tule Pituchinhus - 6 anos - Rosa claro,Pituchinhus,834864445
+2024-02-23,472.32,0,Amanda Sirotto Veduatto,CJBEFM110AZ6,Conjunto em linho Laços  - 6 anos - Azul,Beabá,834864947
+2024-02-23,472.32,0,Amanda Sirotto Veduatto,VEMOFM90VD6,Vestido Winter Collection Momi - 6 anos - Verde folha,Momi,834864947
+2024-02-23,472.32,0,Amanda Sirotto Veduatto,CJBEMC109AZ10,Conjunto Dino tshirt e bermuda de moletom Beabá - 10 anos - Azul médio,Beabá,834864947
+2024-02-23,374.76,0,Evelyne Ramos de Sousa,VEPSFM186RS4,Vestido Tricot Xadrez Ursinhas Cristal Pituchinhus - 4 anos - Rosa dolce,Pituchinhus,834894656
+2024-02-23,228.95,0,Karla Caldas Bicalho,SAANFM87PR8,Saia Metalizada Conceito Animê - 8 anos - Prata,Animê,834910981
+2024-02-23,129.91,0,Fernanda Aparecida Santos,CJANFM119OW10,Conjunto Summer Vibes Animê - 10 anos - Pérola,Animê,834911768
+2024-02-23,266.58,0,Lorrany Fernanda,CJFMAN195XOW10,Conjunto blusa com mangas amplas e shorts Animê - 10 anos - Pérola e marinho,Animê,834913172
+2024-02-23,266.58,0,Lorrany Fernanda,CMKGMC53AL10,Polo piquet slim com bordado King & Joe Play - 10 anos - Amarelo claro,King & Joe Play,834913172
+2024-02-23,52.25,0,Nicole Godoi,BLMOFM48XOW6,Regata canelada com babados Momi - 6 anos - Off white,Momi,834919034
+2024-02-23,1113.4,0,Kelly Zamignam,BLANFM128OW2,Camisa Licenciada Mickey Collab Disney & Animê - 2 anos - Off white,Animê,834937907
+2024-02-23,1113.4,0,Kelly Zamignam,SAANFM87PR2,Saia Metalizada Conceito Animê - 2 anos - Prata,Animê,834937907
+2024-02-23,1113.4,0,Kelly Zamignam,CSANFM137PR2,Casaco Mickey Collab Disney & Animê - 2 anos - Preto,Animê,834937907
+2024-02-23,1113.4,0,Kelly Zamignam,BLPSFM61RS2,Blusa Básica ML Térmica Pituchinhus - 2 anos - Rosa baby,Pituchinhus,834937907
+2024-02-23,1113.4,0,Kelly Zamignam,CJMOFM120OW2,Conjunto Pink Hearts Momi - 2 anos - Pérola,Momi,834937907
+2024-02-24,230.0,0,Leane Oliveira,VEFMAN228VR6,Vestido em laise Animê - 6 anos - Vermelho,Animê,834966147
+2024-02-24,2063.45,0,Erika Lopes,CJANFM137ES8,Conjunto Animal Print Animê - 8 anos - Baby Pattern,Animê,834991994
+2024-02-24,2063.45,0,Erika Lopes,BLANFM73XOW6,Blusa Mangas Evasê e Strass Animê - 6 anos - Pérola,Animê,834991994
+2024-02-24,2063.45,0,Erika Lopes,MQANFM128JS6,Jump Strass Animê - 6 anos - Jeans,Animê,834991994
+2024-02-24,2063.45,0,Erika Lopes,BLMOFM48RS8,Blusa Canelada Basics Momi - 8 anos - Rosa claro,Momi,834991994
+2024-02-24,2063.45,0,Erika Lopes,SHMOFM96JS8,Shorts Jeans Strass de Coração Momi - 8 anos - Jeans,Momi,834991994
+2024-02-24,2063.45,0,Erika Lopes,BLMOFM67OW8,Blusa Velvet Heart Momi - 8 anos - Off white,Momi,834991994
+2024-02-24,2063.45,0,Erika Lopes,CMKGMC40OW2,Camiseta estampada Enjoy The Beach King & Joe Play - 2 anos - Off white,King & Joe Play,834991994
+2024-02-24,2063.45,0,Erika Lopes,SHKGMC50WLR2,Shorts nylon flex tradicional King & Joe Play - 2 anos - Laranja,King & Joe Play,834991994
+2024-02-24,2063.45,0,Erika Lopes,CJUMMC90CZ2,Conjunto camiseta de algodão e bermuda de moletinho Lets Move 1+1 - 2 anos - Mescla escuro,Um Mais Um,834991994
+2024-02-24,2063.45,0,Erika Lopes,SHFMMO96OW8,Shorts de sarja com strass Momi - 8 - Off white,Momi,834991994
+2024-02-24,2063.45,0,Erika Lopes,CJUMMC119XAZ2,Conjunto t-shirt 100% algodão e bermuda de sarja flamê Um Mais Um - 2 anos - Azul,Um Mais Um,834991994
+2024-02-24,270.0,0,Isabella De Almeida,VEANFM227OW2,Vestido em laise rosa com babados Animê - 2 anos - Off white,Animê,834992431
+2024-02-24,380.8,0,Tabatha Machado,PODAMC98PR4,Polo manga curta Dame - 4 anos - Preto,Dame,834993836
+2024-02-24,380.8,0,Tabatha Machado,PODAMC98PR6,Polo manga curta Dame - 6 anos - Preto,Dame,834993836
+2024-02-24,1567.55,0,Patricia da Conceição S Santos,VEANFM210OW2,Vestido Summer Pink Animê - 2 anos - Off white,Animê,834994391
+2024-02-24,1567.55,0,Patricia da Conceição S Santos,CJPCFM275-1,Conjunto Joy In The Field Petit Cherie - 2 anos - Jeans,Petit Cherie,834994391
+2024-02-24,1567.55,0,Patricia da Conceição S Santos,CJANFM127OW2,Conjunto Blusa e legging Animê - 2 - Pérola,Animê,834994391
+2024-02-24,1567.55,0,Patricia da Conceição S Santos,CJPCFM119XPK2,Conjunto Neon Vibes Petit Cherie - 2 anos - Pink,Petit Cherie,834994391
+2024-02-24,1567.55,0,Patricia da Conceição S Santos,MQANFM128JS2,Jump Strass Animê - 2 anos - Jeans,Animê,834994391
+2024-02-24,1567.55,0,Patricia da Conceição S Santos,BLANFM73XOW1,Blusa Mangas Evasê e Strass Animê - 1 ano - Pérola,Animê,834994391
+2024-02-25,434.35,0,Caroline Costa Nazareno Adachi,CAANFM73RS6,Calça de praia Animê - 6 anos - Rosa,Animê,835046177
+2024-02-25,434.35,0,Caroline Costa Nazareno Adachi,BLBEFM60OW4,Blusa de tricoline com laço nas costas Beabá - 4 anos - Off white,Beabá,835046177
+2024-02-25,434.35,0,Caroline Costa Nazareno Adachi,MQANFM130VD4,Jump de sarja Animê - 4 - Verde alecrim,Animê,835046177
+2024-02-25,434.35,0,Caroline Costa Nazareno Adachi,CAANFM87OW4,Camisa de tecido com gola de renda Animê - 4 anos - Off white,Animê,835046177
+2024-02-26,451.23,0,Carla da Gama Soares Gomes,VEPCFM190CL-1,Vestido Colorful Ties Petit Cherie - 1 ano - Colorido,Petit Cherie,835174329
+2024-02-26,0.0,0,Kelly Zamignam,,Sem descrição,,835204551
+2024-02-26,196.9,0,Ana Eliza,CJUMFM180BR6,Conjunto camisa e shorts com detalhes em laise - 6 anos - Branco,Um Mais Um,835239799
+2024-02-26,2267.99,0,Larissa Dalsoto,JQANFM240PR12,Jaqueta Sobreposição Conceito Animê - 12 anos - Preto,Animê,835277113
+2024-02-26,2267.99,0,Larissa Dalsoto,SHANFM100PR10,Shorts-saia Transpasse Conceito Animê - 10 anos - Preto,Animê,835277113
+2024-02-26,2267.99,0,Larissa Dalsoto,SAANFM110RS12,Saia Shiness Animê - 12 anos - Pink luz,Animê,835277113
+2024-02-26,2267.99,0,Larissa Dalsoto,JQANFM182RS12,Jaqueta Shiness Animê - 12 anos - Pink luz,Animê,835277113
+2024-02-26,2267.99,0,Larissa Dalsoto,CJMOFM129PR12,Conjunto Sobreposição Momi - 12 anos - Preto,Momi,835277113
+2024-02-26,2267.99,0,Larissa Dalsoto,BLPSFM132BG10,Blusa Tricot Xadrez Urso Pele Bordados Pituchinhus - 10 anos - Mescla bege,Pituchinhus,835277113
+2024-02-26,2267.99,0,Larissa Dalsoto,SAPSFM120BG10,Saia-shorts Tricot Xadrez Pele Barra Pituchinhus - 10 anos - Mescla bege,Pituchinhus,835277113
+2024-02-26,317.58,0,Thiara da Cruz Silva,VEIAFM128PR16,Vestido Tubinho I Am - 16 anos - Preto,I Am,835298212
+2024-02-27,916.19,0,Carine Dill,BLPSFM55PR10,Regata Basics Pituchinhus - 10 anos - Preto,Pituchinhus,835362781
+2024-02-27,916.19,0,Carine Dill,BLPSFM101OW10,Blusa Babados Gola & Punhos Pituchinhus - 10 anos - Off white,Pituchinhus,835362781
+2024-02-27,916.19,0,Carine Dill,SAPSFM148OC10,Saia-shorts Pregas Bolso Cargo Pituchinhus - 10 anos - Ocre,Pituchinhus,835362781
+2024-02-27,916.19,0,Carine Dill,CJMOFM267JS10,Conjunto colete e shorts jeans Momi - 10 anos - Jeans,Momi,835362781
+2024-02-27,691.39,0,Fernanda Perin Dourado,VEPCFM120RS-2,Vestido Romantic Petit Cherie - 2 anos - Rosa,Petit Cherie,835373177
+2024-02-27,691.39,0,Fernanda Perin Dourado,VEPCFM120RS-5,Vestido Romantic Petit Cherie - 6 anos - Rosa,Petit Cherie,835373177
+2024-02-27,691.39,0,Fernanda Perin Dourado,CSANFM86RS6,Camisola Bela Adormecida Animê - 6 anos - Rosa,Animê,835373177
+2024-02-27,279.99,0,Naira Rocha Chaves,VEANFM182OW8,Vestido Minnie Navy Animê - 8 anos - Off white,Animê,835391929
+2024-02-27,369.43,0,Fernanda Mendonça ,CTPSFM102RS8,Colete Tricot Tranças & Laços Pituchinhus - 8 anos - Rosa cosmos,Pituchinhus,835394306
+2024-02-27,369.43,0,Fernanda Mendonça ,CJMOFM129PK8,Conjunto blusa e shorts laise Momi - 8 - Pink,Momi,835394306
+2024-02-27,779.96,0,Ecília Pires,SHANFM137OW6,Shorts de sarja com strass Animê - 6 anos - Off white,Animê,835395817
+2024-02-27,779.96,0,Ecília Pires,SHANFM137OW4,Shorts de sarja com strass Animê - 4 anos - Off white,Animê,835395817
+2024-02-27,779.96,0,Ecília Pires,BLANFM160OW6,Blusa com strass Animê 3470 - 6 - Off white,Animê,835395817
+2024-02-27,779.96,0,Ecília Pires,BLANFM160OW4,Blusa com strass Animê 3470 - 4 - Off white,Animê,835395817
+2024-02-27,443.0,0,Rosana magalhães ,VEPCFM182-5,Vestido Little Ties Petit Cherie - Rosa - 6 anos,Petit Cherie,835415137
+2024-02-27,443.0,0,Rosana magalhães ,VELCFM179BG6,Vestido Liz Little Closet - 6 anos,Little Closet,835415137
+2024-02-27,722.0,0,Bárbara Yano,SPTJFM119XBG27,Sapatilha Misty Tip Toey Joey - 27 - Bege,Tip Toey Joey,835437150
+2024-02-27,722.0,0,Bárbara Yano,VEPCFM200ES-5,Vestido Winter Flowers Petit Cherie - Estampado - 6 anos,Petit Cherie,835437150
+2024-02-27,722.0,0,Bárbara Yano,,Laços e tiaras Gracia  - Laço M,,835437150
+2024-02-28,1254.1,0,Patricia Daudt  Alkmim,CJANFM168COW8,Conjunto blusa e saia Animê 5406 - 8 - Pérola,Animê,835524744
+2024-02-28,1254.1,0,Patricia Daudt  Alkmim,CJPCFM139ES8,Conjunto Joy In The Field Petit Cherie - 8 anos - Estampado,Petit Cherie,835524744
+2024-02-28,1254.1,0,Patricia Daudt  Alkmim,CJPCFM119VR8,Conjunto Celebration Petit Cherie - Vermelho - 8 anos,Petit Cherie,835524744
+2024-02-28,1254.1,0,Patricia Daudt  Alkmim,KTCJPS220OW8,Conjunto saia-shorts e blusa frufru de tule bordada Pituchinhus  - 8 anos - Off white,Pituchinhus,835524744
+2024-02-28,1254.1,0,Patricia Daudt  Alkmim,VEPCFM150CL-3,Vestido Botanical Petit Cherie - 10 anos - Colorido,Petit Cherie,835524744
+2024-02-28,1254.1,0,Patricia Daudt  Alkmim,CJPCFM170OW-3,Conjunto Boutique de Fleurs Petit Cherie - Off white - 10 anos,Petit Cherie,835524744
+2024-02-28,1254.1,0,Patricia Daudt  Alkmim,CJPCFM150OW-3,Conjunto Celebration Petit Cherie - 10  anos - Off white,Petit Cherie,835524744
+2024-02-28,552.65,0,Aline Polese,CJANFM137ES6,Conjunto Animal Print Animê - 6 anos - Baby Pattern,Animê,835559593
+2024-02-28,552.65,0,Aline Polese,BLANFM86ZOW6,Blusa com mangas evasê e stress Animê - 6 anos - Off white,Animê,835559593
+2024-02-28,552.65,0,Aline Polese,SHANFM109JS6,Shorts jeans claro com strass Animê - 6 anos - Jeans,Animê,835559593
+2024-02-29,195.0,0,Ana Carolina Domingues,SHCHMC58-6,Shorts surf Charpey - 6  anos - Azul,Charpey,835688144
+2024-02-29,195.0,0,Ana Carolina Domingues,CMKGMC22MR6,T-shirt Essentials King & Joe Play - 6 anos - Marinho,King & Joe Play,835688144
+2024-02-29,207.0,0,Márcia Betânia Silva,BEKGMC53CZ8,Bermuda Moletom Confort King & Joe Play - 8 anos - Chumbo,King & Joe Play,835699568
+2024-02-29,207.0,0,Márcia Betânia Silva,CMUMMC44VD10,Tshirt 100% algodão Skate 1+1 - 10 anos - Lima,Um Mais Um,835699568
+2024-02-29,1034.37,0,Thiara da Cruz Silva,CLIAFM128PR16,Calça Wide I Am - 16 anos - Preto,I Am,835699947
+2024-02-29,1034.37,0,Thiara da Cruz Silva,SATWFM150PR16,Saia-shorts Strass Two In - 16 anos - Preto,Two In,835699947
+2024-02-29,1034.37,0,Thiara da Cruz Silva,CATWFM190BR16,Camisa com Strass e Amarração Two In - 16 anos - Branco,Two In,835699947
+2024-02-29,996.26,0,Rosicleia dos Santos,CJANFM137ES12,Conjunto Animal Print Animê - 12 anos - Baby Pattern,Animê,835793609
+2024-02-29,996.26,0,Rosicleia dos Santos,VEPCFM210XD-5,Vestido Shiny Petit Cherie - 14 anos - Xadrez,Petit Cherie,835793609
+2024-02-29,996.26,0,Rosicleia dos Santos,CJANFM145XOW14,Conjunto blusa e shorts rosa Animê - 14 anos - Off white,Animê,835793609
+2024-02-29,207.99,0,Patricia Daudt  Alkmim,VEPCFM189RS12,Vestido Boutique de Fleurs Petit Cherie - Rosa - 12 anos,Petit Cherie,835794256
+2024-02-29,538.56,0,Adriane Martins Ferreira,CJPCFM275-3,Conjunto Joy In The Field Petit Cherie - 4 anos - Jeans,Petit Cherie,835797733
+2024-02-29,538.56,0,Adriane Martins Ferreira,KTCJPS205VD2,Conjunto blusa e shorts estampa mini flor e ursinha cristais Pituchinhus - 2 anos - Verde,Pituchinhus,835797733
+2024-02-29,280.5,0,Alexandre Ferreira da Silva,VEBEFM98RS6,Vestido Estampado Beabá com Detalhe no Ombro - 6 anos - Rosa claro,Beabá,835823616
+2024-03-01,320.04,0,Aline Parode ,KTCJPS250VD6,Conjunto blusa e saia com patche flores Pituchinhus  - 6 anos - Verde,Pituchinhus,835892272
+2024-03-01,302.9,0,Ivania Fischer,SPTJFM119BG30,Sapatilha Misty Tip Toey Joey - 30 - Bege,Tip Toey Joey,835921932
+2024-03-01,639.98,0,Renata Brasil Rangel ,CMDAMC82AZ4,Camiseta Mergulho Dame - 4 anos - Azul Klein,Dame,835965853
+2024-03-01,639.98,0,Renata Brasil Rangel ,CMUMMC44VD8,Tshirt 100% algodão Skate 1+1 - 8 anos - Lima,Um Mais Um,835965853
+2024-03-01,639.98,0,Renata Brasil Rangel ,CMDAMC78MR6,Camiseta Teddy Xadrez Dame - 6 anos - Marinho,Dame,835965853
+2024-03-01,639.98,0,Renata Brasil Rangel ,,Laços e tiaras Gracia  - Laço M,,835965853
+2024-03-01,639.98,0,Renata Brasil Rangel ,BTPTFM120CB-3,Bota Galáxia Petit Cheval - N. 28 - Cobre,Petit Cheval,835965853
+2024-03-01,459.84,0,Sofia Ferro,,Laços e tiaras Gracia  - Laço P,,835969094
+2024-03-01,459.84,0,Sofia Ferro,,Laços e tiaras Gracia  - Laço G,,835969094
+2024-03-01,459.84,0,Sofia Ferro,CJANFM182OW2,Conjunto blusa com mangas fluídas e saia conceito Animê - 2 anos - Pérola,Animê,835969094
+2024-03-01,185.95,0,Jordana Carvalho,CJPCFM169VD4,Conjunto Bright Garden Neon Petit Cherie - 4 anos - Verde Neon,Petit Cherie,835969538
+2024-03-01,212.86,0,Priscila Bontempo,KTCJPS158RS4,Conjunto blusa básica e legging mini flor e mini ursa Pituchinhus  - 4 anos - Estampado,Pituchinhus,835981688
+2024-03-02,467.25,0,Cassia Veronica Lima Silva,SPGRFM93Z-9,Sapato Laura - 30 - Off white,Gracia,836044672
+2024-03-02,467.25,0,Cassia Veronica Lima Silva,VEPSFM210VD-4,Vestido conceito em tule com lastex Pituchinhus - 8 anos - Verde,Pituchinhus,836044672
+2024-03-02,607.71,0,Aline Halen,SDGRFM95-4,Sandália Alice - 25 - Nevasca,Gracia,836048453
+2024-03-02,607.71,0,Aline Halen,SPPTFM85PT-3,Sandália Ciranda Petit Cheval - N. 24 - Prata,Petit Cheval,836048453
+2024-03-02,607.71,0,Aline Halen,SDPTFM90DR-5,Sandália Festa Doré Petit Cheval - N. 24 - Dourado,Petit Cheval,836048453
+2024-03-02,369.6,0,Poliana Batista,SHUMMC90AZ10,Shorts d`água Um Mais Um - 10 anos - Azul claro,Um Mais Um,836062732
+2024-03-02,369.6,0,Poliana Batista,BABEMC79XAZ6,Bata de voil de linho Beabá - 6 anos - Azul claro,Beabá,836062732
+2024-03-02,349.99,0,Cinthia Menegazzo de Sousa,VEPSFM235AZ12,Vestido de tule com babados e cristais Pituchinhus - 12 anos - Azul marinho,Pituchinhus,836071565
+2024-03-02,511.97,0,Arielle Camargo,CAANFM110OW6,Camisa de tecido com strass Animê - 6 anos - Off white,Animê,836094651
+2024-03-02,511.97,0,Arielle Camargo,CAANFM87OW6,Camisa de tecido com gola de renda Animê - 6 anos - Off white,Animê,836094651
+2024-03-02,511.97,0,Arielle Camargo,CJUMFM169LR6,Conjunto camisa e shorts com bordados Um Mais Um - 6 anos - Laranja,Um Mais Um,836094651
+2024-03-03,1019.36,0,Erenice Gatti Gaiatto,SHMOFM96JS16,Shorts Jeans Strass de Coração Momi - 16 anos - Jeans,Momi,836134305
+2024-03-03,1019.36,0,Erenice Gatti Gaiatto,VEPCFM170ES-6,Vestido Le Jardin Petit Cherie - 16 anos - Estampado,Petit Cherie,836134305
+2024-03-03,1019.36,0,Erenice Gatti Gaiatto,CJPCFM180ES-6,Conjunto Winter Classic Petit Cherie - 16 anos - Estampado,Petit Cherie,836134305
+2024-03-03,282.99,0,Thalita da Costa Moreno Gama Weirich,VEPCFM200LR-4,Vestido Watercolor Flowers Petit Cherie - 12 anos - Laranja,Petit Cherie,836144237
+2024-03-03,379.7,0,Natalia Nubia,VEPCFM140PR-2,Vestido Classic P&B Petit Cherie - 2 anos,Petit Cherie,836151108
+2024-03-03,313.98,0,Renato Aparecido Pereira,VEBEFM100OW8,Vestido de linho com pompom colorido - 8 anos - Cru,Beabá,836164821
+2024-03-03,313.98,0,Renato Aparecido Pereira,VEPCFM109RS8,Vestido Sea Of Dreams Verão 2024 Petit Cherie - 8 anos - Rosa,Petit Cherie,836164821
+2024-03-03,289.99,0,Maria Elaine de Oliveira,VEPCFM189XES12,Vestido Fashion Bear Petit Cherie - Estampado - 12 anos,Petit Cherie,836184566
+2024-03-04,384.98,0,Caroline Costa Nazareno Adachi,SAPSFM162AZ4,Saia-shorts com babado de tule em degradê Pituchinhus - 4 anos - Azul,Pituchinhus,836207205
+2024-03-04,384.98,0,Caroline Costa Nazareno Adachi,BLPSFM98AZ6,Blusa frufru de tule degradê Pituchinhus - 6 anos - Azul,Pituchinhus,836207205
+2024-03-04,280.04,0,Cassia Veronica Lima Silva,KTCJPS250VD8,Conjunto blusa e saia com patche flores Pituchinhus  - 8 anos - Verde,Pituchinhus,836238525
+2024-03-04,325.66,0,Thaina Cristina de Sousa Pereira ,VEANFM140RS3,Vestido Pink Luz Momi - 3 anos - Pink luz,Momi,836280833
+2024-03-04,170.0,0,Joana Rossetto,PJFMAN118OW6,Pijama blusa e shorts Minnie Animê - 6 anos - Pérola,Animê,836468290
+2024-03-04,159.6,0,Jusciane Morais Resplandes,BLPSFM107OW-2,Blusa cropped com flores aplicadas Pituchinhus - 4 anos - Off white,Pituchinhus,836479237
+2024-03-04,379.7,0,Jacqueline Visniewski,VEPCFM140PR-6,Vestido Classic P&B Petit Cherie - 8 anos,Petit Cherie,836491395
+2024-03-05,501.0,0,Cinthia Menegazzo de Sousa,KTCJPS205VD12,Conjunto blusa e shorts estampa mini flor e ursinha cristais Pituchinhus - 12 anos - Verde,Pituchinhus,836609446
+2024-03-05,501.0,0,Cinthia Menegazzo de Sousa,VEPSFM210RS-6,Vestido babados com patches de flores Pituchinhus - 12 anos - Rosa,Pituchinhus,836609446
+2024-03-05,540.7,0,Débora Rodrigues,VEPCFM210XD-3,Vestido Shiny Petit Cherie - 10 anos - Xadrez,Petit Cherie,836637665
+2024-03-02,513.97,0,Tatiane Marina dos Anjos Pereira,VEPCFM109RS8,Vestido Sea Of Dreams Verão 2024 Petit Cherie - 8 anos - Rosa,Petit Cherie,836657090
+2024-03-02,513.97,0,Tatiane Marina dos Anjos Pereira,CJANFM150XAL8,Conjunto blusa com laços fixos e saia Animê - 8 - Amarelo claro,Animê,836657090
+2024-03-02,513.97,0,Tatiane Marina dos Anjos Pereira,VEBEFM100OW8,Vestido de linho com pompom colorido - 8 anos - Cru,Beabá,836657090
+2024-03-05,79.97,0,Beatriz Mendanha Ribeiro Valadares,BLANFM72OW8,Blusa pérola com strass Animê - 8 anos - Off white,Animê,836664628
+2024-03-05,272.8,0,Gabryelle Carvalho,SPTJMC124VD26,Tênis infantil Easy Tip Toey Joey - 26 - Verde,Tip Toey Joey,836665168
+2024-03-05,612.0,0,Luma Isabela Coelho Rodrigues,CJPCFM180ES-5,Conjunto Winter Classic Petit Cherie - 14 anos - Estampado,Petit Cherie,836687819
+2024-03-05,612.0,0,Luma Isabela Coelho Rodrigues,CJPCFM162ES14,Conjunto Laço & Flor Petit Cherie - 14 anos - Estampado,Petit Cherie,836687819
+2024-03-05,625.81,0,Fabiana Sanches Pires ,BLFMMO57OW8,Blusa com placa de strass Momi - 8 - Pérola,Momi,836689323
+2024-03-05,625.81,0,Fabiana Sanches Pires ,CJMOFM129PR8,Conjunto Sobreposição Momi - 8 anos - Preto,Momi,836689323
+2024-03-05,625.81,0,Fabiana Sanches Pires ,VEPSFM235AZ10,Vestido de tule com babados e cristais Pituchinhus - 10 anos - Azul marinho,Pituchinhus,836689323
+2024-03-06,208.86,0,Keiliany Teodoro Moura,BEBEFM80LR2,Vestido Moletom Cavado Beabá - 2 anos - Coral,Beabá,836762684
+2024-03-06,431.29,0,Ana Carolina Morais Santos,CADAMC121XAZ1,Camisa Tricoline Dame - 1 ano - Azul claro,Dame,836771927
+2024-03-06,431.29,0,Ana Carolina Morais Santos,BEDAMCY108BG2,Bermuda tradicional de sarja Dame Dos - 2 anos - Bege,Dame,836771927
+2024-03-06,241.85,0,Roselaine Pereira ,SPPTFM85PT-2,Sandália Ciranda Petit Cheval - N. 23 - Prata,Petit Cheval,836783093
+2024-03-06,219.88,0,Sâmara Rayk Chaves da Silva ,CLANFM137JS6,Calça jeans com bordado Animê - 6 anos - Jeans,Animê,836840015
+2024-03-06,219.88,0,Sâmara Rayk Chaves da Silva ,BLFMAN64YOW6,Blusa flor bordada com strass Animê - 6 anos - Pérola,Animê,836840015
+2024-03-06,1172.01,0,Janeth Vaz Oliveira,JQMOFM148JS4,Jaqueta Jeans Shiny Heart Momi - 4 anos - Jeans,Momi,836904054
+2024-03-06,1172.01,0,Janeth Vaz Oliveira,SHMOFM96JS4,Shorts Jeans Strass de Coração Momi - 4 anos - Jeans,Momi,836904054
+2024-03-06,1172.01,0,Janeth Vaz Oliveira,CJMOFM129BG3,Conjunto Pink Velvet Momi - 3 anos - Pérola,Momi,836904054
+2024-03-06,1172.01,0,Janeth Vaz Oliveira,JQMOFM90DR4,Jaqueta Tela Gold Momi - 4 anos - Dourado,Momi,836904054
+2024-03-06,1172.01,0,Janeth Vaz Oliveira,CJMOFM90MM4,Conjunto Always Being Cute - 4 anos - Toffee,Momi,836904054
+2024-03-06,978.12,0,Patricia da Conceição S Santos,,Conjunto de moletom com cristais Pituchinhus - 12 anos / Rosa,,836918339
+2024-03-06,978.12,0,Patricia da Conceição S Santos,,Conjunto de moletom com cristais Pituchinhus - 2 anos / Rosa,,836918339
+2024-03-07,741.24,0,Bruna Fernandes,VETWFM170PR16,Vestido Balonê  Metalizado Two In - 16 anos - Prata,Two In,836966387
+2024-03-07,741.24,0,Bruna Fernandes,CJMOFM170VD16,Conjunto Moletom Winter's Vibe Momi - 16 anos - Verde militar,Momi,836966387
+2024-03-07,162.25,0,Nayarah Vaz,CJMOFM138OW14,Conjunto blusa com flores bordadas e shorts Momi - 14 anos - Off white,Momi,836988877
+2024-03-07,1391.87,0,Mônica Ribeiro,BLPSFM80RS-1,Blusa ursinhas e flores Pituchinhus - 2 anos - Rosa,Pituchinhus,837006463
+2024-03-07,1391.87,0,Mônica Ribeiro,SIPSFM149RS2,Saia-short de tule com babados Pituchinhus - 2 anos - Rosa,Pituchinhus,837006463
+2024-03-07,1391.87,0,Mônica Ribeiro,KTCJPS220OW6,Conjunto saia-shorts e blusa frufru de tule bordada Pituchinhus  - 6 anos - Off white,Pituchinhus,837006463
+2024-03-07,1391.87,0,Mônica Ribeiro,KTCJPS283BR6,Conjunto casaqueto e saia bouclé com bordados Pituchinhus  - 6 anos - Branco,Pituchinhus,837006463
+2024-03-07,1391.87,0,Mônica Ribeiro,VEPSFM264RS4,Vestido de tule com cristais Pituchinhus - 4 anos - Rosa claro,Pituchinhus,837006463
+2024-03-07,1391.87,0,Mônica Ribeiro,BLPSFM109RS8,Blusa cropped com alça bordada Pituchinhus - 8 - Rosa,Pituchinhus,837006463
+2024-03-07,1975.86,0,Maynes Antunes,VEPCFM185LR-4,Vestido Happy Summer Petit Cherie - 4 anos - Laranja,Petit Cherie,837039475
+2024-03-07,1975.86,0,Maynes Antunes,CJANFM187OW4,Conjunto Classics Animê - 4 anos - Pérola,Animê,837039475
+2024-03-07,1975.86,0,Maynes Antunes,SPTJFM132DR-10,Tênis Funky Tip Toey Joey - N. 27 - Dourado,Tip Toey Joey,837039475
+2024-03-07,1975.86,0,Maynes Antunes,SDTJFM111BG27,Sandália Grip Shine Tip Toey Joey - 27 - Bege,Tip Toey Joey,837039475
+2024-03-07,1975.86,0,Maynes Antunes,CJANFM127OW4,Conjunto Blusa e legging Animê - 4 - Pérola,Animê,837039475
+2024-03-07,1975.86,0,Maynes Antunes,CLANFM137JS4,Calça jeans com bordado Animê - 4 anos - Jeans,Animê,837039475
+2024-03-07,1975.86,0,Maynes Antunes,BLBEFM50OW4,Blusa Manga Longa Picueta Beabá - 4 anos - Off white,Beabá,837039475
+2024-03-07,1975.86,0,Maynes Antunes,CQUMFM140MR6,Cardigan em Tricot Um Mais Um - 6 anos - Marinho,Um Mais Um,837039475
+2024-03-08,533.99,0,Tatiana Gemiliano Almas Berbert,VEPSFM382AZ6,Vestido conceito tule longo com monograma em cristal Pituchinhus - 6 anos - Azul claro,Pituchinhus,837097370
+2024-03-08,905.67,0,Consuelo Monteiro,VEPCFM140PR-3,Vestido Classic P&B Petit Cherie - 3 anos,Petit Cherie,837117755
+2024-03-08,905.67,0,Consuelo Monteiro,VEMOFM110VD3,Vestido Comfy Laço Momi - 3 anos - Verde militar,Momi,837117755
+2024-03-08,905.67,0,Consuelo Monteiro,CJMOFM100XOW4,Conjunto Ursas LA Momi - 4 anos - Pérola,Momi,837117755
+2024-03-08,905.67,0,Consuelo Monteiro,BLMOFM50XOW4,Blusa Bufante Ursas Momi - 4 anos - Pérola,Momi,837117755
+2024-03-08,243.07,0,Stephanie Sebba ,VELCFM179LV2,Vestido Cecília Little Closet - 2 anos - Vichy lavanda,Little Closet,837167246
+2024-03-08,141.9,0,Selma Maria,VEUMFM129WAL8,Vestido gola alta com laço Um Mais Um - 8 anos - Amarelo,Um Mais Um,837167735
+2024-03-08,315.99,0,Débora Alves Lima Rodrigues,VEPCFM209ES8,Vestido Ursos Verão 2024 Petit Cherie - 8 anos - Estampado,Petit Cherie,837175082
+2024-03-08,0.0,0,Larissa D,,Sem descrição,,837194778
+2024-03-09,396.99,0,Rosana Meneses Prado,VEPSFM210RS-4,Vestido babados com patches de flores Pituchinhus - 8 anos - Rosa,Pituchinhus,837357210
+2024-03-09,396.99,0,Rosana Meneses Prado,SPGRFM97-15,Sapato Maria  - 29 - Rosa flamingo,Gracia,837357210
+2024-03-09,274.56,0,Talita Stuque,SHANFM127JS10,Shorts com faixa lateral Animê - 10 - Jeans,Animê,837363487
+2024-03-09,274.56,0,Talita Stuque,SHFMMO96OW10,Shorts de sarja com strass Momi - 10 - Off white,Momi,837363487
+2024-03-09,400.5,0,Nahiara Silva Santos,SAIAFM110BG14,Saia cargo com pregas I Am - 14 anos - Bege,I Am,837379020
+2024-03-09,400.5,0,Nahiara Silva Santos,,Blusa Paetês Two In - 14 anos - Preto,Two In,837379020
+2024-03-09,689.72,0,Talita Stuque,VEPCFM170ES-4,Vestido Le Jardin Petit Cherie - 12 anos - Estampado,Petit Cherie,837380089
+2024-03-09,689.72,0,Talita Stuque,BIPCFM120VD-5,Biquini Citrus Lemon Petit Cherie - 10 anos - Citrus,Petit Cherie,837380089
+2024-03-09,689.72,0,Talita Stuque,MAANFM119RS12,Maiô com babado de strass Animê - 12 anos - Pink luz,Animê,837380089
+2024-03-09,297.81,0,Rose Leles,CJANFM137ES14,Conjunto Animal Print Animê - 14 anos - Baby Pattern,Animê,837380994
+2024-03-09,744.93,0,Larissa Caroline,SAPSFM120BG2,Saia-shorts Tricot Xadrez Pele Barra Pituchinhus - 2 anos - Mescla bege,Pituchinhus,837387711
+2024-03-09,744.93,0,Larissa Caroline,BSPSFM80BG,Bolsa Ursinha Pituchinhus,Pituchinhus,837387711
+2024-03-09,744.93,0,Larissa Caroline,BLPSFM132BG2,Blusa Tricot Xadrez Urso Pele Bordados Pituchinhus - 2 anos - Mescla bege,Pituchinhus,837387711
+2024-03-09,203.1,0,Léa de Oliveira,SAPSFM127AZ6,Saia-shorts de moletom com bordados em pérola e cristais Pituchinhus - 6 anos - Azul claro,Pituchinhus,837422256
+2024-03-10,452.53,0,Bárbara Mello Corrêa,CAKGMC100AZ4,Camisa casual ML King & Joe Play - 4 anos - Azul,King & Joe Play,837484189
+2024-03-10,452.53,0,Bárbara Mello Corrêa,CSYCMC100MR4,Casaco Capitão YCC Youccie - 4 anos - Azul marinho,Youccie,837484189
+2024-03-10,291.49,0,Davi Reis,VEPCFM200RS-2,Vestido Corações Petit Cherie - 12  anos - Rosa,Petit Cherie,837485626
+2024-03-10,341.61,0,Bruna Fonseca,VEPSFM235AZ6,Vestido de tule com babados e cristais Pituchinhus - 6 anos - Azul marinho,Pituchinhus,837507215
+2024-03-10,0.0,0,Anna Beatriz Sanches,,Sem descrição,,837510224
+2024-03-10,1516.37,0,Lívia Levino Cavalcante,VELCFM179WAZ2,Vestido Helena Vichy Little Closet - 2 anos - Azul,Little Closet,837512330
+2024-03-10,1516.37,0,Lívia Levino Cavalcante,VEPCFM170XVD-2,Vestido Poly Mesh Petit Cherie - Verde - 2 anos,Petit Cherie,837512330
+2024-03-10,1516.37,0,Lívia Levino Cavalcante,VEPCFM170XRS-2,Vestido Winter Princess Petit Cherie - 2 anos - Rosa,Petit Cherie,837512330
+2024-03-10,1516.37,0,Lívia Levino Cavalcante,VEPCFM170VD-2,Vestido Celebration Natal Petit Cherie - 2 anos - Verde,Petit Cherie,837512330
+2024-03-10,1516.37,0,Lívia Levino Cavalcante,VEPCFM209ES2,Vestido Ursos Verão 2024 Petit Cherie - 2 anos - Estampado,Petit Cherie,837512330
+2024-03-11,305.1,0,Hérika Karine Silva Cunha Ribeiro,VEPCFM200RS-1,Vestido Corações Petit Cherie - 10 anos - Rosa,Petit Cherie,837568911
+2024-03-11,0.0,0, Hérika Karine Silva Cunha Ribeiro,,Sem descrição,,837615700
+2024-03-11,289.99,0,Caroline Costa Nazareno Adachi,VEPCFM120RS-5,Vestido Romantic Petit Cherie - 6 anos - Rosa,Petit Cherie,837621158
+2024-03-11,395.61,0,Raquel Gonella,VEPCFM270VD-2,Vestido Green Celebration Petit Cherie - 12  anos - Verde,Petit Cherie,837639634
+2024-03-11,196.99,0,Michelle Gouveia Benício de Araújo,VEMOFM90ES8,Vestido Trapézio Ursas Xadrez Momi  - 8 anos - Estampado,Momi,837669537
+2024-03-11,92.99,0,Marcella Melo ,CJMOFM70VR8,Blusa de laise com babados Momi - 8 anos - Vermelho,Momi,837670689
+2024-03-11,1100.0,0,Tatiane Marques,VEPSFM427RS12,Vestido Conceito Tule Frufru Bordados Pituchinhus - 12 anos - Rose,Pituchinhus,837704106
+2024-03-11,1100.0,0,Tatiane Marques,SPTJFM119ABG32,Sapatilha Marie Tip Toey Joey - 32 - Bege,Tip Toey Joey,837704106
+2024-03-11,473.77,0,Paula Maduro,JQMOFM148JS14,Jaqueta Jeans Shiny Heart Momi - 14 anos - Jeans,Momi,837704392
+2024-03-11,473.77,0,Paula Maduro,BLPSFM80RS-7,Blusa ursinhas e flores Pituchinhus - 14 anos - Rosa,Pituchinhus,837704392
+2024-03-11,224.91,0,Juliane Torres ,CJANFM168COW2,Conjunto blusa e saia Animê 5406 - 2 - Pérola,Animê,837712411
+2024-03-11,204.91,0,Renata Martins Vaz,SPGBMC133B-5,Mocassim Napa Baby Gambo - 37 - Náutico,Gambo,837719397
+2024-03-12,118.73,0,Alessandra Vieira,CJMOFM100OW8,Pijama Looney Tunes Momi - 8 - Perola,Momi,837784122
+2024-03-12,473.94,0,Ingrid Halum Pereira,SPTJMC127MM22,Tênis Boat Tip Toey Joey - 22 - Marrom,Tip Toey Joey,837827176
+2024-03-12,473.94,0,Ingrid Halum Pereira,SPTJMC127MM23,Tênis Boat Tip Toey Joey - 23 - Marrom,Tip Toey Joey,837827176
+2024-03-12,365.44,0,Caroline Campos da Rocha,VEPSFM333AZ8,Vestido conceito de tule com alça de frufru Pituchinhus - 8 anos - Azul marinho,Pituchinhus,837860811
+2024-03-12,262.9,0,Denise Espinola ,VEPSFM239X-7,Vestido em tule com babadinhos degradê e cristais Pituchinhus - 14 anos - Rosa,Pituchinhus,837905196
+2024-03-13,273.98,0,Ivete Gomes Bastos,BLMOFM50OW10,Blusa Ursas Momi - 10 anos - Pérola,Momi,838076639
+2024-03-13,273.98,0,Ivete Gomes Bastos,BLMOFM45OW12,Blusa Com Strass Momi - 12 anos - Pérola,Momi,838076639
+2024-03-13,0.0,0,Camila de Paula Leal,,Sem descrição,,838120297
+2024-03-13,0.0,0,Lucimar Cristina Rodrigues ,,Sem descrição,,838124059
+2024-03-14,255.15,0,Jessika Júbe ,VEPCFM190ES-5,Vestido Happy Summer Petit Cherie - 8 anos - Estampado,Petit Cherie,838240757
+2024-03-14,0.0,0,Tatiane Corsi,,Sem descrição,,838241475
+2024-03-14,193.82,0,Nayarah Vaz,CSANFM90OW12,Camisola Minnie heroína com capa Animê - 12 anos - Off white,Animê,838249849
+2024-03-14,193.82,0,Nayarah Vaz,CSANFM86RS14,Camisola Bela Adormecida Animê - 14 anos - Rosa,Animê,838249849
+2024-03-14,214.39,0,Mônica Ribeiro,CJPCFM119BR3,Conjunto Laço & Tule Petit Cherie - 3 anos - Branco,Petit Cherie,838251605
+2024-03-14,214.39,0,Mônica Ribeiro,BLPSFM76ZBR8,Regata com pérolas e cristais Pituchinhus - 8 anos - Branca,Pituchinhus,838251605
+2024-03-14,342.94,0,Simone Pires,VEMOFM160VD10,Vestido Tule Xadrez Momi - 10 anos - Verde oliva,Momi,838273723
+2024-03-14,0.0,0,Nayana Silva,,Sem descrição,,838300099
+2024-03-14,541.01,0,Camilla Sousa Santos,VEPSFM235AZ4,Vestido de tule com babados e cristais Pituchinhus - 4 anos - Azul marinho,Pituchinhus,838320671
+2024-03-14,541.01,0,Camilla Sousa Santos,SPPTFM85PT-1,Sandália Ciranda Petit Cheval - N. 22 - Prata,Petit Cheval,838320671
+2024-03-14,541.01,0,Camilla Sousa Santos,,Laços e tiaras Gracia  - Laço P,,838320671
+2024-03-14,755.19,0,Priscila Bontempo,CJUMMC170MR8,Conjunto bata marinho e bermuda social - 8 anos - Marinho,Um Mais Um,838329678
+2024-03-14,755.19,0,Priscila Bontempo,CJKGMC60XBG6,Conjunto Overland Crew King & Joe Play - 6 anos - Areia,King & Joe Play,838329678
+2024-03-14,755.19,0,Priscila Bontempo,CJUMFM140AZ4,Conjunto blusa em tricoline e short em satin Um Mais Um - 4 anos - Marinho,Um Mais Um,838329678
+2024-03-14,755.19,0,Priscila Bontempo,CJPCFM140ES-1,Conjunto Butterfly Petit Cherie - 2 anos - Estampado,Petit Cherie,838329678
+2024-03-14,0.0,0,Ohana Mota,,Sem descrição,,838355549
+2024-03-15,456.66,0,Jamilla Pêgo,VEPCFM210ES-6,Vestido Shiny Belt Petit Cherie - 16 anos - Estampado,Petit Cherie,838434475
+2024-03-15,215.61,0,Amanda Almeida,VEPCFM139RS2,Vestido PicNic Petit Cherie - 2 anos - Rosa,Petit Cherie,838550265
+2024-03-16,451.68,0,Priscila Bontempo,VEPCFM190ES-1,Vestido Happy Summer Petit Cherie - 2 anos - Estampado,Petit Cherie,838586959
+2024-03-16,451.68,0,Priscila Bontempo,VEBEFM110BR2,Vestido em camadas com sianinha nas alças - 2 anos - Branco,Beabá,838586959
+2024-03-16,107.99,0,Bruna Oliveira,PJCFUN82VD4,Pijama Moletinho Floresta Green Conforteca - 4,Conforteca,838589513
+2024-03-16,233.84,0,Poliane Mendes,MAANFM119RS6,Maiô com babado de strass Animê - 6 anos - Pink luz,Animê,838590758
+2024-03-16,233.84,0,Poliane Mendes,CAANFM73RS8,Calça de praia Animê - 8 anos - Rosa,Animê,838590758
+2024-03-16,2948.25,0,Thais Fernandes Brasil,BLPSFM61RS8,Blusa Básica ML Térmica Pituchinhus - 8 anos - Rosa baby,Pituchinhus,838596188
+2024-03-16,2948.25,0,Thais Fernandes Brasil,MQANFM128JS8,Jump Strass Animê - 8 anos - Jeans,Animê,838596188
+2024-03-16,2948.25,0,Thais Fernandes Brasil,VEMOFM90RS8,Vestido Tiger Momi - 8 anos - Momi tiger,Momi,838596188
+2024-03-16,2948.25,0,Thais Fernandes Brasil,BEBEFM80LR8,Vestido Moletom Cavado Beabá - 8 anos - Coral,Beabá,838596188
+2024-03-16,2948.25,0,Thais Fernandes Brasil,VEBEFM98RS8,Vestido Estampado Beabá com Detalhe no Ombro - 8 anos - Rosa claro,Beabá,838596188
+2024-03-16,2948.25,0,Thais Fernandes Brasil,VEANFM187RS8,Vestido Tule Hearts Animê - 8 anos - Pink,Animê,838596188
+2024-03-16,2948.25,0,Thais Fernandes Brasil,CJANFM187OW6,Conjunto Classics Animê - 6 anos - Pérola,Animê,838596188
+2024-03-16,2948.25,0,Thais Fernandes Brasil,VEPSFM239ES-3,Vestido midi floral listrado com bolsos Pituchinhus - 6 anos - Estampado,Pituchinhus,838596188
+2024-03-16,2948.25,0,Thais Fernandes Brasil,CJMOFM90MM6,Conjunto Always Being Cute - 6 anos - Toffee,Momi,838596188
+2024-03-16,2948.25,0,Thais Fernandes Brasil,CJPCFM160VD-4,Conjunto Strawberry Petit Cherie - 6 anos - Verde,Petit Cherie,838596188
+2024-03-16,2948.25,0,Thais Fernandes Brasil,BLPSFM76ZAZ-4,Regata com pérolas e cristais Pituchinhus - 8 anos - Azul claro,Pituchinhus,838596188
+2024-03-16,2948.25,0,Thais Fernandes Brasil,CJBEFM98RS6,Conjunto Moletom Pretty Queen Beabá - 6 anos - Pink,Beabá,838596188
+2024-03-16,498.9,0,Caroline Cavalcante,VEPCFM190RS-3,Vestido Trapézio Flowers Petit Cherie - 4 anos - Rosa,Petit Cherie,838598473
+2024-03-16,498.9,0,Caroline Cavalcante,VEPCFM185LR-3,Vestido Happy Summer Petit Cherie - 3 anos - Laranja,Petit Cherie,838598473
+2024-03-16,345.0,0,Caroline Costa Nazareno Adachi,SPFRFM110PR26,Flat Camélia Craquele Frô Petit - N. 26 - Prata,Frô Petit,838599120
+2024-03-16,345.0,0,Caroline Costa Nazareno Adachi,SPGRFM97-12,Sapato Maria  - 27 - Azul lagoon,Gracia,838599120
+2024-03-16,505.64,0,Edna Ferreira dos Santos Gomes,VEPCFM182-1,Vestido Little Ties Petit Cherie - Rosa - 1 ano,Petit Cherie,838600116
+2024-03-16,505.64,0,Edna Ferreira dos Santos Gomes,VEPCFM170RS-3,Vestido Cut Out Petit Cherie - 10 anos - Rosa,Petit Cherie,838600116
+2024-03-16,131.73,0,Cristiano Carvalho,SAMOFM100RS2,Salopete sarja rosa neon MOMI 5204 - 2 - Rosa Neon,Momi,838603787
+2024-03-16,238.16,0,Wanessa Naves,VEPCFM110ES-2,Vestido Tule & Monograma Petit Cherie - 8 anos - Estampado,Petit Cherie,838604420
+2024-03-16,296.9,0,Poliana Batista,BLPSFM129RS12,Blusa cropped em tule com monograma de cristal Pituchinhus - 12 anos - Rosa Claro,Pituchinhus,838608660
+2024-03-16,296.9,0,Poliana Batista,SHFMMO96OW12,Shorts de sarja com strass Momi - 12 - Off white,Momi,838608660
+2024-03-16,863.48,0,Lorenna Rezende,VEPCFM240VD-4,Vestido Verão 2024 Verde Neon Bright Garden Petit Cherie - 4 anos - Verde,Petit Cherie,838609610
+2024-03-16,863.48,0,Lorenna Rezende,BLPSFM76BR4,Regata Cristais Pituchinhus - 4 anos - Branca,Pituchinhus,838609610
+2024-03-16,863.48,0,Lorenna Rezende,,Conjunto de moletom azul com bordados em pérola e cristais Pituchinhus - 4 anos,Pituchinhus,838609610
+2024-03-16,863.48,0,Lorenna Rezende,SPPTFM81CB-3,Sapato Tabuleiro Petit Cheval - N. 24 - Cobre,Petit Cheval,838609610
+2024-03-16,644.09,0,Natalia Nubia,CSBEFM100OW3,Casaco Tricot & Botões Beabá - 3 anos - Off white,Beabá,838625422
+2024-03-16,644.09,0,Natalia Nubia,CJANFM169OW2,Conjunto Hearts Animê - 2 anos - Pérola,Animê,838625422
+2024-03-17,346.1,0,Mekianne Mattos,VEPSFM235AZ12,Vestido de tule com babados e cristais Pituchinhus - 12 anos - Azul marinho,Pituchinhus,838704504
+2024-03-18,486.98,0,Élen Strieder,VEPCFM185LR-5,Vestido Happy Summer Petit Cherie - 6  anos - Laranja,Petit Cherie,838751119
+2024-03-18,486.98,0,Élen Strieder,BLPSFM76RSX-3,Blusa básica mini flor e mini ursa Pituchinhus - 6 anos - Estampado,Pituchinhus,838751119
+2024-03-18,486.98,0,Élen Strieder,CAPSFM85RS-3,Legging básica mini flor e mini ursa Pituchinhus - 6 anos - Estampado,Pituchinhus,838751119
+2024-03-18,310.76,0,Lorranny Nunes de Melo,MQFMMO96AZ4,Macaquinho xadrez com laço Momi - 4 - Azul,Momi,838756261
+2024-03-18,310.76,0,Lorranny Nunes de Melo,CMDAMC7373ZLR6,Camiseta Over Dame - 6 anos - Laranja,Dame,838756261
+2024-03-18,310.76,0,Lorranny Nunes de Melo,BLMOFM48PK4,Blusa manga bufante com babado Momi J5164 - 4 - Pink,Momi,838756261
+2024-03-18,196.98,0,Andrea Socrates ,VEPCFM150-3,Vestido Verão 2024 Joy In The Field - 4 anos - Branco,Petit Cherie,838788366
+2024-03-18,204.87,0,Silvana Geraldo Martins Assis ,BLANFM72OW4,Blusa pérola com strass Animê - 4 anos - Off white,Animê,838802391
+2024-03-18,204.87,0,Silvana Geraldo Martins Assis ,BLANFM45AOW2,Blusa Minnie collab Disney & Animê - 2 anos - Off white,Animê,838802391
+2024-03-18,459.7,0,Nayarah Vaz,CJANFM190RS6,Conjunto Casaco e Shorts Maxi Pied de Poule - 6 anos - Rosa,Animê,838816136
+2024-03-18,459.7,0,Nayarah Vaz,BLANFM70OW6,Blusa Lovers Animê - 6 anos - Pérola,Animê,838816136
+2024-03-18,196.99,0,Brenda Souza ,CAKGMC90YAZ14,Camisa casual slim MC King & Joe Play - 14 anos - Azul claro,King & Joe Play,838873956
+2024-03-18,175.99,0,Rhayanne Cardoso Negrao,PJFMAN118OW10,Pijama blusa e shorts Minnie Animê - 10 anos - Pérola,Animê,838896840
+2024-03-18,1094.06,0,Fabrine Romano,VEANFM286OW12,Vestido alça laço de strass Animê - 12 anos - Off white,Animê,838912497
+2024-03-18,1094.06,0,Fabrine Romano,BLIAFM90OW14,Top Laço I Am - 14 anos - Off white,I Am,838912497
+2024-03-18,1094.06,0,Fabrine Romano,SHANFM137OW8,Shorts de sarja com strass Animê - 8 anos - Off white,Animê,838912497
+2024-03-18,1094.06,0,Fabrine Romano,SHFMMO96OW12,Shorts de sarja com strass Momi - 12 - Off white,Momi,838912497
+2024-03-18,1094.06,0,Fabrine Romano,CJIAFM218OW14,Blusa Composição Top & Regata I Am - 14 anos - Pérola,I Am,838912497
+2024-03-18,1288.03,0,Danielle Silva,SPPTFM106PT-1,Sandália Ciranda Petit Cheval - N. 33 - Prata,Petit Cheval,838938559
+2024-03-18,1288.03,0,Danielle Silva,SPFRFM103DR33,Mule esperança Frô Petit - 33 - Dourado,Frô Petit,838938559
+2024-03-18,1288.03,0,Danielle Silva,BLPSFMES58RS10,Blusa cropped estampa autoral Pituchinhus - 10 anos - Rosa,Pituchinhus,838938559
+2024-03-18,1288.03,0,Danielle Silva,SIPSFM119RS10,Saia-short de tule Pituchinhus - 10 anos - Rosa,Pituchinhus,838938559
+2024-03-18,1288.03,0,Danielle Silva,CJMOFM170VD10,Conjunto Moletom Winter's Vibe Momi - 10 anos - Verde militar,Momi,838938559
+2024-03-18,1288.03,0,Danielle Silva,BLMOFM50XOW10,Blusa Bufante Ursas Momi - 10 anos - Pérola,Momi,838938559
+2024-03-18,1288.03,0,Danielle Silva,JDMOFM80ES10,Jardineira Moletinho Ursas Momi - 10 anos - Estampado,,838938559
+2024-03-19,0.0,0,Ohana Mota,,Sem descrição,,838953470
+2024-03-19,105.99,0,Bianca Kuhn Barbosa,SHFMMO80OW6,Shorts de sarja com placa de strass Momi - 6 - Off white,Momi,838991896
+2024-03-19,520.06,0,Lisa Perillo,VELCFM179WRS2,Vestido Helena Vichy Little Closet - 2 anos - Rosa,Little Closet,839001796
+2024-03-19,520.06,0,Lisa Perillo,SDGRFM85-3,SANDÁLIA ESTER GRACIA HA1276  - 24 - Branca,Gracia,839001796
+2024-03-19,520.06,0,Lisa Perillo,SPGRFM93Z-3,Sapato Laura - 24 - Off white,Gracia,839001796
+2024-03-19,250.99,0,Rogumerci Terezinha ,VEMOFM110VD6,Vestido Comfy Laço Momi - 6 anos - Verde militar,Momi,839004913
+2024-03-19,177.75,0,Paulo Santiago,BEBEFM80LR3,Vestido Moletom Cavado Beabá - 3 anos - Coral,Beabá,839005236
+2024-03-19,139.9,0,Beatriz Mendanha Ribeiro Valadares,SHFMAN110JS8,Shorts jeans com bordado Animê - 8 anos - Jeans,Animê,839026494
+2024-03-19,0.0,0,Hillary Vaz,,Sem descrição,,839051390
+2024-03-19,539.96,0,Vanessa Faccin,SPGRFM93Z-8,Sapato Laura - 29 - Off white,Gracia,839068407
+2024-03-19,539.96,0,Vanessa Faccin,VEBEFM95VR6,Vestido xadrez com lastex Beabá - 6 anos - Vermelho,Beabá,839068407
+2024-03-19,539.96,0,Vanessa Faccin,BLFMMO57OW6,Blusa com placa de strass Momi - 6 - Pérola,Momi,839068407
+2024-03-19,539.96,0,Vanessa Faccin,SDGRFM85-8,SANDÁLIA ESTER GRACIA HA1276  - 29 - Branca,Gracia,839068407
+2024-03-19,157.99,0,Leane Oliveira,CJBEFM119VD10,Conjunto bata de tricoline e bermuda de linho Beabá - 10 anos - Verde Oliva,Beabá,839080335
+2024-03-19,132.99,0,Wanessa Ayres ,VECHFM60-13,Vestido Piquet MC Charpey - 6 anos - Coral,Charpey,839080623
+2024-03-20,835.16,0,Thiara da Cruz Silva,VEBEFM90RS6,Vestido com babado e recorte Beabá - 6 anos - Pink,Beabá,839162388
+2024-03-20,835.16,0,Thiara da Cruz Silva,SHUMFM115MR6,Shorts-saia couro 1+1 - 6 anos - Marinho,Um Mais Um,839162388
+2024-03-20,835.16,0,Thiara da Cruz Silva,CAUMFM100BR6,Camisa em tricoline com babados 1+1 - 6 anos - Branco,Um Mais Um,839162388
+2024-03-20,835.16,0,Thiara da Cruz Silva,VECHFM60-15,Vestido Piquet MC Charpey - 6 anos - Pink,Charpey,839162388
+2024-03-20,163.55,0,Daniela Signorelli,CJANFM109OW8,Pijama Gatinha Marie Animê - 8 anos - Off white,Animê,839181584
+2024-03-20,558.7,0,Ana Carolina Morais,CJMCYC150BR2,Conjunto camisa e bermuda Youccie - 2 - Branca/Marinho,Youccie,839219585
+2024-03-20,558.7,0,Ana Carolina Morais,CJUMMC170MR2,Conjunto bata marinho e bermuda social - 2 anos - Marinho,Um Mais Um,839219585
+2024-03-20,558.7,0,Ana Carolina Morais,TNGRMC90-1,SlipOn Alegria - 22 - Preto,Gracia,839219585
+2024-03-20,417.91,0,Morgana Belém,JQANFM182RS6,Jaqueta Shiness Animê - 6 anos - Pink luz,Animê,839220026
+2024-03-20,43.7,0,Wanessa Naves,SULPFM19-2,Sutia Decote Lele Pipa - P - Rosa claro,Lele Pipa,839236552
+2024-03-20,273.7,0,Ana Amélia,CJMOFM120PR8,Conjunto Animal Print Momi - 8 anos - Preto,Momi,839240896
+2024-03-20,2495.2,0,thaynara Ulisses Medeiro,CJMOFM130PR4,Conjunto Winter Flower Momi - 4 anos - Preto,Momi,839244897
+2024-03-20,2495.2,0,thaynara Ulisses Medeiro,VEANFM140RS4,Vestido Pink Luz Momi - 4 anos - Pink luz,Momi,839244897
+2024-03-20,2495.2,0,thaynara Ulisses Medeiro,CJMOFM124PR4,Conjunto Winter Classic Momi - 4 anos - Preto,Momi,839244897
+2024-03-20,2495.2,0,thaynara Ulisses Medeiro,CJMOFM110OW4,Conjunto Loveful Momi - 4 anos - Pérola,Momi,839244897
+2024-03-20,2495.2,0,thaynara Ulisses Medeiro,CJANFM169OW4,Conjunto Hearts Animê - 4 anos - Pérola,Animê,839244897
+2024-03-20,2495.2,0,thaynara Ulisses Medeiro,JDMOFM80ES4,Jardineira Moletinho Ursas Momi - 4 anos - Estampado,,839244897
+2024-03-20,2495.2,0,thaynara Ulisses Medeiro,JDMOFM60ES4,Jardineira Comfy Ursas Momi - 4 anos - Estampado,Momi,839244897
+2024-03-20,2495.2,0,thaynara Ulisses Medeiro,CJMOFM120OW4,Conjunto Pink Hearts Momi - 4 anos - Pérola,Momi,839244897
+2024-03-20,2495.2,0,thaynara Ulisses Medeiro,SPTJFM124PR25,Sapatilha Brigitte Tip Toey Joey - 25 - Preto,Tip Toey Joey,839244897
+2024-03-20,2495.2,0,thaynara Ulisses Medeiro,BLMOFM45OW4,Blusa Com Strass Momi - 4 anos - Pérola,Momi,839244897
+2024-03-20,779.75,0,Caroline Costa Nazareno Adachi,CSANFM137PR4,Casaco Mickey Collab Disney & Animê - 4 anos - Preto,Animê,839273034
+2024-03-20,779.75,0,Caroline Costa Nazareno Adachi,BLANFM128OW4,Camisa Licenciada Mickey Collab Disney & Animê - 4 anos - Off white,Animê,839273034
+2024-03-20,779.75,0,Caroline Costa Nazareno Adachi,SHANFM100PR4,Shorts-saia Transpasse Conceito Animê - 4 anos - Preto,Animê,839273034
+2024-03-20,169.0,0,Luiza Helena Pontes Costa,SPFRFM99PR33,Flat Colorê Frô Petit - N. 33 - Prata,Frô Petit,839273415
+2024-03-20,87.4,0,Wanessa Naves,SULPFM19-3,Sutia Decote Lele Pipa - P - Rosa médio,Lele Pipa,839273542
+2024-03-20,87.4,0,Wanessa Naves,SULPFM19-1,Sutia Decote Lele Pipa - P - Branco,Lele Pipa,839273542
+2024-03-20,220.5,0,Lohany Setmaier,VEBEFM98RS2,Vestido Estampado Beabá com Detalhe no Ombro - 2 anos - Rosa claro,Beabá,839273606
+2024-03-20,820.7,0,Morgana Belém,CSANFM137PR6,Casaco Mickey Collab Disney & Animê - 6 anos - Preto,Animê,839274008
+2024-03-20,820.7,0,Morgana Belém,BLANFM128OW6,Camisa Licenciada Mickey Collab Disney & Animê - 6 anos - Off white,Animê,839274008
+2024-03-20,820.7,0,Morgana Belém,SHANFM100PR6,Shorts-saia Transpasse Conceito Animê - 6 anos - Preto,Animê,839274008
+2024-03-20,166.34,0,Luana Salua Alvez de Souza,VECHFM60-23,Vestido Piquet MC Charpey - 12 anos - Lilás,Charpey,839274141
+2024-03-21,703.97,0,Yasmin Terra,BLBEFM90OW2,Blusa manga longa e gola alta Beabá - 2 anos - Off white,Beabá,839329231
+2024-03-21,703.97,0,Yasmin Terra,CSPCFM110-2,Casaco Peles Petit Cherie - 1 ano - Rosa,Petit Cherie,839329231
+2024-03-21,703.97,0,Yasmin Terra,VECHFM60-3,Vestido Piquet MC Charpey - 1 ano - Pink,Charpey,839329231
+2024-03-21,703.97,0,Yasmin Terra,SPTJFM132DR-2,Tênis Funky Tip Toey Joey - N. 19 - Dourado,Tip Toey Joey,839329231
+2024-03-21,385.74,0,Daniela Lopes Moreno,CJKGMC70XMR6,Conjunto t-shirt e shorts nylon Ocean Sounds King & Joe Play - 6 anos - Marinho,King & Joe Play,839337191
+2024-03-21,385.74,0,Daniela Lopes Moreno,,Laços e tiaras Gracia  - Tiara,,839337191
+2024-03-21,385.74,0,Daniela Lopes Moreno,BEBEFM80LR6,Vestido Moletom Cavado Beabá - 6 anos - Coral,Beabá,839337191
+2024-03-21,306.26,0,Nayarah Vaz,CJFMAN190OW8,Conjunto blusa e saia de tricô Navy Animê - 8 anos - Off white,Animê,839347260
+2024-03-21,306.26,0,Nayarah Vaz,VECHFM60-14,Vestido Piquet MC Charpey - 6 anos - Lilás,Charpey,839347260
+2024-03-21,483.74,0,Cinthia Menegazzo de Sousa,MQPSFM149RS12,Macaquinho Liberty com cristais Pituchinhus - 12 anos - Fundo rosa,Pituchinhus,839361266
+2024-03-21,483.74,0,Cinthia Menegazzo de Sousa,KTCJPS235OW12,"Conjunto regata e saia-shorts pregas, bolsos cargo e cinto Pituchinhus - 12 anos - Off white",Pituchinhus,839361266
+2024-03-21,206.0,0,Cassia Veronica Lima Silva,SPGRFM97W-8,Sapato Bela - 29 - Ouro light,Gracia,839411575
+2024-03-21,132.55,0,Valéria Francielle Santos Pena ,SDGRFM87-3,Sandália Liz - 24 - Ouro light,Gracia,839443384
+2024-03-21,392.61,0,Dunia Jarouche,VEMOFM160VD4,Vestido Tule Xadrez Momi - 4 anos - Verde oliva,Momi,839462636
+2024-03-22,391.61,0,Gabriela Silva,VEFMAN260BG14,Vestido babado bordado Animê - 14 anos - Cru,Animê,839484897
+2024-03-22,387.99,0,Joana Marques,VEPCFM250ES-3,Vestido Friend Teddy Petit Cherie - 10 anos - Estampado,Petit Cherie,839510158
+2024-03-22,284.39,0,Daniela Lopes Moreno,POCHMC46-25,Polo Piquet MC Charpey - Marinho - 6 anos,,839518357
+2024-03-22,284.39,0,Daniela Lopes Moreno,PODAMC98MR6,Polo manga curta Dame - 6 anos - Marinho,Dame,839518357
+2024-03-22,431.03,0,Ayandra Nunes Fernandes ,KTCJPS283BR4,Conjunto casaqueto e saia bouclé com bordados Pituchinhus  - 4 anos - Branco,Pituchinhus,839544488
+2024-03-22,195.0,0,Rebeca Passarinho,PJFMAN118OW12,Pijama blusa e shorts Minnie Animê - 12 anos - Pérola,Animê,839551445
+2024-03-22,416.52,0,Yura Cardoso,SPTJMC127MM29,Tênis Boat Tip Toey Joey - 29 - Marrom,Tip Toey Joey,839568077
+2024-03-22,416.52,0,Yura Cardoso,TNGRMC90-17,SlipOn Alegria - 30 - Preto,Gracia,839568077
+2024-03-22,234.96,0,Deise Lara ,SHKJMC50VD12,Shorts King & Joe Play - 12 anos - Verde Militar,King & Joe Play,839594220
+2024-03-22,234.96,0,Deise Lara ,CAKGMC40PR10,Camiseta Rock King & Joe Play - 10 anos - Preto,King & Joe Play,839594220
+2024-03-22,234.96,0,Deise Lara ,BLMOFM48XOW8,Regata canelada com babados Momi - 8 anos - Off white,Momi,839594220
+2024-03-22,234.96,0,Deise Lara ,BLMOFM48PK6,Blusa manga bufante com babado Momi J5164 - 6 - Pink,Momi,839594220
+2024-03-22,139.92,0,Nayarah Vaz,VEANFM128FU6,Vestido Fucsia Animê - 6 - Fucsia,Animê,839599802
+2024-03-23,482.09,0,Fernanda Nasser,CJKGMC70VD3,Conjunto t-shirt e bermuda de moletom Freedom King & Joe Play - 3 anos - Verde militar,King & Joe Play,839629521
+2024-03-23,482.09,0,Fernanda Nasser,SDGRFM95-3,Sandália Alice - 24 - Nevasca,Gracia,839629521
+2024-03-23,482.09,0,Fernanda Nasser,SPFRFM110PR34,Flat Camélia Craquele Frô Petit - N. 34 - Prata,Frô Petit,839629521
+2024-03-23,1144.17,0,Janeth Vaz Oliveira,VEPCFM200ES-4,Vestido Winter Flowers Petit Cherie - Estampado - 4 anos,Petit Cherie,839655796
+2024-03-23,1144.17,0,Janeth Vaz Oliveira,VEPCFM170YRS-4,Vestido Martina Dancing  Petit Cherie - 4 anos - Rosa,Petit Cherie,839655796
+2024-03-23,1144.17,0,Janeth Vaz Oliveira,VEPCFM160ZES-4,Vestido Magic Garden Petit Cherie - 4 anos - Estampado,Petit Cherie,839655796
+2024-03-23,143.99,0,Hillary Vaz,BAUMMC90X,Bata de cambraia de linho Um Mais Um  - 2 anos - Marinho,Um Mais Um,839656981
+2024-03-23,41.99,0,Márcia Betânia Silva,CMKGMC30VD12,Camiseta Motor Club King & Joe Play - 12 anos - Verde Militar,King & Joe Play,839657058
+2024-03-23,391.41,0,Cejana Cristina de Castro Alves,PJMOFM90OW8,Pijama blusa e shorts Piu Piu Momi - 8 - Tweet,Momi,839663277
+2024-03-23,391.41,0,Cejana Cristina de Castro Alves,BLMOFM48RS10,Blusa Canelada Basics Momi - 10 anos - Rosa claro,Momi,839663277
+2024-03-23,391.41,0,Cejana Cristina de Castro Alves,BLMOFM48RS12,Blusa Canelada Basics Momi - 12 anos - Rosa claro,Momi,839663277
+2024-03-23,391.41,0,Cejana Cristina de Castro Alves,CSANFM86RS12,Camisola Bela Adormecida Animê - 12 anos - Rosa,Animê,839663277
+2024-03-24,157.99,0,Rhayanne Cardoso Negrao,CJMOFM119BOW4,Conjunto blusa e shorts xadrez Apple Momi - 4 - Off White,Momi,839709925
+2024-03-24,0.0,0,Regiane Velasque,,Sem descrição,,839717388
+2024-03-24,167.41,0,Rafaella Haje Cintra,SPGRFM97X-10,Sapato Clara - Branco - 31,Gracia,839762354
+2024-03-24,270.78,0,Eliane Teles,CJFMAN187VD8,Conjunto blusa e shorts de laise Animê - 8 anos - Verde lima,Animê,839762770
+2024-03-24,595.7,0,Regiane Velasque,VEPCFM260RS-1,Vestido Cute Buterflies Petit Cherie - 1 ano - Rosa,Petit Cherie,839766882
+2024-03-25,240.25,0,Danielle Prado de Paiva,CJUMMC90CZ3,Conjunto camiseta de algodão e bermuda de moletinho Lets Move 1+1 - 3 anos - Mescla escuro,Um Mais Um,839846164
+2024-03-25,190.28,0,Rhayanne Cardoso Negrao,VEBEFM129MR4,Vestido em camadas xadrez Beabá - 4 anos - Marinho,Beabá,839848331
+2024-03-25,250.99,0,Victoria Junqueira ,CSPCFM990-5,Casaco Peles Petit Cherie - 10 anos - Off white,Petit Cherie,839914258
+2024-03-25,360.09,0,Bruna,VEPCFM170ZRS-3,Vestido Winter Classics Petit Cherie - 10 anos - Rosa,Petit Cherie,839915871
+2024-03-25,1032.09,0,Karoline Gorgen,BLDAMC150BG8,Blusa Escocês Central Dame - 8 anos - Bege,Dame,839974097
+2024-03-25,1032.09,0,Karoline Gorgen,BLPSFM65PR10,Blusa Patches Pituchinhus - 10 anos - Preto,Pituchinhus,839974097
+2024-03-25,1032.09,0,Karoline Gorgen,BLPSFM55BG14,Regata Basics Pituchinhus - 14 anos - Bege claro,Pituchinhus,839974097
+2024-03-25,1032.09,0,Karoline Gorgen,BLPSFM75RS14,Regata Cristais Pituchinhus - 14 anos - Rosa claro,Pituchinhus,839974097
+2024-03-25,1032.09,0,Karoline Gorgen,SAPSFM126ES8,Saia-shorts Fofura Pituchinhus - 8 anos - Poá e cachorros,Pituchinhus,839974097
+2024-03-26,169.0,0,Marina Rodrigues de Oliveira,BLUMFM80BG3,Blusa Tricot 1+1 - 3 anos - Bege claro,Um Mais Um,840039894
+2024-03-26,250.99,0,Victoria Junqueira ,CSPCFM990-7,Casaco Peles Petit Cherie - 12 anos - Off white,Petit Cherie,840076067
+2024-03-26,145.79,0,Lisa Perillo,SPGRFM93Z-4,Sapato Laura Gracia - 25 - Off white,Gracia,840076445
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,CAANFM146OW8,Camisete Babados Animê - 8 anos - Off white,Animê,840099690
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,CLMOFM80PR6,Legging Montaria Detalhes em Couro Momi - 6 anos - Preto,Momi,840099690
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,CSANFM90OW8,Camisola Minnie heroína com capa Animê - 8 anos - Off white,Animê,840099690
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,BLANFM73XOW8,Blusa Mangas Evasê e Strass Animê - 8 anos - Pérola,Animê,840099690
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,SAPSFM119RS8,Shorts-saia Bolsos Cargo Patches Ursa Pituchinhus - 8 anos - Rose,Pituchinhus,840099690
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,BSPSFM80BG,Bolsa Ursinha Pituchinhus,Pituchinhus,840099690
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,CLPSFM80ES8,Legging Fofura Pituchinhus - 8 anos - Poá e cachorros,Pituchinhus,840099690
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,CJMOFM90OW8,Conjunto Blusa MC e Shorts One Day Momi - 8 anos - Pérola,Momi,840099690
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,BLMOFM48OW12,Blusa Canelada Basics Momi - 12 anos - Off white,Momi,840099690
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,CJANFM150OW6,Conjunto blusa e saia Tweed PB Animê - 6 anos - Pérola,Animê,840099690
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,CLMOFM80PR12,Legging Montaria Detalhes em Couro Momi - 12 anos - Preto,Momi,840099690
+2024-03-26,2398.76,0,Elaine Teles Rodrigues,VEMOFM129OW8,Vestido de tecido com lastex Momi - 8 anos - Off white,Momi,840099690
+2024-03-26,723.46,0,Jana Brito,SPGRMC90-22,Mocassim Max - 32 - Caramelo,Gracia,840104728
+2024-03-26,723.46,0,Jana Brito,SPGBMC138B-4,Tênis NB Aveia/Blue Pop/Branco Gambo - 36,Gambo,840104728
+2024-03-26,723.46,0,Jana Brito,SPTJMC128AZ32,Tênis Volt Tip Toey Joey - 32 - Azul,Tip Toey Joey,840104728
+2024-03-26,371.13,0,Vania dos santos Rocha,TNGRMC90-7,SlipOn Alegria - 25 - Preto,Gracia,840116473
+2024-03-26,371.13,0,Vania dos santos Rocha,SPPTMC81BR-4,Tênis de couro Pipa Petit Cheval - N. 25 - Branco,Petit Cheval,840116473
+2024-03-26,563.99,0,Alessandra Teixeira,VEPSFM382AZ10,Vestido conceito tule longo com monograma em cristal Pituchinhus - 10 anos - Azul claro,Pituchinhus,840120856
+2024-03-26,522.56,0,Renata Brasil Rangel ,VEANFM240OW6,Vestido Sweet Winter Animê - 6 anos - Preto,Animê,840134788
+2024-03-26,2484.7,0,Janeth Vaz Oliveira,VEANFM240OW4,Vestido Sweet Winter Animê - 4 anos - Preto,Animê,840135026
+2024-03-26,2484.7,0,Janeth Vaz Oliveira,CSBEFM100OW4,Casaco Tricot & Botões Beabá - 4 anos - Off white,Beabá,840135026
+2024-03-26,2484.7,0,Janeth Vaz Oliveira,CAUMFM100BR4,Camisa em tricoline com babados 1+1 - 4 anos - Branco,Um Mais Um,840135026
+2024-03-26,2484.7,0,Janeth Vaz Oliveira,SHUMFM115MR4,Shorts-saia couro 1+1 - 4 anos - Marinho,Um Mais Um,840135026
+2024-03-26,2484.7,0,Janeth Vaz Oliveira,CAUMFM100BR3,Camisa com bordado na gola 1+1 - 3 anos - Branco,Um Mais Um,840135026
+2024-03-26,2484.7,0,Janeth Vaz Oliveira,VEUMFM130MR3,Vestido Midi em Tricoline 1+1 - 3 anos - Marinho,,840135026
+2024-03-26,2484.7,0,Janeth Vaz Oliveira,BLPSFM120PR4,Blusa ML e Gola com Strass Pituchinhus - 4 anos - Preto,Pituchinhus,840135026
+2024-03-26,2484.7,0,Janeth Vaz Oliveira,BLPSFM65PR4,Blusa Patches Pituchinhus - 4 anos - Preto,Pituchinhus,840135026
+2024-03-26,2484.7,0,Janeth Vaz Oliveira,SAPSFM126ES4,Saia-shorts Fofura Pituchinhus - 4 anos - Poá e cachorros,Pituchinhus,840135026
+2024-03-26,2484.7,0,Janeth Vaz Oliveira,CLPSFM80ES4,Legging Fofura Pituchinhus - 4 anos - Poá e cachorros,Pituchinhus,840135026
+2024-03-26,446.4,0,Nayarah Vaz,BLUMFM90AZ14,Blusa cropped em laise com mangas balonê Two In - 14 anos - Azul médio,Two In,840135286
+2024-03-26,446.4,0,Nayarah Vaz,SHTWFM90AZ14,Shorts cintura alta em laise Two In - 14 anos - Azul médio,Two In,840135286
+2024-03-26,171.4,0,Priscila L Fanelli,SPGRFM97-13,Sapato Maria  - 28 - Rosa flamingo,Gracia,840138437
+2024-03-27,0.0,0,Karoline Gorgen,,Sem descrição,,840213391
+2024-03-27,451.55,0,Dayana Evangelista,SHANFM96PR8,Shorts Fake Leather Animê - 8 anos - Preto,Animê,840243154
+2024-03-27,451.55,0,Dayana Evangelista,BLANFM73YOW6,Blusa Maxi Laço Animê - 6 anos - Pérola,Animê,840243154
+2024-03-27,491.98,0,Lucilene Gomes de Oliveira,CJFMAN187VD12,Conjunto blusa e shorts de laise Animê - 12 anos - Verde lima,Animê,840259392
+2024-03-27,491.98,0,Lucilene Gomes de Oliveira,CJFMAN187VD10,Conjunto blusa e shorts de laise Animê - 10 anos - Verde lima,Animê,840259392
+2024-03-27,834.27,0,Rafaela Guidi,CLMOFM134JS14,Calça Jeans Pantalona Strass Momi - 14 anos - Jeans,Momi,840275873
+2024-03-27,834.27,0,Rafaela Guidi,CLMOFM134JS12,Calça Jeans Pantalona Strass Momi - 12 anos - Jeans,Momi,840275873
+2024-03-27,834.27,0,Rafaela Guidi,CAIAFM128BG14,Calça Parachute I Am - 14 anos - Bege escuro,I Am,840275873
+2024-03-27,439.91,0,Denise Helena de Melo Nogueira Borges,BLBEMC70CZ4,Tricot com dinossauro Beabá - 4 anos - Mescla escuro,Beabá,840289215
+2024-03-27,439.91,0,Denise Helena de Melo Nogueira Borges,CABEMC70CZ4,Calça Jogger Beabá - 4 anos - Cinza escuro,Beabá,840289215
+2024-03-27,439.91,0,Denise Helena de Melo Nogueira Borges,CJYCMC95BCOW4,Conjunto t-shirt e bermuda Youccie 1223 - 4 - Pérola,Youccie,840289215
+2024-03-27,518.0,0,Thalita Simas Araujo,VEPCFM176X-3,Vestido Verão 2024 Tule Petit Cherie - 4 anos - Branco,Petit Cherie,840299696
+2024-03-27,518.0,0,Thalita Simas Araujo,VEPCFM190RS-4,Vestido Trapézio Flowers Petit Cherie - 6  anos - Rosa,Petit Cherie,840299696
+2024-03-27,202.61,0,Randa Ayoubi,VEPCFM129YOW3,Vestido em tule com flores bordadas Petit Cherie - 3 anos - Off white,Petit Cherie,840307805
+2024-03-28,328.99,0,Raquel Silva,VEPCFM200RS-5,Vestido Corações Petit Cherie - 4 anos - Rosa,Petit Cherie,840358521
+2024-03-28,355.98,0,Laura Abadia,CJKGMC70XMR3,Conjunto t-shirt e shorts nylon Ocean Sounds King & Joe Play - 3 anos - Marinho,King & Joe Play,840432897
+2024-03-28,355.98,0,Laura Abadia,CJKGMC70XMR12,Conjunto t-shirt e shorts nylon Ocean Sounds King & Joe Play - 12 anos - Marinho,King & Joe Play,840432897
+2024-03-28,1068.75,0,Jana Brito,CLIAFM128PR16,Calça Wide I Am - 16 anos - Preto,I Am,840449420
+2024-03-28,1068.75,0,Jana Brito,BLIAFM100PR16,Top Laço I Am - 16 anos - Preto,I Am,840449420
+2024-03-28,1068.75,0,Jana Brito,SHTWFM90AZ16,Shorts cintura alta em laise Two In - 16 anos - Azul médio,Two In,840449420
+2024-03-28,1068.75,0,Jana Brito,BLUMFM90AZ16,Blusa cropped em laise com mangas balonê Two In - 16 anos - Azul médio,Two In,840449420
+2024-03-28,227.0,0,Daiane da Silva ,SPGBMC127A-4,Tênis All Streetwear NB Preto/Canela Gambo - 36,Gambo,840459338
+2024-03-28,307.0,0,Caroline Costa Nazareno Adachi,VEMOFM80LS4,Vestido Matelasse Babado Momi - 4 anos - Lilás,Momi,840459473
+2024-03-28,307.0,0,Caroline Costa Nazareno Adachi,SPGRFM97Y-5,Sapato Helena - 26 - Ouro velho,Gracia,840459473
+2024-03-28,132.99,0,Suely Camelo Favoretti,VECHFM60-26,Vestido Piquet MC Charpey - 14 anos - Lilás,Charpey,840460622
+2024-03-28,489.0,0,Maria Eugenia de Araújo Fortes da Silveira,CMUMMC44VD4,Tshirt 100% algodão Skate 1+1 - 4 anos - Lima,Um Mais Um,840461182
+2024-03-28,489.0,0,Maria Eugenia de Araújo Fortes da Silveira,CJKGMC70XOW4,Conjunto t-shirt e bermuda moletom Dino King & Joe Play - 4 anos - Off white,King & Joe Play,840461182
+2024-03-28,489.0,0,Maria Eugenia de Araújo Fortes da Silveira,CMUMMC44VD14,Tshirt 100% algodão Skate 1+1 - 14 anos - Lima,Um Mais Um,840461182
+2024-03-28,489.0,0,Maria Eugenia de Araújo Fortes da Silveira,SHKJMC50VD14,Shorts King & Joe Play - 14 anos - Verde Militar,King & Joe Play,840461182
+2024-03-30,484.92,0,Jeovania S Borges Soares,BLPSFM55BG10,Regata Basics Pituchinhus - 10 anos - Bege claro,Pituchinhus,840570371
+2024-03-30,484.92,0,Jeovania S Borges Soares,BLPSFM80RS-6,Blusa ursinhas e flores Pituchinhus - 12 anos - Rosa,Pituchinhus,840570371
+2024-03-30,484.92,0,Jeovania S Borges Soares,CJPCFM176-1,Conjunto Verão 2024 Lightness Petit Cherie - 10 anos - Rosa,Petit Cherie,840570371
+2024-03-30,2085.03,0,Bruna Fernandes,CLPRFM240OC20,Calça Bolsos Cargo Stoppper Perfumaria - 20 anos - Ocre,Perfumaria,840572514
+2024-03-30,2085.03,0,Bruna Fernandes,BLPRFM101RS20,Regata PRFMR Perfumaria - 20 anos - Ice Cream,Perfumaria,840572514
+2024-03-30,2085.03,0,Bruna Fernandes,SAPRFM130JS20,Saia-shorts Jeans Cargo Perfumaria - 20 anos - Jeans,Perfumaria,840572514
+2024-03-30,2085.03,0,Bruna Fernandes,VEPCFM170ZRS-6,Vestido Winter Classics Petit Cherie - 16 anos - Rosa,Petit Cherie,840572514
+2024-03-30,2085.03,0,Bruna Fernandes,SPPTFM106PT-3,Sandália Ciranda Petit Cheval - N. 35 - Prata,Petit Cheval,840572514
+2024-03-30,2085.03,0,Bruna Fernandes,SHANFM96PR16,Shorts Fake Leather Animê - 16 anos - Preto,Animê,840572514
+2024-03-30,2085.03,0,Bruna Fernandes,BLANFM73KOW16,Blusa Essentials Bufante Animê - 16 anos - Pérola,Animê,840572514
+2024-03-30,0.0,0,Carolina Gonçalves,,Sem descrição,,840584845
+2024-03-30,1141.86,0,Susete Alcarde,CSMOFM120PR4,Casaco Tweed Momi - 4 anos - Preto,Momi,840588695
+2024-03-30,1141.86,0,Susete Alcarde,BLUMFM80BG1,Blusa Tricot 1+1 - 1 ano - Bege claro,Um Mais Um,840588695
+2024-03-30,1141.86,0,Susete Alcarde,BLANFM73XOW4,Blusa Mangas Evasê e Strass Animê - 4 anos - Pérola,Animê,840588695
+2024-03-30,1141.86,0,Susete Alcarde,BLBEFM55OW4,Blusa ML Gola Retilínea Beabá - 4 anos - Off white,Beabá,840588695
+2024-03-30,1141.86,0,Susete Alcarde,VECHFM48X-1,Vestido Piquet Basics Charpey - 4 anos - Rosa,Charpey,840588695
+2024-03-30,1141.86,0,Susete Alcarde,SABEFM50OW4,Saia-shorts Moletom Beabá - 4 anos - Off white,Beabá,840588695
+2024-03-30,1141.86,0,Susete Alcarde,BLBEMC70CZ1,Tricot com dinossauro Beabá - 1 ano - Mescla escuro,Beabá,840588695
+2024-03-30,118.04,0,Hillary Vaz,TNGRMC85-3,Tênis New Way - 23 - Marinho,Gracia,840592997
+2024-03-30,137.74,0,Luana Salua Alvez de Souza,BLPSFM65PR14,Blusa Patches Pituchinhus - 14 anos - Preto,Pituchinhus,840596460
+2024-03-30,250.7,0,Dimpina Leda,VEPCFM110ES-6,Vestido Tule & Monograma Petit Cherie - 16 anos - Estampado,Petit Cherie,840609492
+2024-03-30,299.7,0,Marina Morais ,VEPCFM139RS8,Vestido PicNic Petit Cherie - 8 anos - Rosa,Petit Cherie,840609670
+2024-03-30,299.7,0,Marina Morais ,SDGRFM85-9,Sandália Ester Gracia HA1276  - 30 - Branca,Gracia,840609670
+2024-03-30,424.81,0,Daiane Barcelos,VEPCFM170ES-5,Vestido Le Jardin Petit Cherie - 14 anos - Estampado,Petit Cherie,840650836
+2024-03-31,239.43,0,Larissa Muxfeldt,SPPTFM97PT-4,Sandália Ciranda Petit Cheval - N. 29 - Prata,Petit Cheval,840697086
+2024-03-31,1000.27,0,Michelle Beatriz Viana Kato,CQPSFM189-4,Casaqueto tricot com monograma e cristais Pituchinhus - 8 anos - Rosa Baby,Pituchinhus,840707307
+2024-03-31,1000.27,0,Michelle Beatriz Viana Kato,BLMOFM45OW8,Blusa Com Strass Momi - 8 anos - Pérola,Momi,840707307
+2024-03-31,1000.27,0,Michelle Beatriz Viana Kato,SHFMMO96OW8,Shorts de sarja com strass Momi - 8 - Off white,Momi,840707307
+2024-03-31,1000.27,0,Michelle Beatriz Viana Kato,SHPSFM123XPR8,Shorts de moletom com pingente de laços de cristais Pituchinhus - 8 anos - Preto,Pituchinhus,840707307
+2024-03-31,1000.27,0,Michelle Beatriz Viana Kato,BLPSFM55PR8,Regata Basics Pituchinhus - 8 anos - Preto,Pituchinhus,840707307
+2024-03-31,1000.27,0,Michelle Beatriz Viana Kato,BLPSFM59VR8,Regata cropped Pituchinhus - 8 anos - Verde lime,Pituchinhus,840707307
+2024-03-31,1000.27,0,Michelle Beatriz Viana Kato,SIPSFM102-4,Saia-short de moletom com cristais Pituchinhus - 8 anos - Rosa Claro,Pituchinhus,840707307
+2024-04-01,317.13,0,Mayana Melo,SPTJFM132DR-15,Tênis Funky Tip Toey Joey - N. 32 - Dourado,Tip Toey Joey,840801744
+2024-04-01,1537.04,0,Janeth Vaz Oliveira,BSPSFM101OW,Bolsa Carneirinho & Poás & Cachorrinhos Pituchinhus,Pituchinhus,840817563
+2024-04-01,1537.04,0,Janeth Vaz Oliveira,BLPSFM83RS4,Blusa Cachorrinhos & Pérolas Pituchinhus - 4 anos - Rosa baby,Pituchinhus,840817563
+2024-04-01,1537.04,0,Janeth Vaz Oliveira,BLPSFM89OW4,Blusa Cachorrinhos & Cristais Pituchinhus - 4 anos - Off white,Pituchinhus,840817563
+2024-04-01,1537.04,0,Janeth Vaz Oliveira,VEPSFM213PR4,Vestido Poá & Cachorrinhos Pituchinhus - 4 anos - Poás e cachorros,Pituchinhus,840817563
+2024-04-01,1537.04,0,Janeth Vaz Oliveira,SAPSFM120XRS4,Saia-Shorts Frufru Tule Pituchinhus - 4 anos - Rosa baby,Pituchinhus,840817563
+2024-04-01,1537.04,0,Janeth Vaz Oliveira,BLPSFM114RS4,Blusa Frufru Tule Cristais Pituchinhus - 4 anos - Rosa baby,Pituchinhus,840817563
+2024-04-01,636.56,0,Thiara da Cruz Silva,VEMOFM80LS6,Vestido Matelasse Babado Momi - 6 anos - Lilás,Momi,840821155
+2024-04-01,636.56,0,Thiara da Cruz Silva,CJMOFM90OW6,Conjunto Blusa MC e Shorts One Day Momi - 6 anos - Pérola,Momi,840821155
+2024-04-01,636.56,0,Thiara da Cruz Silva,VECHFM48X-6,Vestido Piquet Basics Charpey - 6 anos - Vermelho,Charpey,840821155
+2024-04-01,636.56,0,Thiara da Cruz Silva,VECHFM48X-4,Vestido Piquet Basics Charpey - 6 anos - Rosa,Charpey,840821155
+2024-04-01,652.78,0,Klívia Gleicy Silva,SPGRFM97Y-4,Sapato Helena - 25 - Ouro velho,Gracia,840839630
+2024-04-01,652.78,0,Klívia Gleicy Silva,VEFMAN182BG4,Vestido em tule com corações bordados Animê - 4 anos - Bege,Animê,840839630
+2024-04-01,652.78,0,Klívia Gleicy Silva,CJFMAN187VD2,Conjunto blusa e shorts de laise Animê - 2 anos - Verde lima,Animê,840839630
+2024-04-01,388.99,0,Priscila Bontempo,VEPCFM170ZRS-1,Vestido Winter Classics Petit Cherie - 6 anos - Rosa,Petit Cherie,840892860
+2024-04-01,233.55,0,Nayarah Vaz,SDTJFM115RS28,Sandália Ruffle Tip Toey Joey - 28 - Rosé,Tip Toey Joey,840913702
+2024-04-01,288.87,0,Mariana Vieira,CJMCYC110OW10,Conjunto t-shirt e bermuda Pit Stop Youccie - 10 - Pérola/Marinho,Youccie,840914689
+2024-04-01,288.87,0,Mariana Vieira,BEKGMC63MR10,Bermuda Moletom Confort King & Joe Play - 10 anos - Royal,King & Joe Play,840914689
+2024-04-01,139.39,0,Marina Morais ,SPGRFM97W-6,Sapato Bela - 27 - Ouro light,Gracia,840915464
+2024-04-01,173.0,0,Grazielly Aparecida ,VEMOFM150OW14,Vestido em tricoline com flores bordadas Momi - 14 anos,Momi,840916099
+2024-04-02,282.39,0,Marina Morais ,BTPTFM120CB-4,Bota Galáxia Petit Cheval - N. 29 - Cobre,Petit Cheval,841020160
+2024-04-02,0.0,0,Daiane Moraes,,Sem descrição,,841096077
+2024-04-02,527.9,0,Renata Brasil Rangel ,JQANFM240PR6,Jaqueta Sobreposição Conceito Animê - 6 anos - Preto,Animê,841105939
+2024-04-02,88.0,0,Grazielly Alves Ferreira,CMDAMC80VD6,Camiseta Teddy Singers Dame - 6 anos - Wasabi,Dame,841110292
+2024-04-02,615.55,0,Suzy Lidiane ,VEPCFM130VD-3,Vestido Amazing Day Petit Cherie - 4 anos - Verde,Petit Cherie,841113725
+2024-04-02,615.55,0,Suzy Lidiane ,CJUMFM149ES4,Conjunto bata e saia-short em tricoline Um Mais Um - 4 anos - Multicolorido,Um Mais Um,841113725
+2024-04-02,615.55,0,Suzy Lidiane ,CJMOFM129BG4,Conjunto Pink Velvet Momi - 4 anos - Pérola,Momi,841113725
+2024-04-02,142.0,0,Caroline Costa Nazareno Adachi,VEPCFM150BR-1,Vestido Laços Petit Cherie - 10 anos - Branco,Petit Cherie,841116925
+2024-04-02,388.99,0,Claudia Marçal,VEPCFM170ZRS-5,Vestido Winter Classics Petit Cherie - 14 anos - Rosa,Petit Cherie,841118209
+2024-04-02,105.0,0,Caroline Oliveira,CJBEFM100OW6,Conjunto blusa canelada e shorts moletinho xadrez - 6 anos - Off white,Beabá,841121126
+2024-04-02,520.0,0,Sabrina Mota,VEPCFM146CL10,Vestido Verão 2024 Spring Beauty Petit Cherie - Colorido - 10 anos,Petit Cherie,841121526
+2024-04-02,520.0,0,Sabrina Mota,CJANFM168XD10,Conjunto blusa com babados e saia xadrez verde Animê - 10 anos - Xadrez verde,Animê,841121526
+2024-04-02,520.0,0,Sabrina Mota,CJUMFM159-4,Conjunto blusa em tricoline e saia estampada Um Mais Um - 10  anos - Estampado,Um Mais Um,841121526
+2024-04-02,453.0,0,Jossana França,VEPCFM156ES12,Vestido Rainbow Petit Cherie - 12 anos - Estampado,Petit Cherie,841122465
+2024-04-02,453.0,0,Jossana França,CJANFM109OW12,Pijama Gatinha Marie Animê - 12 anos - Off white,Animê,841122465
+2024-04-02,453.0,0,Jossana França,VEPCFM146CL12,Vestido Verão 2024 Spring Beauty Petit Cherie - Colorido - 12 anos,Petit Cherie,841122465
+2024-04-02,622.0,0,Nathália Cruvinel,VEPCFM130VD-4,Vestido Amazing Day Petit Cherie - 6  anos - Verde,Petit Cherie,841122753
+2024-04-02,622.0,0,Nathália Cruvinel,SHFMMO96OW4,Shorts de sarja com strass Momi - 4 - Off white,Momi,841122753
+2024-04-02,622.0,0,Nathália Cruvinel,VEPCFM129YOW2,Vestido Laços Petit Cherie - 2 anos - Branco,Petit Cherie,841122753
+2024-04-02,622.0,0,Nathália Cruvinel,CJANFM210OW4,Conjunto shorts e blusa com alça laço de strass Animê - 4 anos - Off white,Animê,841122753
+2024-04-03,273.68,0,Ana Paula Rosa Zacchi,SPPTFM97PT-4,Sandália Ciranda Petit Cheval - N. 29 - Prata,Petit Cheval,841170284
+2024-04-03,175.0,0,Suzy Lidiane ,CJUMFM159ES4,Conjunto blusa em tricoline e saia estampada Um Mais Um - 4 anos - Estampado,Um Mais Um,841173528
+2024-04-03,498.58,0,Fernanda Loiola,VEUMFM149RS3,Vestido em tricoline com renda Um Mais Um - 3 anos - Chiclete,Um Mais Um,841174067
+2024-04-03,498.58,0,Fernanda Loiola,CJUMFM159-2,Conjunto blusa em tricoline e saia estampada Um Mais Um - 6  anos - Estampado,Um Mais Um,841174067
+2024-04-03,498.58,0,Fernanda Loiola,CJCHMC146MS-2,Conjunto polo piquet e bermuda de sarja Charpey - 4 anos - Mescla,Charpey,841174067
+2024-04-03,675.22,0,Marina Souza ,VEPCFM120RS-4,Vestido Romantic Petit Cherie - 4 anos - Rosa,Petit Cherie,841200560
+2024-04-03,675.22,0,Marina Souza ,VEPCFM190ES-3,Vestido Happy Summer Petit Cherie - 4 anos - Estampado,Petit Cherie,841200560
+2024-04-03,675.22,0,Marina Souza ,VELCFM179LV2,Vestido Cecília Little Closet - 2 anos - Vichy lavanda,Little Closet,841200560
+2024-04-03,280.0,0,Katheryne Fátima Dalmolin Serpa,CJPCFM129ZES8,Conjunto Neon Vibes  - 8 anos - Estampado,Petit Cherie,841203971
+2024-04-03,280.0,0,Katheryne Fátima Dalmolin Serpa,CJKGMC75OW4,Conjunto t-shirt de algodão e bermuda de moletom King & Joe Play - 4 anos - Off white,King & Joe Play,841203971
+2024-04-03,142.0,0,Caroline Costa Nazareno Adachi,VEPCFM129YOW4,Vestido Laços Petit Cherie - 4 anos - Branco,Petit Cherie,841207181
+2024-04-03,389.99,0,Bruna Monteiro,CSANFM178BG14,Casaco Tricô com Gola Animê - 14 anos - Cru,Animê,841239428
+2024-04-03,424.59,0,Amanda Sirotto Veduatto,VECHFM48X-5,Vestido Piquet Basics Charpey - 6 anos - Lilás,Charpey,841246039
+2024-04-03,424.59,0,Amanda Sirotto Veduatto,CJKGMC60BG6,Conjunto Surf Camp - 6 anos - Areia,King & Joe Play,841246039
+2024-04-03,424.59,0,Amanda Sirotto Veduatto,CJKGMC70OW-3,Conjunto shorts e t-shirt Summer State Of Mind King & Joe Play - 6 anos - Off white,King & Joe Play,841246039
+2024-04-03,819.33,0,Bruna Monteiro,SHANFM110JS10,Shorts-saia jeans Animê - 10 anos - Jeans,Animê,841248075
+2024-04-03,819.33,0,Bruna Monteiro,CJMOFM148OW10,Conjunto Sweet Winter Momi - 10 anos - Pérola,Momi,841248075
+2024-04-03,819.33,0,Bruna Monteiro,SHANFM96PR10,Shorts Fake Leather Animê - 10 anos - Preto,Animê,841248075
+2024-04-03,476.88,0,Janeth Vaz Oliveira,CSPCFM990-2,Casaco Peles Petit Cherie - 6 anos - Preto,Petit Cherie,841259128
+2024-04-03,476.88,0,Janeth Vaz Oliveira,CSPCFM990-1,Casaco Peles Petit Cherie - 6 anos - Off white,Petit Cherie,841259128
+2024-04-03,241.99,0,Jordana da Silva Wolski,CJMOFM90OW2,Conjunto Blusa MC e Shorts One Day Momi - 2 anos - Pérola,Momi,841269149
+2024-04-03,100.0,0,Girlene Ferreira da Silva,CMDAMC80VD6,Camiseta Teddy Singers Dame - 6 anos - Wasabi,Dame,841279765
+2024-04-03,315.99,0,Jildauva Silva Santos,VEPCFM209XBR14,Vestido Verão 2024 Sweet Cherry Petit Cherie - 14 anos - Branco,Petit Cherie,841292089
+2024-04-04,1571.75,0,Mariana Teles,CJBEFM98RS2,Conjunto Moletom Pretty Queen Beabá - 2 anos - Pink,Beabá,841360912
+2024-04-04,1571.75,0,Mariana Teles,SAMOFM110OW3,Saia de tule com babado a fio Momi - 3 anos - Off white,Momi,841360912
+2024-04-04,1571.75,0,Mariana Teles,BLPSFM83RS2,Blusa Cachorrinhos & Pérolas Pituchinhus - 2 anos - Rosa baby,Pituchinhus,841360912
+2024-04-04,1571.75,0,Mariana Teles,PJMOFM90OW2,Pijama blusa e shorts Piu Piu Momi - 2 - Tweet,Momi,841360912
+2024-04-04,1571.75,0,Mariana Teles,MQANFM128JS4,Jump Strass Animê - 4 anos - Jeans,Animê,841360912
+2024-04-04,1571.75,0,Mariana Teles,CJPS392RS4,Conjunto casaqueto e vestido tricot com brilho e bolsos bordados Pituchinhus - 4 anos - Rosa,Pituchinhus,841360912
+2024-04-04,908.74,0,Obert Silva,SHPSFM130ES-3,Shorts floral listrado com bolsos Pituchinhus - 6 anos - Estampado,Pituchinhus,841372399
+2024-04-04,908.74,0,Obert Silva,BLPSFM100ES-3,Blusa cropped floral listrado com bolsos Pituchinhus - 6 anos - Estampado,Pituchinhus,841372399
+2024-04-04,908.74,0,Obert Silva,BLPSFM80VD-3,Blusa cropped com laço estampa mini flor e ursinha cristais Pituchinhus - 6 anos - Verde,Pituchinhus,841372399
+2024-04-04,908.74,0,Obert Silva,SHPSFM130VD-3,Shorts de algodão estampa mini flor e ursinha cristais Pituchinhus - 6 anos - Estampado,Pituchinhus,841372399
+2024-04-04,908.74,0,Obert Silva,VEMOFM90VD6,Vestido Winter Collection Momi - 6 anos - Verde folha,Momi,841372399
+2024-04-04,908.74,0,Obert Silva,SPGRFM97Y-8,Sapato Helena - 29 - Ouro velho,Gracia,841372399
+2024-04-04,566.0,0,Denise Miele,VEANFM187RS6,Vestido Tule Hearts Animê - 6 anos - Pink,Animê,841380272
+2024-04-04,566.0,0,Denise Miele,VEPCFM119RS8,Vestido Watercolor Flowers Rosa Fluor Petit Cherie - Rosa - 8 anos,Petit Cherie,841380272
+2024-04-04,976.95,0,Tamara Climaco Machado,BLPSFM76ZRS2,Regata com pérolas e cristais Pituchinhus - 2 anos - Rosa médio,Pituchinhus,841406614
+2024-04-04,976.95,0,Tamara Climaco Machado,SDTJFM115RS23,Sandália Ruffle Tip Toey Joey - 23 - Rosé,Tip Toey Joey,841406614
+2024-04-04,976.95,0,Tamara Climaco Machado,CJMOFM90BG2,Conjunto Winter Collection Momi - 2 anos - Bege,Momi,841406614
+2024-04-04,976.95,0,Tamara Climaco Machado,BLPSFM80OW2,Regata boneca e flores Pituchinhus - 2 anos - Off white,Pituchinhus,841406614
+2024-04-04,976.95,0,Tamara Climaco Machado,SAMOFM110OW2,Saia de tule com babado a fio Momi - 2 anos - Off white,Momi,841406614
+2024-04-04,976.95,0,Tamara Climaco Machado,,Laços e tiaras Gracia  - Laço P,,841406614
+2024-04-04,832.96,0,Bruna Monteiro,MQUMFM160VR10,Macacão pistache em linho Um Mais Um - 10 anos - Pistache,Um Mais Um,841419058
+2024-04-04,832.96,0,Bruna Monteiro,MQPCFM178RS12,Macacão Sweet Cherry Petit Cherie - Rosa - 12 anos,Petit Cherie,841419058
+2024-04-04,832.96,0,Bruna Monteiro,CJMOFM138OW10,Conjunto blusa com flores bordadas e shorts Momi - 10 anos - Off white,Momi,841419058
+2024-04-04,832.96,0,Bruna Monteiro,CJFMAN195XOW12,Conjunto blusa com mangas amplas e shorts Animê - 12 anos - Pérola e marinho,Animê,841419058
+2024-04-05,132.99,0,Suely Camelo Favoretti,VECHFM60-29,Vestido Piquet MC Charpey - 16 anos - Lilás,Charpey,841557487
+2024-04-05,411.41,0,Denise Miele,VEPSFM186RS8,Vestido Tricot Xadrez Ursinhas Cristal Pituchinhus - 8 anos - Rosa dolce,Pituchinhus,841566764
+2024-04-05,87.91,0,Wanessa Romanhol ,BLMOFM70OW12,Blusa de tecido de lastex Momi - 12 anos - Off white,Momi,841600109
+2024-04-05,264.58,0,Fernanda Silva Santos,VEMOFM120XD8,Vestido Xadrez & Corações Momi - 8 anos - Baby xadrez,Momi,841617309
+2024-04-05,167.99,0,Fernando Henrique,CJKGMC70VD2,Conjunto t-shirt e bermuda de moletom Freedom King & Joe Play - 2 anos - Verde militar,King & Joe Play,841626083
+2024-04-05,338.8,0,Priscila Bontempo,VEUMFM170MR10,Vestido em tricoline com elástico com glitter - 10 anos - Marinho,Um Mais Um,841633423
+2024-04-05,338.8,0,Priscila Bontempo,CJPCFM139AVD4,Conjunto Joy In The Field Petit Cherie - 4 anos - Verde,Petit Cherie,841633423
+2024-04-05,129.99,0,Fernanda Nasser,VECHFM57X-5,Vestido Piquet Basics Charpey - 10 anos - Lilás,Charpey,841652693
+2024-04-05,292.48,0,Leane Oliveira,SPPTFM97PT-3,Sandália Ciranda Petit Cheval - N. 28 - Prata,Petit Cheval,841653173
+2024-04-05,292.48,0,Leane Oliveira,CMBEMC35AZ10,Camiseta Basics Beabá - 10 anos - Royal,Beabá,841653173
+2024-04-05,0.0,0,Larissa da Silva,,Sem descrição,,841670837
+2024-04-06,320.0,0,Wilsa Maria Laura,VEBEFM100OW4,Vestido de linho com pompom colorido - 4 anos - Cru,Beabá,841694406
+2024-04-06,320.0,0,Wilsa Maria Laura,VEBEFM100OW6,Vestido de linho com pompom colorido - 6 anos - Cru,Beabá,841694406
+2024-04-06,320.0,0,Wilsa Maria Laura,,Laços e tiaras Gracia  - Laço P,,841694406
+2024-04-06,320.0,0,Wilsa Maria Laura,,Laços e tiaras Gracia  - Laço P,,841694406
+2024-04-06,444.97,0,Lorenna Rezende,SPGRFM97-10,Sapato Maria  - 26 - Azul lagoon,Gracia,841699141
+2024-04-06,444.97,0,Lorenna Rezende,VECHFM47CL-12,Vestido Piquet Tricolor Charpey - Branco - 2 anos,Charpey,841699141
+2024-04-06,444.97,0,Lorenna Rezende,SPGRFM97W-5,Sapato Bela - 26 - Ouro light,Gracia,841699141
+2024-04-06,402.75,0,Wanessa Pazini,CJTWFM180PR16,Conjunto balonê em renda Two In - 16 anos - Preto,Two In,841700553
+2024-04-06,295.0,0,Michelle Morais dos Anjos ,SDGRFM85-9,Sandália Ester Gracia HA1276  - 30 - Branca,Gracia,841708245
+2024-04-06,295.0,0,Michelle Morais dos Anjos ,CJPCFM109RS8,Conjunto Candy Dreams Petit Cherie - 8 anos - Rosa,Petit Cherie,841708245
+2024-04-06,126.34,0,Poliana Batista,VECHFM60-11,Vestido Piquet MC Charpey - 4 anos - Lilás,Charpey,841710147
+2024-04-06,520.83,0,Priscila Hermano,BLPSFM76XRS14,Regata Cristais Pituchinhus - 14 anos - Rosa médio,Pituchinhus,841715501
+2024-04-06,520.83,0,Priscila Hermano,BLPSFM76XRS12,Regata Cristais Pituchinhus - 12 anos - Rosa médio,Pituchinhus,841715501
+2024-04-06,520.83,0,Priscila Hermano,BLPSFM80OW12,Regata boneca e flores Pituchinhus - 12 anos - Off white,Pituchinhus,841715501
+2024-04-06,520.83,0,Priscila Hermano,BLPSFM107OW-7,Blusa cropped com flores aplicadas Pituchinhus - 14 anos - Off white,Pituchinhus,841715501
+2024-04-06,192.05,0,Cecilia ,MCGRMC85-10,Mocassim Nino - 26 - Caramelo,Gracia,841715993
+2024-04-06,100.19,0,Jordana Diniz,BLPSFM76BR14,Regata Cristais Pituchinhus - 14 anos - Branca,Pituchinhus,841716154
+2024-04-06,381.24,0,Cynara Sene,BLMOFM48OW16,Blusa Canelada Basics Momi - 16 anos - Off white,Momi,841718011
+2024-04-06,381.24,0,Cynara Sene,SAIAFM110BG16,Saia cargo com pregas I Am - 16 anos - Bege,I Am,841718011
+2024-04-06,381.24,0,Cynara Sene,,Laços e tiaras Gracia  - Laço P,,841718011
+2024-04-08,610.69,0,Elisa Graciete Damasceno Mainardi,VEPCFM210XD-6,Vestido Shiny Petit Cherie - 16 anos - Xadrez,Petit Cherie,841930947
+2024-04-08,610.69,0,Elisa Graciete Damasceno Mainardi,VECHFM57X-8,Vestido Piquet Basics Charpey - 16 anos - Lilás,Charpey,841930947
+2024-04-08,1606.25,0,Ivete Custódia Ferreira Costa,VEPCFM160ZES-3,Vestido Magic Garden Petit Cherie - 3 anos - Estampado,Petit Cherie,841992041
+2024-04-08,1606.25,0,Ivete Custódia Ferreira Costa,VEUMFM140RX3,Vestido Midi Xadrez 1+1 - 3 anos - Xadrez roxo,Um Mais Um,841992041
+2024-04-08,1606.25,0,Ivete Custódia Ferreira Costa,VEMOFM80LS3,Vestido Matelasse Babado Momi - 3 anos - Lilás,Momi,841992041
+2024-04-08,1606.25,0,Ivete Custódia Ferreira Costa,SPGRFM97-3,Sapato Maria  - 23 - Rosa flamingo,Gracia,841992041
+2024-04-08,1606.25,0,Ivete Custódia Ferreira Costa,POUMMC90OW8,Polo Piquet Gola Retilínea Um Mais Um - 8 anos - Off white,Um Mais Um,841992041
+2024-04-08,1606.25,0,Ivete Custódia Ferreira Costa,CMYCMC35DV-13,Camiseta Essentials Youccie  - 8 anos - Preto,Youccie,841992041
+2024-04-08,1606.25,0,Ivete Custódia Ferreira Costa,BEKGMC53MR8,Bermuda Moletom Confort King & Joe Play - 8 anos - Royal,King & Joe Play,841992041
+2024-04-08,1606.25,0,Ivete Custódia Ferreira Costa,CLDAMC130BG8,Calça social skinny de sarja Dame Dos - 8 anos - Bege,Dame,841992041
+2024-04-08,575.78,0,Nayarah Vaz,CJUMFM180LS6,Conjunto Casaco e Shorts Tweed Xadrez Um Mais Um - 6 anos - Lilás,Um Mais Um,841999208
+2024-04-08,575.78,0,Nayarah Vaz,VECHFM84-7,Vestido Suedine Charpey  - 4 anos - Verde,Charpey,841999208
+2024-04-08,575.78,0,Nayarah Vaz,VECHFM48X-3,Vestido Piquet Basics Charpey - 4 anos - Vermelho,Charpey,841999208
+2024-04-08,573.74,0,Rosana Souza,CJUMFM205AL12,Conjunto blusa em tricoline e saia em tricot Um Mais Um - 12 anos - Amarelo claro,Um Mais Um,842017538
+2024-04-08,573.74,0,Rosana Souza,CJUMFM170RS14,Conjunto camisa em tricoline com strass e saia-short em moletom Um Mais Um - 14 anos - Rosa fluor,Um Mais Um,842017538
+2024-04-08,334.99,0,Camila Cristina Ramos,VEANFM146PR12,Vestido Maxi Laço Animê - 12 anos - Preto,Animê,842048378
+2024-04-08,259.98,0,Amanda Caroline Freitas,VECHFM48X-9,Vestido Piquet Basics Charpey - 8 anos - Vermelho,Charpey,842059596
+2024-04-08,259.98,0,Amanda Caroline Freitas,VECHFM48X-7,Vestido Piquet Basics Charpey - 8 anos - Rosa,Charpey,842059596
+2024-04-08,234.96,0,Daniela Lopes Moreno,BEDAMC89CZ8,Bermuda de moletom Basic Dame Dos - 8 anos - Cinza,Dame,842063518
+2024-04-08,234.96,0,Daniela Lopes Moreno,BEDAMC89LR8,Bermuda de moletom Basic Dame Dos - 8 anos - Tangerina,Dame,842063518
+2024-04-08,336.98,0,Thais Linhares,VEMOFM70ES6,Vestido trapézio Ursas Momi - 6 anos - Estampado,Momi,842084774
+2024-04-08,336.98,0,Thais Linhares,CJANFM119OW6,Conjunto Summer Vibes Animê - 6 anos - Pérola,Animê,842084774
+2024-04-08,135.99,0,Ivete Gomes Bastos,BLANFM60OW14,Blusa MC Essentials Animê - 14 anos - Pérola,Animê,842102130
+2024-04-09,92.98,0,Girlene Ferreira da Silva,CMKGMC30VD8,Camiseta Motor Club King & Joe Play - 8 anos - Verde Militar,King & Joe Play,842218415
+2024-04-09,92.98,0,Girlene Ferreira da Silva,CAKGMC40ASA8,Camiseta estampada Stand Up King Joe Play - 8 - Salmon,King & Joe Play,842218415
+2024-04-09,746.69,0,Nayana Carolina,VEPCFM160ZES-2,Vestido Magic Garden Petit Cherie - 2 anos - Estampado,Petit Cherie,842277922
+2024-04-09,746.69,0,Nayana Carolina,VEPCFM170YRS-2,Vestido Martina Dancing  Petit Cherie - 2 anos - Rosa,Petit Cherie,842277922
+2024-04-09,256.0,0,Mônica Ribeiro,SAPSFM120XRS6,Saia-Shorts Frufru Tule Pituchinhus - 6 anos - Rosa baby,Pituchinhus,842286575
+2024-04-09,197.99,0,Leane Oliveira,CJMCYC150BR12,Conjunto camisa e bermuda Youccie - 12 - Branca/Marinho,Youccie,842327266
+2024-04-09,0.0,0,Joiceleide Costa,,Sem descrição,,842332696
+2024-04-09,0.0,0,Nayarah Vaz,,Sem descrição,,842415181
+2024-04-10,252.04,0,Tayssa Moraes Miranda Ribeiro,CJUMFM169LR14,Conjunto camisa e shorts com bordados Um Mais Um - 14 anos - Laranja,Um Mais Um,842474264
+2024-04-10,0.0,0,Priscila Hermano,,Sem descrição,,842502564
+2024-04-10,446.98,0,Ester Milena Brito dos Reis,BLTWFM90PR16,Tshirt Cropped Strass Two In - 16 anos - Preto,Two In,842520179
+2024-04-10,446.98,0,Ester Milena Brito dos Reis,SATWFM110PR16,Saia-Shorts Sarja Strass Two In - 16 anos - Preto,Two In,842520179
+2024-04-10,318.98,0,Cejana Cristina de Castro Alves,VEPSFM264RS8,Vestido de tule com cristais Pituchinhus - 8 anos - Rosa claro,Pituchinhus,842521663
+2024-04-11,412.28,0,Joiceleide Costa,VEANFM146PR16,Vestido Maxi Laço Animê - 16 anos - Preto,Animê,842662219
+2024-04-11,412.28,0,Joiceleide Costa,BLMOFM45OW16,Blusa Com Strass Momi - 16 anos - Pérola,Momi,842662219
+2024-04-11,401.83,0,Yluska F M Maciel ,VEANFM146PR8,Vestido Maxi Laço Animê - 8 anos - Preto,Animê,842666077
+2024-04-11,401.83,0,Yluska F M Maciel ,BLMOFM40OW8,Blusa Ursas Super Cute Momi - 8 anos - Pérola,Momi,842666077
+2024-04-11,217.74,0,Thayse Gardini Alvarenga Jundi,CJYCMC150AZ6,Conjunto Mickey Youccie - 6 anos - Marinho,,842680365
+2024-04-11,0.0,0,Luana Salua Alvez de Souza,,Sem descrição,,842687487
+2024-04-11,132.99,0,Latifa Buzzo,VECHFM60-18,Vestido Piquet MC Charpey - 8 anos - Pink,Charpey,842690166
+2024-04-11,0.0,0,Bruna Kounboz,,Sem descrição,,842750192
+2024-04-11,0.0,0,Valéria Godoy,,Sem descrição,,842752298
+2024-04-11,1028.54,0,Fernanda Azevedo Lima Teixeira,MQANFM128JS10,Jump Strass Animê - 10 anos - Jeans,Animê,842758246
+2024-04-11,1028.54,0,Fernanda Azevedo Lima Teixeira,CLMOFM150JS10,Calça Jeans Bolso Cargo Momi - 10 anos - Jeans,Momi,842758246
+2024-04-11,1028.54,0,Fernanda Azevedo Lima Teixeira,CJANFM190PR10,Conjunto Blusa Style e Shorts Paetês Animê - 10 anos - Preto,Animê,842758246
+2024-04-12,73.14,0,Bruna Lopes ,CMBEMC35AZ2,Camiseta Basics Beabá - 2 anos - Royal,Beabá,842891084
+2024-04-12,250.0,0,Maria Do Rosário Praça ,VEPCFM189XES12,Vestido Fashion Bear Petit Cherie - Estampado - 12 anos,Petit Cherie,842906343
+2024-04-12,520.95,0,Amanda Sirotto Veduatto,CJBEMC150BR4,Conjunto camisa com bermuda de sarja - 4 anos - Branco,Beabá,842949821
+2024-04-12,520.95,0,Amanda Sirotto Veduatto,CJUMMC119XAZ6,Conjunto t-shirt 100% algodão e bermuda de sarja flamê Um Mais Um - 6 anos - Azul,Um Mais Um,842949821
+2024-04-12,520.95,0,Amanda Sirotto Veduatto,CJMOFM80XOW4,Conjunto Blusa MC e Shorts Take Easy Momi - 4 anos - Pérola,Momi,842949821
+2024-04-12,145.99,0,Amanda Sirotto Veduatto,SPGRFM97X-8,Sapato Clara - Branco - 29,Gracia,843020682
+2024-04-12,176.0,0,Latifa Buzzo,POCHMC46-6,Polo Piquet MC Charpey - Vermelho - 8 anos,,843022223
+2024-04-12,176.0,0,Latifa Buzzo,CMCHMC38-20,Tshirt basics Charpey  - 14 anos - Verde,Charpey,843022223
+2024-04-12,196.64,0,Priscila Bontempo,VEMOFM90XRS3,Vestido MC Fucsia Strass Momi - 3 anos - Fucsia,Momi,843026029
+2024-04-12,62.7,0,Priscila Bontempo,BLMOFM48PK2,Blusa manga bufante com babado Momi J5164 - 2 - Pink,Momi,843026704
+2024-04-13,0.0,0,Thiara da Cruz Silva,,Sem descrição,,843155524
+2024-04-13,786.9,0,Nayarah Vaz,CJPCFM170PR-4,Conjunto Lovely Buttetfly Petit Cherie - 12 anos - Preto,Petit Cherie,843164917
+2024-04-13,786.9,0,Nayarah Vaz,VEANFM182RS6,Vestido Brilho Noturno Animê - 6 anos - Rosa,Animê,843164917
+2024-04-13,595.79,0,Ana Maria Gontijo ,POBEMC60BR6,Polo com logo Dino - 6 anos - Branco,Beabá,843165828
+2024-04-13,595.79,0,Ana Maria Gontijo ,PODAMC98AL4,Polo manga curta Dame - 4 anos - Amarelo,Dame,843165828
+2024-04-13,595.79,0,Ana Maria Gontijo ,BEBEMC60CZ4,Bermuda tradicional com bolso faca Beabá - 4 anos - Cinza claro,Beabá,843165828
+2024-04-13,595.79,0,Ana Maria Gontijo ,BEDAMC82JS6,Bermuda raymi Dame - 6 anos - Denim,Dame,843165828
+2024-04-14,0.0,0,Isis Souza,,Sem descrição,,843219665
+2024-04-15,0.0,0,Jessica Nobrega,,Sem descrição,,843369045
+2024-04-15,0.0,0,Luiza Helena Pontes Costa,,Sem descrição,,843385601
+2024-04-15,347.57,0,Lyandra Costa,BECHMC121-2,Bermuda em linho Charpey - 2 anos - Caqui,Charpey,843386553
+2024-04-15,347.57,0,Lyandra Costa,POCHMC63BR-3,Polo Piquet Charpey - 3 anos - Branco,Charpey,843386553
+2024-04-15,871.66,0,Camilla Santos,VEUMFM110AL1,Vestido midi com gola em flor 1+1 - 1 ano - Amarelo claro,Um Mais Um,843392649
+2024-04-15,871.66,0,Camilla Santos,VEPSFM186PR6,Vestido Tricot Botões Jóia Coração Pituchinhus - 6 anos - Preto,Pituchinhus,843392649
+2024-04-15,871.66,0,Camilla Santos,VELCFM170BR4,Vestido Isabel Little Closet  - 4 anos - Branco,,843392649
+2024-04-15,391.94,0,Arlete Gomes Campos,CJANFM195XVD8,Conjunto blusa e saia verde laise Animê - 8 anos - Verde,Animê,843418176
+2024-04-15,391.94,0,Arlete Gomes Campos,CJUMMC129YCQ6,Conjunto tshirt 100% algodão e bermuda de sarja Um Mais Um - 6 anos - Caqui,Um Mais Um,843418176
+2024-04-15,476.44,0,Fernanda Loiola,CJMOFM100ZOW6,Conjunto Blusa MC e Shorts Pink Glitter Momi - 6 anos - Pérola,Momi,843423860
+2024-04-15,476.44,0,Fernanda Loiola,SPTJFM119RS25,Sapatilha Misty Tip Toey Joey - 25 - Rosé,Tip Toey Joey,843423860
+2024-04-15,280.48,0,Latifa Buzzo,POUMMC90MR6,Polo piquet com gola jacquard tricot 1+1 - 6 anos - Marinho,Um Mais Um,843425194
+2024-04-15,280.48,0,Latifa Buzzo,POCHMC63BR-18,Polo Piquet Charpey - 12 anos - Marinho,Charpey,843425194
+2024-04-15,628.5,0,Caroline Do Valle ,VEPCFM170YRS-3,Vestido Martina Dancing  Petit Cherie - 3 anos - Rosa,Petit Cherie,843432488
+2024-04-15,628.5,0,Caroline Do Valle ,VEUMFM110AL3,Vestido midi com gola em flor 1+1 - 3 anos - Amarelo claro,Um Mais Um,843432488
+2024-04-15,389.99,0,Alexandrina Fabiana Vitoreira ,KTCJPS283BR2,Conjunto casaqueto e saia bouclé com bordados Pituchinhus  - 2 anos - Branco,Pituchinhus,843436701
+2024-04-15,207.99,0,Caroline Bezerra,VEBEFM79MR4,Vestido Quadriculado & Gola Beabá - 4 anos - Marinho,Beabá,843463165
+2024-04-16,4000.0,0,Solange Pires,CJCHMC93VD-1,Conjunto camiseta e bermuda moletom sem felpa Charpey - 10 anos - Verde,Charpey,843568098
+2024-04-16,4000.0,0,Solange Pires,CJCHMC144BR-5,Conjunto polo em piquet e bermuda de sarja Charpey - 10  anos - Branco,Charpey,843568098
+2024-04-16,4000.0,0,Solange Pires,CJCHMC146MS-5,Conjunto polo piquet e bermuda de sarja Charpey - 10  anos - Mescla,Charpey,843568098
+2024-04-16,4000.0,0,Solange Pires,CJCHMC129-5,Conjunto t-shirt e moletom Charpey - 10  anos - Branca/Mescla,Charpey,843568098
+2024-04-16,4000.0,0,Solange Pires,CJUMMC100MS10,Conjunto camiseta e bermuda   1+1 - 10 anos - Mescla claro,Um Mais Um,843568098
+2024-04-16,4000.0,0,Solange Pires,CJYCMC128BR10,Conjunto esportes Youccie - 10 anos - Branco,Youccie,843568098
+2024-04-16,4000.0,0,Solange Pires,CADAMC155XJS12,Calça jeans skinny Dame Dos - 12 anos - Jeans,Dame,843568098
+2024-04-16,4000.0,0,Solange Pires,CJCHMC181X-5,Conjunto bata e bermuda de sarja Charpey - 10  anos - Branco/Caqui,Charpey,843568098
+2024-04-16,4000.0,0,Solange Pires,BADAMC78MR10,Bata com bordado Dame - 10 anos - Marinho,Dame,843568098
+2024-04-16,4000.0,0,Solange Pires,CMYCMC35DV-19,Camiseta Essentials Youccie  - 10 anos - Off white,Youccie,843568098
+2024-04-16,4000.0,0,Solange Pires,CMYCMC35DV-18,Camiseta Essentials Youccie  - 10 anos - Cinza escuro,Youccie,843568098
+2024-04-16,4000.0,0,Solange Pires,CMYCMC35DV-20,Camiseta Essentials Youccie  - 10 anos - Azul oceano,Youccie,843568098
+2024-04-16,4000.0,0,Solange Pires,CMYCMC35DV-17,Camiseta Essentials Youccie  - 10 anos - Preto,Youccie,843568098
+2024-04-16,4000.0,0,Solange Pires,BLMCBE34VD10,Camiseta Basics Beabá - 10 anos - Verde escuro,Beabá,843568098
+2024-04-16,4000.0,0,Solange Pires,CMDAMC71VR10,Camiseta com bolso embutido Dame Dos - 10 anos - Vermelha,Dame,843568098
+2024-04-16,4000.0,0,Solange Pires,CADAMC78OW10,Camiseta com botões e bordado Dame Dos - 10 anos - Off white,Dame,843568098
+2024-04-16,4000.0,0,Solange Pires,CMKGMC40OW-4,Camiseta Coral Coast King & Joe Play - 8 anos - Off white,King & Joe Play,843568098
+2024-04-16,4000.0,0,Solange Pires,BEUMMCMS7910,Bermuda de moletinho Kids Um Mais Um - 10 anos - Mescla claro,Um Mais Um,843568098
+2024-04-16,4000.0,0,Solange Pires,BEBEMC59BCZ10,Bermuda de moletom Beabá - 10 anos - Cinza,Beabá,843568098
+2024-04-16,4000.0,0,Solange Pires,BEBEMC70JS10,Bermuda de moletom jeans  Beabá - 10 anos - Azul médio,Beabá,843568098
+2024-04-16,4000.0,0,Solange Pires,TNDAMC180BG31,Tênis Knit Dame - N. 31 - Bege,Dame,843568098
+2024-04-16,4000.0,0,Solange Pires,TNDAMC180MR31,Tênis Knit Dame - N. 31 - Marinho,Dame,843568098
+2024-04-16,2676.0,0,Bruna Bonifácio,VEPSFM167BG14,Vestido Bouclé Bordados e Bolsos Pituchinhus - 14 anos - Bege claro,Pituchinhus,843586331
+2024-04-16,2676.0,0,Bruna Bonifácio,CADAMC121XAZ2,Camisa Tricoline Dame - 2 anos - Azul claro,Dame,843586331
+2024-04-16,2676.0,0,Bruna Bonifácio,CLDAMC126BG2,Calça de sarja skinny Dame - 2 anos - Bege,Dame,843586331
+2024-04-16,2676.0,0,Bruna Bonifácio,CLIAFM128PR14,Calça Wide I Am - 14 anos - Preto,I Am,843586331
+2024-04-16,2676.0,0,Bruna Bonifácio,CLMOFM150JS14,Calça Jeans Bolso Cargo Momi - 14 anos - Jeans,Momi,843586331
+2024-04-16,2676.0,0,Bruna Bonifácio,VETWFM170PR16,Vestido Balonê  Metalizado Two In - 16 anos - Prata,Two In,843586331
+2024-04-16,2676.0,0,Bruna Bonifácio,BLIAFM69OW14,Blusa ML Recortes I Am - 14 anos - Pérola,I Am,843586331
+2024-04-16,2676.0,0,Bruna Bonifácio,SPPTFM85PT-2,Sandália Ciranda Petit Cheval - N. 23 - Prata,Petit Cheval,843586331
+2024-04-16,2676.0,0,Bruna Bonifácio,SPTJMC127-13,Tênis Boat Tip Toey Joey - N. 19 - Marrom,Tip Toey Joey,843586331
+2024-04-16,2676.0,0,Bruna Bonifácio,SHANFM96PR14,Shorts Fake Leather Animê - 14 anos - Preto,Animê,843586331
+2024-04-16,1369.66,0,Luiza Helena Pontes Costa,CJYCMC100CZ10,Conjunto Sports & Gamer Youccie - 10 anos - Cinza,Youccie,843588858
+2024-04-16,1369.66,0,Luiza Helena Pontes Costa,CMDAMC109AL12,Polo manga longa Dame Dos - 12 anos - Amarelo,Dame,843588858
+2024-04-16,1369.66,0,Luiza Helena Pontes Costa,BLUMMC50MR12,Blusa surfisa com proteção UV Um Mais Um - 12 anos - Marinho,Um Mais Um,843588858
+2024-04-16,1369.66,0,Luiza Helena Pontes Costa,BLUMMC50MR14,Blusa surfisa com proteção UV Um Mais Um - 14 anos - Marinho,Um Mais Um,843588858
+2024-04-16,1369.66,0,Luiza Helena Pontes Costa,SUUMMC55MR14,Sunga box com proteção UV Um Mais Um - 14 anos - Marinho,Um Mais Um,843588858
+2024-04-16,1369.66,0,Luiza Helena Pontes Costa,SUUMMC55MR12,Sunga box com proteção UV Um Mais Um - 12 anos - Marinho,Um Mais Um,843588858
+2024-04-16,1369.66,0,Luiza Helena Pontes Costa,BEUMMCMR7912,Bermuda de moletinho Kids Um Mais Um - 12 anos - Marinho,Um Mais Um,843588858
+2024-04-16,1369.66,0,Luiza Helena Pontes Costa,BECHMC121-11,Bermuda em linho Charpey - 12 anos - Marinho,Charpey,843588858
+2024-04-16,1369.66,0,Luiza Helena Pontes Costa,CMKGMC31VD12,Camiseta Skate Bike And Surf King & Joe Play - 12 anos - Verde militar,King & Joe Play,843588858
+2024-04-16,1369.66,0,Luiza Helena Pontes Costa,CAKGMC42AZ12,Camiseta estampada Clube da Música King & Joe Play - 12 anos,King & Joe Play,843588858
+2024-04-16,329.94,0,Marta Maria ,VEANFM250OW10,Vestido com babados Animê - 10 - Off white,Animê,843602773
+2024-04-16,0.0,0,Cristina Souza Leandro ,,Sem descrição,,843634682
+2024-04-16,145.99,0,Nilva Moreira ,SPGRFM97-9,Sapato Maria  - 26 - Rosa flamingo,Gracia,843662312
+2024-04-17,398.04,0,Rafaela Melo,CJPCFM275-4,Conjunto Joy In The Field Petit Cherie - 6  anos - Jeans,Petit Cherie,843735192
+2024-04-17,898.87,0,Paula Kotake,CJFMAN187VD4,Conjunto blusa e shorts de laise Animê - 4 anos - Verde lima,Animê,843776864
+2024-04-17,898.87,0,Paula Kotake,VEBEFM79MR3,Vestido Quadriculado & Gola Beabá - 3 anos - Marinho,Beabá,843776864
+2024-04-17,898.87,0,Paula Kotake,VEPCFM110ES-3,Vestido Tule & Monograma Petit Cherie - 10 anos - Estampado,Petit Cherie,843776864
+2024-04-17,898.87,0,Paula Kotake,CJUMFM180BR4,Conjunto camisa e shorts com detalhes em laise - 4 anos - Branco,Um Mais Um,843776864
+2024-04-17,397.97,0,Jussara Xavier,BEDAMC95VR8,Bermuda neotech Dame Dos - 8 anos - Vermelho,Dame,843840223
+2024-04-17,397.97,0,Jussara Xavier,BEDAMC73BG6,Bermuda listrada giron Dame - 6 anos - Bege,Dame,843840223
+2024-04-17,397.97,0,Jussara Xavier,BEUMMC90XD6,Bermuda de sarja xadrez - 6 anos - Xadrez,Beabá,843840223
+2024-04-17,402.0,0,Caroline Costa Nazareno Adachi,VEBEFM79MR6,Vestido Quadriculado & Gola Beabá - 6 anos - Marinho,Beabá,843866095
+2024-04-17,402.0,0,Caroline Costa Nazareno Adachi,SPPTMC93CB-1,Sapato Tabuleiro Petit Cheval - N. 26 - Cobre,Petit Cheval,843866095
+2024-04-17,130.0,0,Thais Fernandes,VECHFM48X-2,Vestido Piquet Basics Charpey - 4 anos - Lilás,Charpey,843869330
+2024-04-18,1159.0,0,Lyandra Costa,CMDAMC71XOW3,Camiseta Urso Limonada Dame - 3 anos - Off white,Dame,843958326
+2024-04-18,1159.0,0,Lyandra Costa,CMDAMC72XOW3,Camiseta Urso Sketch Dame - 3 anos - Off white,Dame,843958326
+2024-04-18,1159.0,0,Lyandra Costa,CMBEMC35MR3,Camiseta Basics Beabá - 3 anos - Marinho,Beabá,843958326
+2024-04-18,1159.0,0,Lyandra Costa,CMBEMC35OW3,Camiseta Basics Beabá - 3 anos - Off white,Beabá,843958326
+2024-04-18,1159.0,0,Lyandra Costa,CADAMC128CZ2,Calça de sarja skinny Dame Dos  - 2 anos - Cinza,,843958326
+2024-04-18,1159.0,0,Lyandra Costa,TNDAMC180BG23,Tênis Knit Dame - N. 23 - Bege,Dame,843958326
+2024-04-18,1159.0,0,Lyandra Costa,CMDAMC90BG3,Camiseta Urso Kombi Dame - 3 anos - Bege,Dame,843958326
+2024-04-18,1159.0,0,Lyandra Costa,BLDAMC150BG3,Blusa Escocês Central Dame - 3 anos - Bege,Dame,843958326
+2024-04-18,492.31,0,Liliane Pacheco,CMKGMC22OW6,T-shirt Essentials King & Joe Play - 6 anos - Off white,King & Joe Play,843959529
+2024-04-18,492.31,0,Liliane Pacheco,BAUMMC109OW8,Bata de cambraia de linho Um Mais Um - 8 anos - Off white,Um Mais Um,843959529
+2024-04-18,492.31,0,Liliane Pacheco,SPTJMC127MM27,Tênis Boat Tip Toey Joey - 27 - Marrom,Tip Toey Joey,843959529
+2024-04-18,550.0,0,Leane Oliveira,CLBEFM50PR8,Calça Básica com Elástico Beabá - 8 anos - Preto,,843987643
+2024-04-18,550.0,0,Leane Oliveira,CAMOFM80OW8,Camisa MC Tricoline Patch Momi - 8 anos - Off white,Momi,843987643
+2024-04-18,550.0,0,Leane Oliveira,CJMOFM129PR6,Conjunto Sobreposição Momi - 6 anos - Preto,Momi,843987643
+2024-04-18,206.99,0,Lorenna Rezende,CJMOFM90MM3,Conjunto Always Being Cute - 3 anos - Toffee,Momi,843989419
+2024-04-18,170.0,0,Paula Kotake,CJKGMC70XMR10,Conjunto t-shirt e shorts nylon Ocean Sounds King & Joe Play - 10 anos - Marinho,King & Joe Play,843995428
+2024-04-18,256.0,0,Priscila Bontempo,CJMOFM124PR3,Conjunto Winter Classic Momi - 3 anos - Preto,Momi,844016014
+2024-04-19,220.0,0,Alba Regina Brasil Rangel,SPTJFM132DR-1,Tênis Funky Tip Toey Joey - N. 18 - Dourado,Tip Toey Joey,844075759
+2024-04-19,129.99,0,Rogumerci Terezinha ,VECHFM41X-8,Vestido Piquet Basics Charpey - 3 anos - Lilás,Charpey,844115745
+2024-04-19,309.0,0,Cristiane de Oliveira ,JDMOFM60ES6,Jardineira Comfy Ursas Momi - 6 anos - Estampado,Momi,844116581
+2024-04-19,309.0,0,Cristiane de Oliveira ,VECHFM84-10,Vestido Suedine Charpey - 6 anos - Pink,Charpey,844116581
+2024-04-19,180.0,0,Vanessa Lapot,CJANFM145OW10,Conjunto blusa over sized e legging Minnie & Animê - 10 anos - Off white,Animê,844176386
+2024-04-19,225.0,0,Lidia Neves,VEPCFM169BR12,Vestido infantil Borboleta Petit Cherie - 12 anos - Branco,Petit Cherie,844178563
+2024-04-19,483.36,0,Denise Miele,VEMOFM90XRS8,Vestido MC Fucsia Strass Momi - 8 anos - Fucsia,Momi,844179437
+2024-04-19,483.36,0,Denise Miele,KTCJPS205VD8,Conjunto blusa e shorts estampa mini flor e ursinha cristais Pituchinhus - 8 anos - Verde,Pituchinhus,844179437
+2024-04-19,302.0,0,Bruna Bonifácio,VEMOFM129ES4,Vestido Animal Print Momi - 4 anos - Floral onça,Momi,844211982
+2024-04-20,314.97,0,Alana Miguel,SHKJMC50VD8,Shorts King & Joe Play - 8 anos - Verde Militar,King & Joe Play,844247117
+2024-04-20,314.97,0,Alana Miguel,PJCFUN82VD8,Pijama Moletinho Floresta Green Conforteca - 8,Conforteca,844247117
+2024-04-20,314.97,0,Alana Miguel,CJBEMC109AZ8,Conjunto Dino tshirt e bermuda de moletom Beabá - 8 anos - Azul médio,Beabá,844247117
+2024-04-20,763.88,0,Nayarah Vaz,VEPCFM170RS-4,Vestido Cut Out Petit Cherie - 12 anos - Rosa,Petit Cherie,844259567
+2024-04-20,763.88,0,Nayarah Vaz,VEPCFM170XRS-1,Vestido Winter Princess Petit Cherie - 1 ano - Rosa,Petit Cherie,844259567
+2024-04-20,220.99,0,Nina ,CSBEFM100OW1,Casaco Tricot & Botões Beabá - 1 ano - Off white,Beabá,844259717
+2024-04-20,338.87,0,Samira Corrêa,CJPCFM206AZ6,Conjunto Jeans Neon Vibes Petit Cherie - 6 anos - Azul jeans,Petit Cherie,844264647
+2024-04-20,192.0,0,Paula Dalmaso,CJANFM145ARS14,Conjunto Blusa e shorts rosa babaloo Animê 3452 - 14 anos - Rosa,Animê,844265527
+2024-04-20,572.26,0,Renata Gomes Pereira Arataque,VEPCFM170XVD-3,Vestido Poly Mesh Petit Cherie - Verde - 3 anos,Petit Cherie,844266836
+2024-04-20,572.26,0,Renata Gomes Pereira Arataque,,Laços e tiaras Gracia  - Laço P,,844266836
+2024-04-20,572.26,0,Renata Gomes Pereira Arataque,SPGRFM93Z-1,Sapato Laura Gracia - 22 - Off white,Gracia,844266836
+2024-04-20,129.19,0,Girlene Ferreira da Silva,CMDAMC72XOW6,Camiseta Urso Sketch Dame - 6 anos - Off white,Dame,844270536
+2024-04-21,421.23,0,Aline Aquino,VEPCFM190CL-1,Vestido Colorful Ties Petit Cherie - 1 ano - Colorido,Petit Cherie,844358574
+2024-04-22,0.0,0,Sophia Gabrielly ,,Sem descrição,,844450909
+2024-04-22,231.89,0,Priscilla Filgueira,VEPCFM150VR-4,Vestido Laços Celebration Petit Cherie - 12  anos - Vermelho,Petit Cherie,844460188
+2024-04-22,231.0,0,Amanda Cristina Da Silva ,VELCFM170BR6,Vestido Isabel Little Closet  - 6 anos - Branco,,844472748
+2024-04-22,0.0,0,Talita,,Sem descrição,,844552114
+2024-04-23,3502.2,0,Janeth Vaz Oliveira,VEPSFM190PR4,Vestido Pied de Poule  Pituchinhus - 4 anos - Preto,Pituchinhus,844639519
+2024-04-23,3502.2,0,Janeth Vaz Oliveira,VEPSFM190RS4,Vestido Tricot Mangas Pele Pituchinhus - 4 anos - Rosa baby,Pituchinhus,844639519
+2024-04-23,3502.2,0,Janeth Vaz Oliveira,BLPSFM120XPR4,Blusa com Gola Cristais Pituchinhus - 4 anos - Preto,Pituchinhus,844639519
+2024-04-23,3502.2,0,Janeth Vaz Oliveira,BLPSFM110PR4,Blusa Bordada Pérola e Cristal Pituchinhus - 4 anos - Preto,Pituchinhus,844639519
+2024-04-23,3502.2,0,Janeth Vaz Oliveira,VEPSFM220PR4,Vestido Saia Babados de Tule Pituchinhus - 4 anos - Preto,Pituchinhus,844639519
+2024-04-23,3502.2,0,Janeth Vaz Oliveira,CAPSFM150RS4,Camisa Gola Laço Cristais Pituchinhus - 4 anos - Rosa fada,Pituchinhus,844639519
+2024-04-23,3502.2,0,Janeth Vaz Oliveira,VEPSFM220RS4,Vestido Multi Laços Pituchinhus - 4 anos - Rosa fada,Pituchinhus,844639519
+2024-04-23,3502.2,0,Janeth Vaz Oliveira,SAPSFM130RS4,Saia-Shorts Pregas Pituchinhus - 4 anos - Rosa fada,Pituchinhus,844639519
+2024-04-23,3502.2,0,Janeth Vaz Oliveira,VEPSFM150PR4,Vestido Tweed Bolsos Pituchinhus - 4 anos - Preto,Pituchinhus,844639519
+2024-04-23,3502.2,0,Janeth Vaz Oliveira,CAPSFM140BR4,Camisa Botão-Jóia Coração Pituchinhus - 4 anos - Branco,Pituchinhus,844639519
+2024-04-23,123.49,0,Latifa Buzzo,VECHFM57X-11,Vestido Piquet Basics Charpey - 14 anos - Vermelho,Charpey,844644123
+2024-04-23,357.99,0,Janeth Vaz Oliveira,VEPCFM160ZRS-4,Vestido Baby Pink Petit Cherie - 4 anos - Rosa,Petit Cherie,844663742
+2024-04-23,266.98,0,Regina Santana,CSBEFM90OW3,Casaco de Tricot com Babado Beabá - 3 anos - Off white,Beabá,844668112
+2024-04-23,266.98,0,Regina Santana,SHMOFM27OW2,Shorts básico Momi - 2 anos - Pérola,Momi,844668112
+2024-04-23,615.38,0,Barbara Ellen Toledo Gouveia,VEPCFM170XRS-5,Vestido Winter Princess Petit Cherie - 6 anos - Rosa,Petit Cherie,844674064
+2024-04-23,615.38,0,Barbara Ellen Toledo Gouveia,CJUMFM149ES6,Conjunto bata e saia-short em tricoline Um Mais Um - 6 anos - Multicolorido,Um Mais Um,844674064
+2024-04-23,0.0,0,Mayrane Ribeiro,,Sem descrição,,844683515
+2024-04-23,839.98,0,Jana Brito,SHPRFM180PR18,Shorts-saia Bordados & Cristais Perfumaria - 18 anos - Preto,Perfumaria,844691932
+2024-04-23,839.98,0,Jana Brito,CQPRFM202PR18,Casaqueto Bordados & Cristais Perfumaria - 18 anos - Preto,Perfumaria,844691932
+2024-04-23,416.41,0,Brenda Gontijo Pugliesi,VEPSFM186PR12,Vestido Tricot Botões Jóia Coração Pituchinhus - 12 anos - Preto,Pituchinhus,844692137
+2024-04-23,1236.23,0,Rafaela Guidi,CJPCFM170PR-5,Conjunto Lovely Buttetfly Petit Cherie - 14 anos - Preto,Petit Cherie,844703438
+2024-04-23,1236.23,0,Rafaela Guidi,CSPCFM990-9,Casaco Peles Petit Cherie - 14 anos - Off white,Petit Cherie,844703438
+2024-04-23,1236.23,0,Rafaela Guidi,JQMOFM145MM12,Jaqueta Bomber Tigre Momi - 12 anos - Toffee,Momi,844703438
+2024-04-23,1236.23,0,Rafaela Guidi,CLPRFM210AR16,Calça Cargo Stopper Perfumaria - 16 anos - Areia,Perfumaria,844703438
+2024-04-24,921.99,0,Maria Kalcilene de Oliveira Silva,BLPSFM83RS6,Blusa Cachorrinhos & Pérolas Pituchinhus - 6 anos - Rosa baby,Pituchinhus,844788432
+2024-04-24,921.99,0,Maria Kalcilene de Oliveira Silva,BLANFM73ZOW6,Blusa Gola Essentials Animê - 6 anos - Pérola,Animê,844788432
+2024-04-24,921.99,0,Maria Kalcilene de Oliveira Silva,SPTJMC133PR-7,Tênis Step Tip Toey Joey - N. 24 - Preto,Tip Toey Joey,844788432
+2024-04-24,921.99,0,Maria Kalcilene de Oliveira Silva,CJCHMC72VD-3,Conjunto camiseta e bermuda moletom sem felpa Charpey - 3 anos - Verde,Charpey,844788432
+2024-04-24,921.99,0,Maria Kalcilene de Oliveira Silva,CMCHMC24PR-3,Tshirt basics Charpey - 3 anos - Preto,Charpey,844788432
+2024-04-24,921.99,0,Maria Kalcilene de Oliveira Silva,BLANFM73AOW6,Blusa Minnie Animê - 6 anos - Pérola,Animê,844788432
+2024-04-24,921.99,0,Maria Kalcilene de Oliveira Silva,SHANFM110JS4,Shorts-saia jeans Animê - 4 anos - Jeans,Animê,844788432
+2024-04-24,242.6,0,Maria Rita,BLMOFM48RS4,Blusa Canelada Basics Momi - 4 anos - Rosa claro,Momi,844824843
+2024-04-24,242.6,0,Maria Rita,,Laços e tiaras Gracia  - Tiara,,844824843
+2024-04-24,242.6,0,Maria Rita,BLPSFM75RS4,Regata Cristais Pituchinhus - 4 anos - Rosa claro,Pituchinhus,844824843
+2024-04-24,123.49,0,Janille Adrielli Rodriguês dos Santos ,VECHFM48X-8,Vestido Piquet Basics Charpey - 8 anos - Lilás,Charpey,844840272
+2024-04-24,1876.75,0,Vanessa Lopes,BEDAMC94MR2,Bermuda cargo Dame Dos - 2 anos - Marinho,Dame,844863657
+2024-04-24,1876.75,0,Vanessa Lopes,CABEMC80BR1,Camisa Essentials Beabá - 1 ano - Branco,Beabá,844863657
+2024-04-24,1876.75,0,Vanessa Lopes,BEBEMC60CZ1,Bermuda tradicional com bolso faca Beabá - 1 ano - Cinza claro,Beabá,844863657
+2024-04-24,1876.75,0,Vanessa Lopes,CJCHMC113BR-1,Conjunto camiseta suedine e bermuda tricoline Charpey - Branco - 1 ano,Charpey,844863657
+2024-04-24,1876.75,0,Vanessa Lopes,TNDAMC180BG21,Tênis Knit Dame - N. 21 - Bege,Dame,844863657
+2024-04-24,1876.75,0,Vanessa Lopes,TNDAMC180MR21,Tênis Knit Dame - N. 21 - Marinho,Dame,844863657
+2024-04-24,1876.75,0,Vanessa Lopes,CLDAMC126BG1,Calça de sarja skinny Dame - 1 ano - Bege,Dame,844863657
+2024-04-24,1876.75,0,Vanessa Lopes,BEDAMC88PR1,Bermuda Moletom Classic Dame - 1 ano - Preto,Dame,844863657
+2024-04-24,418.99,0,Nathalia Lopes,VEANFM170PR2,Vestido Manike Animê - 2 anos - Preto,Animê,844877716
+2024-04-24,418.99,0,Nathalia Lopes,,Laços e tiaras Gracia  - Laço G,,844877716
+2024-04-24,92.99,0,Ana Paula Pereira,BLMOFM48PK8,Blusa manga bufante com babado Momi J5164 - 8 - Pink,Momi,844902905
+2024-04-25,396.45,0,Nayarah Vaz,BLIAFM90OW14,Top Laço I Am - 14 anos - Off white,I Am,844995411
+2024-04-25,396.45,0,Nayarah Vaz,SIIAFM87OW14,Shorts-saia Laço I Am - 14 anos - Off white,I Am,844995411
+2024-04-25,323.57,0,Bruna Lopes SITE,CJMOFM115VD4,Conjunto Legging Ursos  Momi - 4 anos - Verde militar,Momi,845013769
+2024-04-25,323.57,0,Bruna Lopes SITE,BLMOFM72PR4,Blusa Gola Patch Coração Momi - 4 anos - Preto,Momi,845013769
+2024-04-25,269.98,0,Cecilia Morais,BEBEMC60AZ1,Bermuda Oxford Beabá - 1 ano - Azul claro,Beabá,845037719
+2024-04-25,269.98,0,Cecilia Morais,CMBEMC35OW1,Camiseta Basics Beabá - 1 ano - Off white,Beabá,845037719
+2024-04-25,269.98,0,Cecilia Morais,,Laços e tiaras Gracia  - Laço P,,845037719
+2024-04-25,776.7,0,Flávia G. Coelho Torres,VEBEFM79MR1,Vestido Quadriculado & Gola Beabá - 1 ano - Marinho,Beabá,845038230
+2024-04-25,776.7,0,Flávia G. Coelho Torres,CLUMMC100JS1,Calça Jeans Leve com Elastano 1+1 - 1 ano - Stone,Um Mais Um,845038230
+2024-04-25,776.7,0,Flávia G. Coelho Torres,CSYCMC100MR1,Casaco Capitão YCC Youccie - 1 ano - Azul marinho,Youccie,845038230
+2024-04-25,776.7,0,Flávia G. Coelho Torres,MCGRMC85-5,Mocassim Nino - 24 - Marinho,Gracia,845038230
+2024-04-25,463.5,0,Ariely Sessi,VEUMFM290VR10,Vestido em paetês Celebration - 10 anos - Vermelho,Um Mais Um,845053077
+2024-04-25,175.99,0,Erica Silva,SPGRFM97Y-2,Sapato Helena - 23 - Ouro velho,Gracia,845054467
+2024-04-26,0.0,0,Sofia Ferro,,Sem descrição,,845090760
+2024-04-26,197.89,0,Janeth Vaz Oliveira,CJMOFM100OW4,Pijama Looney Tunes Momi - 4 - Perola,Momi,845099041
+2024-04-26,155.79,0,Lara Lowhynne Bispo de Souza,BLANFM73AOW10,Blusa Minnie Animê - 10 anos - Pérola,Animê,845104186
+2024-04-26,3035.65,0,Nayarah Vaz,BLPSFM89OW6,Blusa Cachorrinhos & Cristais Pituchinhus - 6 anos - Off white,Pituchinhus,845110302
+2024-04-26,3035.65,0,Nayarah Vaz,CSCFUN55LR4,Camisola Orange Conforteca - 4 - Laranja,Conforteca,845110302
+2024-04-26,3035.65,0,Nayarah Vaz,PJCFUN64XOW4,Pijama Basique MC Conforteca - 4,Conforteca,845110302
+2024-04-26,3035.65,0,Nayarah Vaz,CAPSFM150RS6,Camisa Gola Laço Cristais Pituchinhus - 6 anos - Rosa fada,Pituchinhus,845110302
+2024-04-26,3035.65,0,Nayarah Vaz,SAPSFM130RS6,Saia-Shorts Pregas Pituchinhus - 6 anos - Rosa fada,Pituchinhus,845110302
+2024-04-26,3035.65,0,Nayarah Vaz,BLPSFM120PR6,Blusa ML e Gola com Strass Pituchinhus - 6 anos - Preto,Pituchinhus,845110302
+2024-04-26,3035.65,0,Nayarah Vaz,SAPSFM130PR6,Saia-short frufru de tule bordada Pituchinhus - 6 anos - Preto,Pituchinhus,845110302
+2024-04-26,3035.65,0,Nayarah Vaz,VEPSFM213PR6,Vestido Poá & Cachorrinhos Pituchinhus - 6 anos - Poás e cachorros,Pituchinhus,845110302
+2024-04-26,3035.65,0,Nayarah Vaz,SPGRFM97-14,Sapato Maria  - 28 - Azul lagoon,Gracia,845110302
+2024-04-26,3035.65,0,Nayarah Vaz,SPTJFM119ABG27,Sapatilha Marie Tip Toey Joey - 27 - Bege,Tip Toey Joey,845110302
+2024-04-26,3035.65,0,Nayarah Vaz,VEPSFM220RS6,Vestido Multi Laços Pituchinhus - 6 anos - Rosa fada,Pituchinhus,845110302
+2024-04-26,3009.98,0,Nayarah Vaz,BLPRFM80PR16,Blusa Regata Cristais Perfumaria - 16 anos - Preto,Perfumaria,845111705
+2024-04-26,3009.98,0,Nayarah Vaz,BLMOFM72PR14,Blusa Gola Patch Coração Momi - 14 anos - Preto,Momi,845111705
+2024-04-26,3009.98,0,Nayarah Vaz,CMIAFM76OW14,Tshirt Bolso I Am - 14 anos - Pérola,I Am,845111705
+2024-04-26,3009.98,0,Nayarah Vaz,CMIAFM78OW14,Tshirt New York I Am - 14 anos - Pérola,I Am,845111705
+2024-04-26,3009.98,0,Nayarah Vaz,SAIAFM130PR14,Saia Midi Tule I Am - 14 anos - Preto,,845111705
+2024-04-26,3009.98,0,Nayarah Vaz,CLPRFM210AR18,Calça Cargo Stopper Perfumaria - 18 anos - Areia,Perfumaria,845111705
+2024-04-26,3009.98,0,Nayarah Vaz,SAPRFM160BG16,Saia-shorts Pregas Perfumaria - 16 anos - Bege escuro,Perfumaria,845111705
+2024-04-26,3009.98,0,Nayarah Vaz,VETWFM170PR14,Vestido Balonê  Metalizado Two In - 14 anos - Prata,Two In,845111705
+2024-04-26,3009.98,0,Nayarah Vaz,BLPRFM101RS18,Regata PRFMR Perfumaria - 18 anos - Ice Cream,Perfumaria,845111705
+2024-04-26,3009.98,0,Nayarah Vaz,CTIAFM100RX14,Colete de tecido alfaiataria I Am - 14 anos - Roxo uva,I Am,845111705
+2024-04-26,3009.98,0,Nayarah Vaz,SIIAFM87RX14,Saia de tecido com pregas I Am - 14 anos - Roxo uva,I Am,845111705
+2024-04-26,3009.98,0,Nayarah Vaz,SPPTFM106PT-3,Sandália Ciranda Petit Cheval - N. 35 - Prata,Petit Cheval,845111705
+2024-04-26,379.83,0,Tatyane Cassimiro,VEPCFM170XVD-5,Vestido Poly Mesh Petit Cherie - Verde - 6 anos,Petit Cherie,845115009
+2024-04-26,606.28,0,Mayrane Ribeiro,CJANFM170CL8,Conjunto Turminha da Disney Animê - 8 anos - Estampado,Animê,845116956
+2024-04-26,606.28,0,Mayrane Ribeiro,SHANFM137JS8,Shorts Jeans Mickey e Minnie Animê - 8 anos - Jeans,Animê,845116956
+2024-04-26,606.28,0,Mayrane Ribeiro,BLANFM73AOW8,Blusa Minnie Animê - 8 anos - Pérola,Animê,845116956
+2024-04-26,163.2,0,Luiza Helena Pontes Costa,CMCHMC38-21,Tshirt basics Charpey  - 14 anos - Vermelho,Charpey,845123208
+2024-04-26,163.2,0,Luiza Helena Pontes Costa,CMCHMC38-16,Tshirt Basics Charpey - 12 anos - Amarelo,Charpey,845123208
+2024-04-26,135.99,0,Jussara Xavier,CMDAMC72XOW4,Camiseta Urso Sketch Dame - 4 anos - Off white,Dame,845129654
+2024-04-26,1415.5,0,Bruna Bonifácio,CLMOFM134JS16,Calça Jeans Pantalona Strass Momi - 16 anos - Jeans,Momi,845148156
+2024-04-26,1415.5,0,Bruna Bonifácio,BLMOFM48OW14,Blusa Canelada Basics Momi - 14 anos - Off white,Momi,845148156
+2024-04-26,1415.5,0,Bruna Bonifácio,SHUMFM115MR14,Shorts-saia couro 1+1 - 14 anos - Marinho,Um Mais Um,845148156
+2024-04-26,1415.5,0,Bruna Bonifácio,SHIAFM100PR14,Shorts-saia envelope I Am - 14 anos - Xadrez,I Am,845148156
+2024-04-26,1415.5,0,Bruna Bonifácio,CAUMFM100BR14,Camisa em tricoline com babados 1+1 - 14 anos - Branco,Um Mais Um,845148156
+2024-04-26,1415.5,0,Bruna Bonifácio,CJANFM137OW4,Conjunto Lapelas Animê - 4 anos - Pérola,Animê,845148156
+2024-04-26,1244.55,0,Sofia Ferro,SHBEFM57AL4,Shorts com Recorte e Faixa Beabá - 4 anos - Amarelo claro,Beabá,845163014
+2024-04-26,1244.55,0,Sofia Ferro,SAANFM119RS4,Saia de tule Classics Animê - 4 anos - Rosa,Animê,845163014
+2024-04-26,1244.55,0,Sofia Ferro,BLANFM80XOW4,Blusa Sininho & Peter Pan Animê - 4 anos - Pérola,Animê,845163014
+2024-04-26,1244.55,0,Sofia Ferro,BLFMBE55OW6,Blusa com Gola Sobreposta Beabá - 6 anos - Off white,Beabá,845163014
+2024-04-26,1244.55,0,Sofia Ferro,BTPTFM106CB-4,Bota Galáxia Petit Cheval - N. 25 - Cobre,Petit Cheval,845163014
+2024-04-26,1244.55,0,Sofia Ferro,,Laços e tiaras Gracia  - Laço P,,845163014
+2024-04-26,1244.55,0,Sofia Ferro,,Laços e tiaras Gracia  - Laço M,,845163014
+2024-04-26,1244.55,0,Sofia Ferro,VEBEFM98RS3,Vestido Estampado Beabá com Detalhe no Ombro - 3 anos - Rosa claro,Beabá,845163014
+2024-04-26,372.39,0,Patricia da Conceição S Santos,SHANFM137JS2,Shorts Jeans Mickey e Minnie Animê - 2 anos - Jeans,Animê,845183844
+2024-04-26,372.39,0,Patricia da Conceição S Santos,CLANFM119JS2,Colete Jeans Mickey e Minnie Animê - 2 anos - Jeans,Animê,845183844
+2024-04-26,541.76,0,Luma Isabela Coelho Rodrigues,JQANFM178OW16,Jaqueta Fake Leather Animê - 16 anos - Bege,Animê,845188155
+2024-04-26,541.76,0,Luma Isabela Coelho Rodrigues,SAANFM100OW16,Saia Fake Leather Animê - 16 anos - Bege,Animê,845188155
+2024-04-26,1038.5,0,Priscila Bontempo,VEPCFM120RS-3,Vestido Romantic Petit Cherie - 3 anos - Rosa,Petit Cherie,845195912
+2024-04-26,1038.5,0,Priscila Bontempo,BLFMBE55OW1,Blusa com Gola Sobreposta Beabá - 1 ano - Off white,Beabá,845195912
+2024-04-26,1038.5,0,Priscila Bontempo,SHBEFM57AL1,Shorts com Recorte e Faixa Beabá - 1 ano - Amarelo claro,Beabá,845195912
+2024-04-26,1038.5,0,Priscila Bontempo,VEBEFM98RS6,Vestido Estampado Beabá com Detalhe no Ombro - 6 anos - Rosa claro,Beabá,845195912
+2024-04-26,1038.5,0,Priscila Bontempo,VEPSFM264RS2,Vestido de tule com cristais Pituchinhus - 2 anos - Rosa claro,Pituchinhus,845195912
+2024-04-27,143.99,0,Rebeca Tavares,JDFMAN110OW6,Salopete Animê - 6 anos - Off white,Animê,845226829
+2024-04-27,731.47,0,Rejane da Silva Vieira,CLPSFM149ES12,Calça wideleg com laços Pituchinhus - 12 anos - Floral listra,Pituchinhus,845228046
+2024-04-27,731.47,0,Rejane da Silva Vieira,CAPSFM149-4,Camisa cropped floral Pituchinhus - 12 anos - Floral listra,Pituchinhus,845228046
+2024-04-27,731.47,0,Rejane da Silva Vieira,CJANFM187OW12,Conjunto Classics Animê - 12 anos - Pérola,Animê,845228046
+2024-04-27,699.92,0,Gleice Santos,VEPCFM170ES-2,Vestido Le Jardin Petit Cherie - 8 anos - Estampado,Petit Cherie,845232631
+2024-04-27,699.92,0,Gleice Santos,VEPCFM170ZRS-3,Vestido Winter Classics Petit Cherie - 10 anos - Rosa,Petit Cherie,845232631
+2024-04-27,281.06,0,Poliana Batista,VECHFM84-9,Vestido Suedine Charpey  - 6 anos - Verde,Charpey,845236742
+2024-04-27,281.06,0,Poliana Batista,CJKGMC70XMR8,Conjunto t-shirt e shorts nylon Ocean Sounds King & Joe Play - 8 anos - Marinho,King & Joe Play,845236742
+2024-04-27,1225.67,0,Alissandra,VEANFM240VD14,Vestido com Gola Animê - 14 anos - Verde cargo,Animê,845238227
+2024-04-27,1225.67,0,Alissandra,BLTWFM90PR14,Tshirt Cropped Strass Two In - 14 anos - Preto,Two In,845238227
+2024-04-27,1225.67,0,Alissandra,SATWFM110PR14,Saia-Shorts Sarja Strass Two In - 14 anos - Preto,Two In,845238227
+2024-04-27,1225.67,0,Alissandra,VEPCFM110ES-6,Vestido Tule & Monograma Petit Cherie - 16 anos - Estampado,Petit Cherie,845238227
+2024-04-27,502.0,0,Daniela Silva Dutra,SDPTFM106DR-15,Sandália Ciranda Petit Cheval - N. 34 - Dourado,Petit Cheval,845256924
+2024-04-27,502.0,0,Daniela Silva Dutra,VEPCFM129ES14,Vestido Fashion Bear Petit Cherie - 14 anos - Estampado,Petit Cherie,845256924
+2024-04-27,77.8,0,Roberta ,CMYCMC35DV-6,Camiseta Essentials Youccie  - 4 anos - Cinza escuro,Youccie,845268494
+2024-04-28,267.98,0,Christianne Monteiro,SHFMMO80OW8,Shorts de sarja com placa de strass Momi - 8 - Off white,Momi,845317468
+2024-04-28,267.98,0,Christianne Monteiro,SDGRFM85-11,Sandália Ester Gracia HA1276  - 32 - Branca,Gracia,845317468
+2024-04-29,99.8,0,Mariana de Matos Loiola ,BLMOFM50XOW6,Blusa Bufante Ursas Momi - 6 anos - Pérola,Momi,845457509
+2024-04-29,727.96,0,Daniela Lopes Moreno,CMDAMC86MR6,Camiseta Urso Ski Dame - 6 anos - Marinho,Dame,845495670
+2024-04-29,727.96,0,Daniela Lopes Moreno,CMDAMC90BG6,Camiseta Urso Kombi Dame - 6 anos - Bege,Dame,845495670
+2024-04-29,727.96,0,Daniela Lopes Moreno,BEDAMC88MR8,Bermuda Moletom Classic Dame - 8 anos - Marinho,Dame,845495670
+2024-04-29,727.96,0,Daniela Lopes Moreno,BEDAMC88BG8,Bermuda Moletom Classic Dame - 8 anos - Bege,Dame,845495670
+2024-04-29,183.39,0,Renata Brasil Rangel ,SHBEFM60RS6,Shorts Tweed e Lurex Beabá - 6 anos - Rosa claro,Beabá,845508736
+2024-04-29,183.39,0,Renata Brasil Rangel ,SHBEFM57AL6,Shorts com Recorte e Faixa Beabá - 6 anos - Amarelo claro,Beabá,845508736
+2024-04-29,824.08,0,Hillary Vaz,CJMOFM150MM4,Conjunto Moletom Winter's Vibe Toffee Momi - 4 anos - Toffee,Momi,845513289
+2024-04-29,824.08,0,Hillary Vaz,CLDAMC104MR6,Calça Moletom Jogger Dame - 6 anos - Marinho,Dame,845513289
+2024-04-29,824.08,0,Hillary Vaz,VEPSFM239RS4,Vestido Cenário Jardim Cristal Pituchinhus - 4 anos - Fundo rosa,Pituchinhus,845513289
+2024-04-29,254.99,0,Tatiana Kopeinig,CAIAFM100OW18,Camisa Blá Blá I Am - 18 anos - Off white,I Am,845537861
+2024-04-30,333.7,0,Jane Aparecida Freitas Rodrigues,VEPCFM120RS-4,Vestido Romantic Petit Cherie - 4 anos - Rosa,Petit Cherie,845610178
+2024-04-30,123.49,0,Luana Nazare,VECHFM57X-10,Vestido Piquet Basics Charpey - 12 anos - Vermelho,Charpey,845625610
+2024-04-30,747.34,0,Emanuelly de Oliveira Viscard,CJUMMC170MR10,Conjunto bata marinho e bermuda social - 10 anos - Marinho,Um Mais Um,845632769
+2024-04-30,747.34,0,Emanuelly de Oliveira Viscard,CJUMMC129YCQ10,Conjunto tshirt 100% algodão e bermuda de sarja Um Mais Um - 10 anos - Caqui,Um Mais Um,845632769
+2024-04-30,747.34,0,Emanuelly de Oliveira Viscard,VEFMAN182BG8,Vestido em tule com corações bordados Animê - 8 anos - Bege,Animê,845632769
+2024-04-30,114.0,0,Angela ,SUUMMC55MR6,Sunga box com proteção UV Um Mais Um - 6 anos - Marinho,Um Mais Um,845638561
+2024-04-30,81.9,0,Denise Helena de Melo Nogueira Borges,CMYCMC35DV-5,Camiseta Essentials Youccie  - 4 anos - Preto,Youccie,845645589
+2024-04-30,253.46,0,Jessica Vieira ,SPPTFM81CB-2,Sapato Tabuleiro Petit Cheval - N. 23 - Cobre,Petit Cheval,845647143
+2024-04-30,396.18,0,Stefani Francisco,BLANFM73KOW8,Blusa Essentials Bufante Animê - 8 anos - Pérola,Animê,845682012
+2024-04-30,396.18,0,Stefani Francisco,SHANFM110JS8,Shorts-saia jeans Animê - 8 anos - Jeans,Animê,845682012
+2024-04-30,108.99,0,Paula Guimarães Pena,TNGRMC85-1,Tênis New Way - 22 - Marinho,Gracia,845705062
+2024-04-30,437.98,0,Sthefanie Frare,CJMOFM90BOW4,Conjunto Shorts Cerejas Azuis Momi - 4 anos - Pérola,Momi,845723535
+2024-04-30,437.98,0,Sthefanie Frare,JQMOFM100AZ4,Jaqueta Corta-Vento Cerejas Azuis Momi - 4 anos - Poá cereja,,845723535
+2024-05-01,289.2,0,Clarice Porto,BTPTFM120CB-6,Bota Galáxia Petit Cheval - N. 31 - Cobre,Petit Cheval,845767747
+2024-05-01,0.0,0,Cecília Saad,,Sem descrição,,845794557
+2024-05-01,164.0,0,Victoria Mendes,VEPCFM149AVR3,Vestido Red Celebration Petit Cherie - 3 anos - Vermelho,Petit Cherie,845796129
+2024-05-01,265.0,0,Alitane,VEPCFM222ES12,Vestido Botanical Verão 2024 Petit Cherie - 12 anos - Estampado,Petit Cherie,845796211
+2024-05-01,232.9,0,Maryele Machado Campos,CJUMFM120XRS3,Conjunto Pink Flower 1+1 - 3 anos - Pink,Um Mais Um,845796676
+2024-05-02,358.0,0,Jane Aparecida Freitas Rodrigues,VEPCFM160RS-5,Vestido Poly Mesh Petit Cherie - 6 anos - Rosa,Petit Cherie,845894906
+2024-05-02,854.97,0,Lucyana Damaso,BLDAMC176JS2,Blusa Jacq Bear Dame - 2 anos - Denim,Dame,845939942
+2024-05-02,854.97,0,Lucyana Damaso,BLDAMC176JS6,Blusa Jacq Bear Dame - 6 anos - Denim,Dame,845939942
+2024-05-02,854.97,0,Lucyana Damaso,BEDAMC73BG2,Bermuda listrada giron Dame - 2 anos - Bege,Dame,845939942
+2024-05-02,1357.29,0,Amanda Caroline Freitas,SPTJFM119RS28,Sapatilha Misty Tip Toey Joey - 28 - Rosé,Tip Toey Joey,845943775
+2024-05-02,1357.29,0,Amanda Caroline Freitas,BSUMFM128VD-1,Minimochila Cool 1+1 - Verde limão,Um Mais Um,845943775
+2024-05-02,1357.29,0,Amanda Caroline Freitas,CJMOFM120OW6,Conjunto Pink Hearts Momi - 6 anos - Pérola,Momi,845943775
+2024-05-02,1357.29,0,Amanda Caroline Freitas,SDTJMC111BR28,Sandália Criss Cross Tip Toey Joey - 28 - Branca,Tip Toey Joey,845943775
+2024-05-02,1357.29,0,Amanda Caroline Freitas,SPTJFM132DR-11,Tênis Funky Tip Toey Joey - N. 28 - Dourado,Tip Toey Joey,845943775
+2024-05-02,849.66,0,Yanna Marta Araujo Marques,JQMOFM130JS6,Jaqueta Jeans Strass Momi - 6 anos - Jeans,Momi,845953640
+2024-05-02,849.66,0,Yanna Marta Araujo Marques,VEMOFM90XVD3,Vestido Ursos & Corações Momi - 3 anos - Verde,Momi,845953640
+2024-05-02,849.66,0,Yanna Marta Araujo Marques,CJMOFM120PR3,Conjunto Animal Print Momi - 3 anos - Preto,Momi,845953640
+2024-05-02,849.66,0,Yanna Marta Araujo Marques,CJKGMC150AZ10,Conjunto bermuda de sarja e camisa King & Joe Play - 10 anos - Azul,King & Joe Play,845953640
+2024-05-02,693.98,0,Suzy Lidiane ,VEPCFM130ES-5,Vestido Set True Love Petit Cherie - 6 anos - Off white,Petit Cherie,845992474
+2024-05-02,693.98,0,Suzy Lidiane ,TNDAMC180BG32,Tênis Knit Dame - N. 32 - Bege,Dame,845992474
+2024-05-02,265.98,0,Lorena Praxedes,CMDAMC71XOW2,Camiseta Urso Limonada Dame - 2 anos - Off white,Dame,845997147
+2024-05-02,265.98,0,Lorena Praxedes,SHBEFM60RS1,Shorts Tweed e Lurex Beabá - 1 ano - Rosa claro,Beabá,845997147
+2024-05-02,272.2,0,Cecilia Seabra,CMDAMC73WVR6,Camiseta abaulada Dame Dos - 6 anos - Vermelha,Dame,845997864
+2024-05-02,272.2,0,Cecilia Seabra,SPGRMC90-13,Mocassim Max - 28 - Café,Gracia,845997864
+2024-05-02,373.98,0,Gerantine Carvalho,VECHFM84-12,Vestido Suedine Charpey - 8 anos - Pink,Charpey,846015680
+2024-05-02,373.98,0,Gerantine Carvalho,VECHFM84-8,Vestido Suedine Charpey - 4 anos - Pink,Charpey,846015680
+2024-05-02,2347.25,0,Beatriz Mendanha Ribeiro Valadares,BEUMMCMR794,Bermuda de moletinho Kids Um Mais Um - 4 anos - Marinho,Um Mais Um,846025003
+2024-05-02,2347.25,0,Beatriz Mendanha Ribeiro Valadares,CSPSFM156RS10,Casaqueto de moletom com babadinhos e botões jóia Pituchinhus - 10 anos - Rosa claro,Pituchinhus,846025003
+2024-05-02,2347.25,0,Beatriz Mendanha Ribeiro Valadares,CJUMMC100MS4,Conjunto camiseta e bermuda   1+1 - 4 anos - Mescla claro,Um Mais Um,846025003
+2024-05-02,2347.25,0,Beatriz Mendanha Ribeiro Valadares,CLBEMC60PR3,Calça Moletom Cadarço Beabá - 3 anos - Preto,Beabá,846025003
+2024-05-02,2347.25,0,Beatriz Mendanha Ribeiro Valadares,SAPSFM120XRS10,Saia-Shorts Frufru Tule Pituchinhus - 10 anos - Rosa baby,Pituchinhus,846025003
+2024-05-02,2347.25,0,Beatriz Mendanha Ribeiro Valadares,CJANFM127BOW8,Conjunto blusa e short com strass Animê - 8,Animê,846025003
+2024-05-02,2347.25,0,Beatriz Mendanha Ribeiro Valadares,JQANFM146AZ8,Casaco Sobreposição Lapelas Animê - 8 anos - Azul,Animê,846025003
+2024-05-02,2347.25,0,Beatriz Mendanha Ribeiro Valadares,CJANFM137OW8,Conjunto Lapelas Animê - 8 anos - Pérola,Animê,846025003
+2024-05-02,2347.25,0,Beatriz Mendanha Ribeiro Valadares,CJMOFM100BG8,Conjunto Blusa e Saia Ursos & Flores Momi - 8 anos - Bege,Momi,846025003
+2024-05-02,2347.25,0,Beatriz Mendanha Ribeiro Valadares,CMDAMC86AZ2,Camiseta Urso Ski Dame - 2 anos - Azul bebê,Dame,846025003
+2024-05-02,2347.25,0,Beatriz Mendanha Ribeiro Valadares,BEKGMC90BG4,Bermuda Listrada King & Joe Play - 4 anos - Natural,King & Joe Play,846025003
+2024-05-02,329.92,0,Nathália Cruvinel,CCLPFM16-6,Calcinha longa com renda Lele Pipa - 3 anos - Marinho,,846030140
+2024-05-02,329.92,0,Nathália Cruvinel,CCLPFM14-6,Calcinha tradicional Lele Pipa - 3 anos - Branco,,846030140
+2024-05-02,329.92,0,Nathália Cruvinel,PJCFUN82VD4,Pijama Moletinho Floresta Green Conforteca - 4,Conforteca,846030140
+2024-05-02,329.92,0,Nathália Cruvinel,PJCFUN64LR4,Pijama Sono Bom Poá Conforteca - 4,Conforteca,846030140
+2024-05-02,329.92,0,Nathália Cruvinel,CSCFUN55LR4,Camisola Orange Conforteca - 4 - Laranja,Conforteca,846030140
+2024-05-02,177.86,0,Lenora Nery,BSPSFM80BG,Bolsa Ursinha Pituchinhus,Pituchinhus,846031169
+2024-05-02,818.29,0,Renata Brasil Rangel ,VEPCFM140PR-5,Vestido Classic P&B Petit Cherie - 6 anos,Petit Cherie,846031755
+2024-05-02,818.29,0,Renata Brasil Rangel ,VEPCFM260AZ-1,Vestido Blue Light Petit Cherie - 6 anos - Azul,Petit Cherie,846031755
+2024-05-02,1557.0,0,Danyelle Costa,VEPCFM110ES-4,Vestido Tule & Monograma Petit Cherie - 12 anos - Estampado,Petit Cherie,846033365
+2024-05-02,1557.0,0,Danyelle Costa,CSCFUN55LR12,Camisola Orange Conforteca - 12 - Laranja,Conforteca,846033365
+2024-05-02,1557.0,0,Danyelle Costa,VETWFM240PR14,Vestido Sweet Teen Two In - 14 anos - Preto,Two In,846033365
+2024-05-02,1557.0,0,Danyelle Costa,VEPSFM186PR10,Vestido Tricot Botões Jóia Coração Pituchinhus - 10 anos - Preto,Pituchinhus,846033365
+2024-05-02,1557.0,0,Danyelle Costa,SIMOFM80VD8,Saia Veludo Cotelê Pregas Momi - 8 anos - Verde cargo,Momi,846033365
+2024-05-02,1557.0,0,Danyelle Costa,BLMOFM50OW8,Blusa Ursas Momi - 8 anos - Pérola,Momi,846033365
+2024-05-02,1557.0,0,Danyelle Costa,JQMOFM120VD8,Jaqueta Bomber Veludo Cotelê Momi - 8 anos - Verde cargo,Momi,846033365
+2024-05-03,0.0,0,Rafaella Gurgel,,Sem descrição,,846150620
+2024-05-03,797.06,0,Ana Fávia Martins,VEANFM137RS12,Vestido Maxi Pied de Poule Animê - 12 anos - Rosa,Animê,846155477
+2024-05-03,797.06,0,Ana Fávia Martins,CMCHMC37BG-1,Camiseta MC Malha Wafel Charpey - 4 anos - Bege,Charpey,846155477
+2024-05-03,797.06,0,Ana Fávia Martins,SPFRFM99PR34,Flat Colorê Frô Petit - N. 34 - Prata,Frô Petit,846155477
+2024-05-03,797.06,0,Ana Fávia Martins,SPPTFM106PT-2,Sandália Ciranda Petit Cheval - N. 34 - Prata,Petit Cheval,846155477
+2024-05-03,69.58,0,Jordana Diniz,CMKGMC22VD8,T-shirt Essentials King & Joe Play - 8 anos - Verde claro,King & Joe Play,846157116
+2024-05-03,474.5,0,Sanubia Bustorff Quintao,CAMOFM80OW3,Camisa MC Tricoline Patch Momi - 3 anos - Off white,Momi,846170446
+2024-05-03,474.5,0,Sanubia Bustorff Quintao,BLMOFM40OW3,Blusa Ursas Super Cute Momi - 3 anos - Pérola,Momi,846170446
+2024-05-03,474.5,0,Sanubia Bustorff Quintao,CJMOFM120PR2,Conjunto Animal Print Momi - 2 anos - Preto,Momi,846170446
+2024-05-03,219.86,0,Hillary Vaz,VEFMAN182OW4,Vestido conceito com gola bordada Animê - 4 anos - Off white,Animê,846198369
+2024-05-03,331.98,0,Lucyana Damaso,CMDAMC89BG2,Camiseta Urso Kombi Dame - 2 anos - Orégano,Dame,846200266
+2024-05-03,331.98,0,Lucyana Damaso,BEDAMC88BG3,Bermuda Moletom Classic Dame - 3 anos - Bege,Dame,846200266
+2024-05-03,269.76,0,Cecilia Seabra,SPGBMC123A-2,Tênis Overlap Granola/Mrk Indigo Kids Gambo - 30,Gambo,846209081
+2024-05-03,160.0,0,Poliana Batista,CJKGMC70BG8,Conjunto Surf Camp - 8 anos - Areia,King & Joe Play,846209583
+2024-05-03,153.98,0,Luiza Helena Pontes Costa,CJKGMC70OW12,Conjunto t-shirt de algodão e shorts King & Joe Play - 12 anos - Off white,,846210871
+2024-05-03,293.34,0,Adriana Valadares,VEPCFM222ES12,Vestido Botanical Verão 2024 Petit Cherie - 12 anos - Estampado,Petit Cherie,846214932
+2024-05-03,340.99,0,Ana Paola Castelhano,CJMOFM140PR8,Conjunto Moletom Babados e Zíper Momi - 8 anos - Preto,Momi,846217922
+2024-05-04,0.0,0,Suleima,,Sem descrição,,846261867
+2024-05-04,1508.61,0,Lara Cristina Lacerda Silva,BLANFM69OW4,Blusa J'Adore Animê - 4 anos - Pérola,Animê,846267311
+2024-05-04,1508.61,0,Lara Cristina Lacerda Silva,BLANFM70XOW4,Blusa Better Together Animê - 4 anos - Pérola,Animê,846267311
+2024-05-04,1508.61,0,Lara Cristina Lacerda Silva,VEANFM170PR4,Vestido Manike Animê - 4 anos - Preto,Animê,846267311
+2024-05-04,1508.61,0,Lara Cristina Lacerda Silva,SPTJFM124ZVR25,Sapatilha Brigitte Tip Toey Joey - 25 - Vermelho,Tip Toey Joey,846267311
+2024-05-04,1508.61,0,Lara Cristina Lacerda Silva,CJANFM178XPR4,Conjunto Brilho Noturno Animê - 4 anos - Preto,Animê,846267311
+2024-05-04,1508.61,0,Lara Cristina Lacerda Silva,SPPTFM85PT-3,Sandália Ciranda Petit Cheval - N. 24 - Prata,Petit Cheval,846267311
+2024-05-04,200.0,0,Elida ,CMDAMC82OW6,Camiseta Mergulho Dame - 6 anos - Off white,Dame,846270494
+2024-05-04,200.0,0,Elida ,BEDAMC90BG6,Bermuda básica Dame - 6 anos - Bege,Dame,846270494
+2024-05-04,138.0,0,Monique Loiola Barroso,TNGRMC90-4,SlipOn Alegria - 23 - Chocolate,Gracia,846271151
+2024-05-04,173.99,0,Sandra Dias,CMIAFM78OW16,Tshirt New York I Am - 16 anos - Pérola,I Am,846271882
+2024-05-04,884.64,0,Rafaela Guidi,BLPSFM61RS12,Blusa Básica ML Térmica Pituchinhus - 12 anos - Rosa baby,Pituchinhus,846272664
+2024-05-04,884.64,0,Rafaela Guidi,BLPSFM61RS14,Blusa Básica ML Térmica Pituchinhus - 14 anos - Rosa baby,Pituchinhus,846272664
+2024-05-04,884.64,0,Rafaela Guidi,BLPSFM83BG14,Blusa ML Tricot Pituchinhus - 14 anos - Mescla bege,Pituchinhus,846272664
+2024-05-04,884.64,0,Rafaela Guidi,BLPSFM83BG12,Blusa ML Tricot Pituchinhus - 12 anos - Mescla bege,Pituchinhus,846272664
+2024-05-04,884.64,0,Rafaela Guidi,CLPSFM101BG14,Legging Tricot Pituchinhus - 14 anos - Mescla bege,Pituchinhus,846272664
+2024-05-04,884.64,0,Rafaela Guidi,CLPSFM101BG12,Legging Tricot Pituchinhus - 12 anos - Mescla bege,Pituchinhus,846272664
+2024-05-04,1280.66,0,Natali,VEPCFM270VD-3,Vestido Green Celebration Petit Cherie - 14 anos - Verde,Petit Cherie,846276749
+2024-05-04,1280.66,0,Natali,VEPCFM156ES14,Vestido Rainbow Petit Cherie - 14 anos - Estampado,Petit Cherie,846276749
+2024-05-04,1280.66,0,Natali,CJMOFM267JS14,Conjunto colete e shorts jeans Momi - 14 anos - Jeans,Momi,846276749
+2024-05-04,1280.66,0,Natali,VEANFM290XVR14,Vestido com laços Animê - 14 - Neon forte,Animê,846276749
+2024-05-04,268.65,0,Natali,VEPCFM200AZ-3,Vestido Mix Sea Petit Cherie - 14 anos,Petit Cherie,846277497
+2024-05-04,253.46,0,Suleima Santos ,SPPTFM81BR-3,Sapato Patinete Petit Cheval - N. 24 - Branco,Petit Cheval,846277898
+2024-05-04,1616.37,0,Camyla Brasil Paranhos Lima,BLIAFM100PR14,Top Laço I Am - 14 anos - Preto,I Am,846279314
+2024-05-04,1616.37,0,Camyla Brasil Paranhos Lima,SHIAFM100PR16,Shorts-saia envelope I Am - 16 anos - Xadrez,I Am,846279314
+2024-05-04,1616.37,0,Camyla Brasil Paranhos Lima,BLFMMO57OW14,Blusa com placa de strass Momi - 14 - Pérola,Momi,846279314
+2024-05-04,1616.37,0,Camyla Brasil Paranhos Lima,CJANFM209OW14,Conjunto blusa pérola e saia de tule Animê - 14 anos - Pérola,Animê,846279314
+2024-05-04,1616.37,0,Camyla Brasil Paranhos Lima,SHANFM100PR14,Shorts-saia Transpasse Conceito Animê - 14 anos - Preto,Animê,846279314
+2024-05-04,1616.37,0,Camyla Brasil Paranhos Lima,BLANFM73YOW14,Blusa Maxi Laço Animê - 14 anos - Pérola,Animê,846279314
+2024-05-04,1616.37,0,Camyla Brasil Paranhos Lima,CJFMAN195OW14,Conjunto blusa Lovely e saia de tule Animê - 14 anos - Pérola e azul,Animê,846279314
+2024-05-04,1616.37,0,Camyla Brasil Paranhos Lima,CJMOFM129PR14,Conjunto Sobreposição Momi - 14 anos - Preto,Momi,846279314
+2024-05-04,174.0,0,Victoria Mendes,CJFMAN119OW2,Conjunto blusa e shorts Stunning Style Animê - 2 anos - Off white,Animê,846280098
+2024-05-04,174.0,0,Victoria Mendes,,Laços e tiaras Gracia  - Laço P,,846280098
+2024-05-04,77.0,0,Vovó da Hadassa,CMCHMC38-11,Tshirt basics Charpey  - 8 anos - Verde,Charpey,846280187
+2024-05-04,0.0,0,Cejana Cristina de Castro Alves,,Sem descrição,,846281078
+2024-05-05,949.01,0,Kamilla Mesquita Beltrao Baracuhy,VEPSFM427RS8,Vestido Conceito Tule Frufru Bordados Pituchinhus - 8 anos - Rose,Pituchinhus,846323287
+2024-05-05,766.6,0,Livia Coelho Sampaio,CJANFM195BBG10,Conjunto blusa e short bege Animê - 10 anos - Bege,Animê,846327996
+2024-05-05,766.6,0,Livia Coelho Sampaio,CJPCFM179RS10,Conjunto Joy In The Field Petit Cherie - Rosa - 10 anos,Petit Cherie,846327996
+2024-05-05,766.6,0,Livia Coelho Sampaio,CJANFM145ARS10,Conjunto Blusa e shorts rosa babaloo Animê 3452 - 10 anos - Rosa,Animê,846327996
+2024-05-05,766.6,0,Livia Coelho Sampaio,CJBEFM109XRS10,Conjunto em linho blusa com babados e shorts clochard Beabá - 10 anos - Rosa,,846327996
+2024-05-05,364.78,0,Dyeovana Ramos dos Santos,CJMOFM150ES12,Conjunto blusa e shorts floral folk MOMI 4882 - 12 - Floral Folk,Momi,846347386
+2024-05-05,364.78,0,Dyeovana Ramos dos Santos,CJFMAN119OW10,Conjunto blusa e shorts Stunning Style Animê - 10 anos - Off white,Animê,846347386
+2024-05-05,0.0,0,Lucimar Santos,,Sem descrição,,846373726
+2024-05-06,312.8,0,Jussiara Zaiaczkoski Nunes Zamo ,SPTJFM124PR30,Sapatilha Brigitte Tip Toey Joey - 30 - Preto,Tip Toey Joey,846441003
+2024-05-06,220.03,0,Gabriela Sobral Corlat,SHMOFM27OW4,Shorts básico Momi - 4 anos - Pérola,Momi,846475820
+2024-05-06,220.03,0,Gabriela Sobral Corlat,CJANFM119OW4,Conjunto Summer Vibes Animê - 4 anos - Pérola,Animê,846475820
+2024-05-06,292.6,0,Bruna Fernandes,SPTJMC133OW-15,Tênis Ollie Tip Toey Joey - N. 32 - Off white,Tip Toey Joey,846476944
+2024-05-06,279.17,0,Hillary Vaz,CJYCMC100AZ6,Conjunto Sports YCC Youccie - 6 anos - Azul Marinho,Youccie,846480981
+2024-05-06,279.17,0,Hillary Vaz,SHMOFM27OW4,Shorts básico Momi - 4 anos - Pérola,Momi,846480981
+2024-05-10,789.2,0,Ceres Cristina Bueno Dallarmi de Araújo,VEMOFM90RS2,Vestido Tiger Momi - 2 anos - Momi tiger,Momi,846682270
+2024-05-10,789.2,0,Ceres Cristina Bueno Dallarmi de Araújo,VECHFM41X-4,Vestido Piquet Basics Charpey - 2 anos - Rosa,Charpey,846682270
+2024-05-10,789.2,0,Ceres Cristina Bueno Dallarmi de Araújo,VEPCFM130ES-2,Vestido Set True Love Petit Cherie - 2 anos - Off white,Petit Cherie,846682270
+2024-05-10,789.2,0,Ceres Cristina Bueno Dallarmi de Araújo,VEMOFM100RX2,Vestido Patch Ursa Momi - 2 anos - Violet,Momi,846682270
+2024-05-07,418.75,0,Hillary Vaz,CUKGMC29BR4,Cueca Boxer Super King  Joe Play  - 4 anos - Branco,King & Joe Play,846693025
+2024-05-07,418.75,0,Hillary Vaz,BAANFM119OW4,Bata de linho bordada Animê - 4 anos - Off white,Animê,846693025
+2024-05-07,418.75,0,Hillary Vaz,SHFMAN110JS4,Shorts jeans com bordado Animê - 4 anos - Jeans,Animê,846693025
+2024-05-07,418.75,0,Hillary Vaz,CUKGMC36MS6,Cueca Boxer King Joe Play  - 6 - MESCLA,King & Joe Play,846693025
+2024-05-07,236.28,0,Lívia Tereza de Araújo Barros Lobo,VEPCFM179VD4,Vestido Bright Garden Petit Cherie - 4 anos - Verde Neon,Petit Cherie,846710831
+2024-05-07,322.39,0,Cejana Cristina de Castro Alves,VEPCFM180PR-4,Vestido Party Petit Cherie - 12 anos - Preto,,846717694
+2024-05-07,302.98,0,Rafaella Gurgel,BEDAMC88PR3,Bermuda Moletom Classic Dame - 3 anos - Preto,Dame,846726218
+2024-05-07,302.98,0,Rafaella Gurgel,SPGRMC90-8,Mocassim Max - 25 - Caramelo,Gracia,846726218
+2024-05-07,129.99,0,Janille Adrielli Rodriguês dos Santos ,VECHFM57X-5,Vestido Piquet Basics Charpey - 10 anos - Lilás,Charpey,846756566
+2024-05-07,129.9,0,Maria Lúcia ,VECHFM48X-8,Vestido Piquet Basics Charpey - 8 anos - Lilás,Charpey,846757064
+2024-05-07,135.99,0,Camila Stival ,CMDAMC72XOW2,Camiseta Urso Sketch Dame - 2 anos - Off white,Dame,846768313
+2024-05-07,281.76,0,Josana Perina ,VEANFM219AZ4,Vestido de tule com poás Animê - 4 anos - Azul médio,Animê,846777353
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,VEPSFM240XRS4,Vestido Festa Pérola e Cristal Pituchinhus - 4 anos - Rosa soft,Pituchinhus,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,VEPCFM260ES-3,Vestido Set Natural Chique Petit Cherie - 3 anos - Estampado,Petit Cherie,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,VEPCFM190AZ-3,Vestido Princess In Blue Petit Cherie - 3 anos - Azul,Petit Cherie,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,BSPSFM155RS,Bolsa Puffer Casinha & Jardim Pituchinhus,Pituchinhus,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,VEPSFM220XPR4,Vestido Tricot Gola Renda Pituchinhus - 4 anos - Preto,Pituchinhus,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,VEPSFM180XPR4,Vestido Bordados & Jóias Pituchinhus - 4 anos - Preto,Pituchinhus,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,VEPSFM190XPR4,Vestido Tricot Jacquard Pituchinhus - 4 anos - Preto,Pituchinhus,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,BSPSFM85RS,Bolsa Ursinha Pituchinhus,Pituchinhus,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,SPPSFM200RS23,Sapatilha Knit Cristais Pituchinhus - N. 23 - Rosa baby,Pituchinhus,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,SPPSFM200RS24,Sapatilha Knit Cristais Pituchinhus - N. 24 - Rosa baby,Pituchinhus,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,CSCFFM55OW4,Camisola Candy Conforteca - 4 anos - Off white,Conforteca,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,PJCFFM60RS4,Pijama Basique Rose Conforteca - 4 anos - Rosa,Conforteca,846778436
+2024-05-07,4690.87,0,Janeth Vaz Oliveira,PJCFFM64RS4,Pijama Chiclete Conforteca - 4 anos - Rosa,Conforteca,846778436
+2024-05-08,332.71,0,Ivete Custódia Ferreira Costa,SAPSFM148OC12,Saia-shorts Pregas Bolso Cargo Pituchinhus - 12 anos - Ocre,Pituchinhus,846846045
+2024-05-08,145.99,0,Caroline Afonso Guimarães ,SPGRFM97-1,Sapato Maria  - 22 - Rosa flamingo,Gracia,846849535
+2024-05-08,192.0,0,Paula Dalmaso,CJANFM145XOW12,Conjunto blusa e shorts rosa Animê - 12 anos - Off white,Animê,846853961
+2024-05-08,463.68,0,Rafaella de Mello Oline,BLANFM73ZOW2,Blusa Gola Essentials Animê - 2 anos - Pérola,Animê,846875363
+2024-05-08,463.68,0,Rafaella de Mello Oline,CJMOFM115VD2,Conjunto Legging Ursos  Momi - 2 anos - Verde militar,Momi,846875363
+2024-05-08,249.88,0,Jamizi de Oliveira Pereira,SAANFM168JS10,Jump jeans Animê - 10 anos - Jeans,Animê,846882200
+2024-05-08,0.0,0,Debora Raquel Santos da Silva,,Sem descrição,,846910181
+2024-05-08,0.0,0,Ellen Peres ,,Sem descrição,,846939901
+2024-05-08,242.02,0,Alessandra F. de Melo,CACHMC101JS-1,Calça jeans Charpey - 2 anos - Jeans,Charpey,846942322
+2024-05-08,175.99,0,Tamara Jobard,SPGRFM97W-6,Sapato Bela - 27 - Ouro light,Gracia,846964563
+2024-05-09,605.99,0,Ellen Peres ,VEPCFM260PR-3,Vestido Princess in Black Petit Cherie - 10 anos - Preto,Petit Cherie,847041490
+2024-05-09,1153.94,0,Vanessa Faccin,SHBEFM60RS8,Shorts Tweed e Lurex Beabá - 8 anos - Rosa claro,Beabá,847050799
+2024-05-09,1153.94,0,Vanessa Faccin,VEMOFM110VD8,Vestido Comfy Laço Momi - 8 anos - Verde militar,Momi,847050799
+2024-05-09,1153.94,0,Vanessa Faccin,VEMOFM90XVD8,Vestido Ursos & Corações Momi - 8 anos - Verde,Momi,847050799
+2024-05-09,1153.94,0,Vanessa Faccin,CJMOFM120PR6,Conjunto Animal Print Momi - 6 anos - Preto,Momi,847050799
+2024-05-09,1153.94,0,Vanessa Faccin,VEBEFM70MR8,Vestido Xadrez com Laço Beabá - 8 anos - Marinho,Beabá,847050799
+2024-05-09,1153.94,0,Vanessa Faccin,VEBEFM79MR8,Vestido Quadriculado & Gola Beabá - 8 anos - Marinho,Beabá,847050799
+2024-05-09,340.68,0,Luzia Carolina Silva Silvestre,CMKGMC35XVD6,Camiseta Câmera King & Joe Play - 6 anos - Verde militar,King & Joe Play,847104106
+2024-05-09,340.68,0,Luzia Carolina Silva Silvestre,CMKGMC31OW6,Camiseta Surfboard King & Joe Play - 6 anos - Off white,King & Joe Play,847104106
+2024-05-09,340.68,0,Luzia Carolina Silva Silvestre,CJMOFM138OW12,Conjunto blusa com flores bordadas e shorts Momi - 12 anos - Off white,Momi,847104106
+2024-05-10,369.07,0,Juliana Junqueira,SPGBMC136C-1,Tênis NB Branco/Aveia/Sorvete de Pistache Kids Gambo - 29,Gambo,847173189
+2024-05-10,369.07,0,Juliana Junqueira,CMKGMC25AZ6,T-shirt Essentials King & Joe Play - 6 anos - Azul claro,King & Joe Play,847173189
+2024-05-10,178.19,0,Michele Vilaca Rodrigues Murari,VEBEFM70MR3,Vestido Xadrez com Laço Beabá - 3 anos - Marinho,Beabá,847188208
+2024-05-10,416.07,0,Ana Paula Fonte Silva,SPGRFM93Z-2,Sapato Laura Gracia - 23 - Off white,Gracia,847265701
+2024-05-10,416.07,0,Ana Paula Fonte Silva,SPGRFM97Y-9,Sapato Helena - 30 - Ouro velho,Gracia,847265701
+2024-05-10,416.07,0,Ana Paula Fonte Silva,SPGRFM97Y-10,Sapato Helena - 31 - Ouro velho,Gracia,847265701
+2024-05-11,367.74,0,Jaqueline Dias,CJMOFM150MM12,Conjunto Moletom Winter's Vibe Toffee Momi - 12 anos - Toffee,Momi,847306442
+2024-05-11,500.0,0,Antônia Raquel Medrado,CJPCFM189PK12,Conjunto blusa e short Sweet Cherry Petit Cherie - 12 anos - Pink,Petit Cherie,847312189
+2024-05-11,500.0,0,Antônia Raquel Medrado,CJPCFM179RS12,Conjunto Joy In The Field Petit Cherie - Rosa - 12 anos,Petit Cherie,847312189
+2024-05-11,152.5,0,Beatriz Morais de Souza,,Laços e tiaras Gracia  - Laço M,,847317712
+2024-05-11,152.5,0,Beatriz Morais de Souza,,Laços e tiaras Gracia  - Laço G,,847317712
+2024-05-11,430.99,0,Andrea Socrates ,CJMOFM110XOW10,Conjunto Blusa MC e Shorts New York Momi - 10 anos - Pérola,Momi,847337029
+2024-05-11,430.99,0,Andrea Socrates ,CJFMAN137VR10,Conjunto blusa e shorts detalhes em laise Animê - 10 anos - Vermelho,Animê,847337029
+2024-05-13,180.19,0,Valéria Alcantara Alves Crispim,VEBEFM70MR4,Vestido Xadrez com Laço Beabá - 4 anos - Marinho,Beabá,847449524
+2024-05-13,655.5,0,Vania dos santos Rocha,JQYCMC128AZ4,Jaqueta Com Capuz Space Mickey Youccie - 4 anos - Azul,Youccie,847473510
+2024-05-13,655.5,0,Vania dos santos Rocha,CAYCMC119JS4,Calça Jeans Youccie - 4 anos - Jeans,Youccie,847473510
+2024-05-13,655.5,0,Vania dos santos Rocha,CMYCMC50OW4,T-shirt Mickey Mouse Youccie - 4 anos - Off white,Youccie,847473510
+2024-05-13,138.69,0,Ana Paula Fonte Silva,SPGRFM93Z-9,Sapato Laura Gracia - 30 - Off white,Gracia,847499571
+2024-05-13,201.85,0,Hillary Vaz,SPPTFM85PT-1,Sandália Ciranda Petit Cheval - N. 22 - Prata,Petit Cheval,847524669
+2024-05-13,0.0,0,Morgana Belém,,Sem descrição,,847539252
+2024-05-13,288.0,0,Clarice Porto,BTPTFM120CB-6,Bota Galáxia Petit Cheval - N. 31 - Cobre,Petit Cheval,847551472
+2024-05-13,0.0,0,Regina Santana,,Sem descrição,,847575432
+2024-05-13,207.99,0,Daiane Funck,BLUMFM80BG2,Blusa Tricot 1+1 - 2 anos - Bege claro,Um Mais Um,847595191
+2024-05-14,1479.03,0,Bruna Wanessa Pereira Alves,,Laços e tiaras Gracia  - Laço P,,847692996
+2024-05-14,1479.03,0,Bruna Wanessa Pereira Alves,,Laços e tiaras Gracia  - Laço M,,847692996
+2024-05-14,1479.03,0,Bruna Wanessa Pereira Alves,VEPSFM232PR4,Vestido Tule Babado & Laço Puffer Pituchinhus - 4 anos - Preto,Pituchinhus,847692996
+2024-05-14,1479.03,0,Bruna Wanessa Pereira Alves,VEPCFM190AZ-4,Vestido Princess In Blue Petit Cherie - 4 anos - Azul,Petit Cherie,847692996
+2024-05-14,1479.03,0,Bruna Wanessa Pereira Alves,CJMOFM120OW3,Conjunto Pink Hearts Momi - 3 anos - Pérola,Momi,847692996
+2024-05-14,0.0,0,Kellyn Magalhaes da Rosa Queiroz,,Sem descrição,,847701735
+2024-05-14,346.99,0,Bianca Polli,CJANFM137OW2,Conjunto Lapelas Animê - 2 anos - Pérola,Animê,847713497
+2024-05-15,152.99,0,Nayarah Vaz,VECHFM47CL-4,Vestido Piquet Tricolor Charpey - 4 anos - Pink,Charpey,847858601
+2024-05-15,60.0,0,Jussiara Zaiaczkoski Nunes Zamo ,,Laços e tiaras Gracia  - Laço P,,847858698
+2024-05-15,60.0,0,Jussiara Zaiaczkoski Nunes Zamo ,,Laços e tiaras Gracia  - Laço P,,847858698
+2024-05-15,382.99,0,Jaqueline Adas Pereira Venâncio,VEPCFM190PB-3,Vestido Classic P&B Petit Cherie - 3 anos - Preto,Petit Cherie,847863673
+2024-05-15,84.0,0,Danielly Rodrigues Simão,PJCFUN64LR10,Pijama Sono Bom Poá Conforteca - 10,Conforteca,847882324
+2024-05-15,687.99,0,Renata Brasil Rangel ,SPPCFM97PR-2,Sapato Espadrille Couro Veludo Petit Cheval - N. 27 - Preto,Petit Cheval,847897796
+2024-05-15,687.99,0,Renata Brasil Rangel ,CSUMFM200MR6,Casaco em lã 1+1 - 6 anos - Marinho,Um Mais Um,847897796
+2024-05-15,687.99,0,Renata Brasil Rangel ,BLBEFM60XOW6,Blusa ML com Gola Laço Beabá - 6 anos - Off white,Beabá,847897796
+2024-05-15,575.98,0,Morgana Belém,MASIFM120ES6,Maiô Tamy Marine Siri - 6 anos - Estampado,Siri,847958127
+2024-05-15,575.98,0,Morgana Belém,TOSIUN100XES,Toalha Cristal XColor Siri,Siri,847958127
+2024-05-15,575.98,0,Morgana Belém,BISIFM100XD6,Biquíni Cropped Tamires XColor Siri - 6 anos - Estampado,Siri,847958127
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,VEANFM230BG4,Vestido Poá Veludo e Laço Animê - 4 anos - Creme,Animê,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,CSMOFM120RS4,Casaco com Bolsos e Patch Momi - 4 anos - Rosa bebê,Momi,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,CJMOFM134OW4,Conjunto Camisa MC e Saia Xadrez Momi - 4 anos - Off white,Momi,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,BISIFM125XRS4,Biquini Cropped ML Letícia Girafa Siri - 4 anos - Estampado,Siri,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,BDSIFM140XD4,Maiô Fernanda XColor Siri - 4 anos - Rosa,Siri,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,BISIFM100XD4,Biquíni Cropped Tamires XColor Siri - 4 anos - Estampado,Siri,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,VESIFM75AL4,Vestido Eduarda Tule Siri - 4 anos - Amarelo Fluor,Siri,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,BISIFM125RS4,Biquíni Cropped Anita Girafa Siri - 4 anos - Estampado,Siri,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,ROSIFM144ES4,Roupão Isabela Girafa Siri - 4 anos - Estampado,Siri,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,BDSIFM150VD4,Body Lais Dino Love Siri - 4 anos - Estampado,Siri,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,SPPCFM85CH-5,Sandália Ciranda Petit Cheval - N. 22 - Chumbo,Petit Cheval,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,SPPCFM85PR-5,Sapato Espadrille Couro Veludo Petit Cheval - N. 22 - Preto,Petit Cheval,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,BISIFM130RS4,Biquíni Cropped ML Giovana Euforia Siri - 4 anos - Colorido,Siri,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,SHSIFM40RS4,Shorts Letícia Chiclete Siri  - 4 anos - Rosa,Siri,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,ROSIFM105RS4,Roupão Linda Rosa Escuro Siri - 4 anos - Rosa,Siri,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,MASIFM110RS4,Maiô Nubia Borboleta Siri - 4 anos - Estampado,Siri,847970026
+2024-05-15,4390.83,0,Janeth Vaz Oliveira,CHSIFM46RSUN,Chapéu Proteção UV Euforia Siri,Siri,847970026
+2024-05-15,1554.64,0,Fabia Andreia Silva Lima,CJANFM169OW3,Conjunto Hearts Animê - 3 anos - Pérola,Animê,847986779
+2024-05-15,1554.64,0,Fabia Andreia Silva Lima,SAPSFM154PR4,Saia-Shorts Camadas Tule Pituchinhus - 4 anos - Preto,Pituchinhus,847986779
+2024-05-15,1554.64,0,Fabia Andreia Silva Lima,SAANFM96RS3,Saia Fake Leather Quartzo Animê - 3 anos - Rosa Quartzo,Animê,847986779
+2024-05-15,1554.64,0,Fabia Andreia Silva Lima,BLPSFM62OW4,Blusa Básica ML Térmica Pituchinhus - 4 anos - Off white,Pituchinhus,847986779
+2024-05-15,1554.64,0,Fabia Andreia Silva Lima,BLPSFM61PR8,Blusa ML Básica Cotton Pituchinhus - 8 anos - Preto,Pituchinhus,847986779
+2024-05-15,1554.64,0,Fabia Andreia Silva Lima,BLANFM69OW6,Blusa J'Adore Animê - 6 anos - Pérola,Animê,847986779
+2024-05-15,1554.64,0,Fabia Andreia Silva Lima,SAPSFM154PR8,Saia-Shorts Camadas Tule Pituchinhus - 8 anos - Preto,Pituchinhus,847986779
+2024-05-15,861.98,0,Caroline Costa Nazareno Adachi,CHSIFM46RSUN,Chapéu Proteção UV Euforia Siri,Siri,847988881
+2024-05-15,861.98,0,Caroline Costa Nazareno Adachi,ROSIFM144ES6,Roupão Isabela Girafa Siri - 6 anos - Estampado,Siri,847988881
+2024-05-15,861.98,0,Caroline Costa Nazareno Adachi,MASIFM120RS4,Maiô Carol Girafa Siri - 4 anos - Estampado,Siri,847988881
+2024-05-15,861.98,0,Caroline Costa Nazareno Adachi,BLSIFM65AL4,Blusa Proteção UV Spirit Siri - 4 anos - Amarelo Fluor,Siri,847988881
+2024-05-15,861.98,0,Caroline Costa Nazareno Adachi,VESIFM75AL4,Vestido Eduarda Tule Siri - 4 anos - Amarelo Fluor,Siri,847988881
+2024-05-16,144.97,0,Caroline Costa Nazareno Adachi,BLSIFM65RS4,Blusa Proteção UV Euforia Siri - 4 anos - Rosa,Siri,848030751
+2024-05-16,372.99,0,Jaqueline Nicolli,SPGRFM97X-4,Sapato Clara - Branco - 25,Gracia,848107067
+2024-05-16,372.99,0,Jaqueline Nicolli,CJMOFM100ZOW4,Conjunto Blusa MC e Shorts Pink Glitter Momi - 4 anos - Pérola,Momi,848107067
+2024-05-16,548.7,0,Jaciele de Freitas Andrade,,Laços e tiaras Gracia  - Laço P,,848118161
+2024-05-16,548.7,0,Jaciele de Freitas Andrade,,Laços e tiaras Gracia  - Laço P,,848118161
+2024-05-16,548.7,0,Jaciele de Freitas Andrade,BSPSFM80BG,Bolsa Ursinha Pituchinhus,Pituchinhus,848118161
+2024-05-16,548.7,0,Jaciele de Freitas Andrade,VEPCFM160AZ-1,Vestido Friend Teddy Petit Cherie - 6 anos - Azul,Petit Cherie,848118161
+2024-05-16,321.09,0,Caroline Costa Nazareno Adachi,BDSIFM150VD4,Body Lais Dino Love Siri - 4 anos - Estampado,Siri,848131321
+2024-05-16,736.8,0,Ludmilla Bahia Peres,CMDAMC82CZ2,Camiseta Urso Foto Dame - 2 anos - Cinza,Dame,848137674
+2024-05-16,736.8,0,Ludmilla Bahia Peres,BLPSFM76XRS6,Regata Cristais Pituchinhus - 6 anos - Rosa médio,Pituchinhus,848137674
+2024-05-16,736.8,0,Ludmilla Bahia Peres,CLPSFM80ES6,Legging Fofura Pituchinhus - 6 anos - Poá e cachorros,Pituchinhus,848137674
+2024-05-16,736.8,0,Ludmilla Bahia Peres,VEPSFM230OW-3,Vestido em tule com babadinhos e cristais Pituchinhus - 6 anos - Off white,Pituchinhus,848137674
+2024-05-16,0.0,0,Marcela Castelo Camargo ,,Sem descrição,,848146735
+2024-05-16,377.98,0,Mayara Veiga,VEBEFM70MR1,Vestido Xadrez com Laço Beabá - 1 ano - Marinho,Beabá,848177350
+2024-05-16,377.98,0,Mayara Veiga,SPPCFM85PR-2,Sapato Espadrille Couro Veludo Petit Cheval - N. 19 - Preto,Petit Cheval,848177350
+2024-05-17,342.98,0,Maikelin Sandri dos Passos,CMDAMC82CZ6,Camiseta Urso Foto Dame - 6 anos - Cinza,Dame,848249518
+2024-05-17,342.98,0,Maikelin Sandri dos Passos,CMDAMC90OW6,Camiseta Urso Selfie Dame - 6 anos - Off white,Dame,848249518
+2024-05-17,1088.86,0,Felina Sousa ,TNDAMC180BG34,Tênis Knit Dame - N. 34 - Bege,Dame,848291373
+2024-05-17,1088.86,0,Felina Sousa ,BEUMMC120OW-4,Bermuda de sarja com lycra 1+1  - 10 anos - Areia,Um Mais Um,848291373
+2024-05-17,1088.86,0,Felina Sousa ,CJANFM209XOW12,Conjunto blusa e saia de tule com dourado Animê - 12 anos - Off white,Animê,848291373
+2024-05-17,1088.86,0,Felina Sousa ,POKGMC53BR10,Polo piquet com bordado bandeira King & Joe Play - 10 anos - Branco,King & Joe Play,848291373
+2024-05-17,1088.86,0,Felina Sousa ,CMKGMC31OW10,Camiseta Surfboard King & Joe Play - 10 anos - Off white,King & Joe Play,848291373
+2024-05-17,276.38,0,Sabrina Falco,MASIFM110VD8,Maiô Linda Nerd Xadrez Siri - 8 anos - Estampado,Siri,848296242
+2024-05-17,109.0,0,Paula Guimarães Pena,TNGRMC85-12,Tênis New Way - 27 - Chocolate,Gracia,848321833
+2024-05-17,351.99,0,Farida Oliveira,CJMOFM150MM8,Conjunto Moletom Winter's Vibe Toffee Momi - 8 anos - Toffee,Momi,848327673
+2024-05-18,431.4,0,Jordana da Silva Wolski,SDPTFM90DR-3,Sandália Festa Doré Petit Cheval - N. 22 - Dourado,Petit Cheval,848364785
+2024-05-18,431.4,0,Jordana da Silva Wolski,SPPCFM85CH-5,Sandália Ciranda Petit Cheval - N. 22 - Chumbo,Petit Cheval,848364785
+2024-05-18,389.99,0,Kariane Santos,JQANFM178OW12,Jaqueta Fake Leather Animê - 12 anos - Bege,Animê,848371123
+2024-05-18,203.99,0,Jessica Geraldino de Sousa ,CJCHMC82VD-1,Conjunto camiseta e bermuda moletom sem felpa Charpey - 4 anos - Verde,Charpey,848378724
+2024-05-18,118.67,0,Cejana Cristina de Castro Alves,CSANFM90OW12,Camisola Minnie heroína com capa Animê - 12 anos - Off white,Animê,848395970
+2024-05-18,295.99,0,Agnes Paula dos Santos Paula dos Santos,SHANFM137JS6,Shorts Jeans Mickey e Minnie Animê - 6 anos - Jeans,Animê,848399964
+2024-05-18,0.0,0,Obert Silva,,Sem descrição,,848403540
+2024-05-19,237.6,0,Debora Marcatto,SPPTFM106PT-17,Sandália Ciranda Petit Cheval - N. 20 - Prata,Petit Cheval,848436422
+2024-05-19,274.45,0,Debora Marcatto,SPPTFM85PT-4,Sandália Ciranda Petit Cheval - N. 25 - Prata,Petit Cheval,848436496
+2024-05-19,1932.15,0,Debora Silva,JQANFM146AZ2,Casaco Sobreposição Lapelas Animê - 2 anos - Azul,Animê,848449607
+2024-05-19,1932.15,0,Debora Silva,CJANFM150OW2,Conjunto blusa e saia Tweed PB Animê - 2 anos - Pérola,Animê,848449607
+2024-05-19,1932.15,0,Debora Silva,BLANFM69OW2,Blusa J'Adore Animê - 2 anos - Pérola,Animê,848449607
+2024-05-19,1932.15,0,Debora Silva,VECHFM41X-6,Vestido Piquet Basics Charpey - 2 anos - Vermelho,Charpey,848449607
+2024-05-19,1932.15,0,Debora Silva,CSBEFM90LR2,Casaco Recorte e Botão Pérola Beabá - 2 anos - Coral,Beabá,848449607
+2024-05-19,1932.15,0,Debora Silva,SHBEFM60RS2,Shorts Tweed e Lurex Beabá - 2 anos - Rosa claro,Beabá,848449607
+2024-05-19,1932.15,0,Debora Silva,SHSIFM40RS2,Shorts Letícia Chiclete Siri  - 2 anos - Rosa,Siri,848449607
+2024-05-19,1932.15,0,Debora Silva,MASIFM110XRS2,Body Vitoria Euforia Siri - 2 anos - Colorido,Siri,848449607
+2024-05-19,1932.15,0,Debora Silva,CJPCFM159AOW2,Conjunto Flores de Verão Petit Cherie - 2 anos - Off white,Petit Cherie,848449607
+2024-05-19,1932.15,0,Debora Silva,CJMOFM124PR2,Conjunto Winter Classic Momi - 2 anos - Preto,Momi,848449607
+2024-05-19,353.22,0,Viviele Pizoli,BLANFM73YOW16,Blusa Maxi Laço Animê - 16 anos - Pérola,Animê,848466703
+2024-05-19,353.22,0,Viviele Pizoli,SAMOFM80PR16,Saia de Couro Essentials Momi - 16 anos - Preto,Momi,848466703
+2024-05-19,2271.4,0,Daiana Refati,SPTJFM132DR-7,Tênis Funky Tip Toey Joey - N. 24 - Dourado,Tip Toey Joey,848468529
+2024-05-19,2271.4,0,Daiana Refati,SPTJFM119RS24,Sapatilha Misty Tip Toey Joey - 24 - Rosé,Tip Toey Joey,848468529
+2024-05-19,2271.4,0,Daiana Refati,SPTJFM124PR24,Sapatilha Brigitte Tip Toey Joey - 24 - Preto,Tip Toey Joey,848468529
+2024-05-19,2271.4,0,Daiana Refati,BLMOFM48RS6,Blusa Canelada Basics Momi - 6 anos - Rosa claro,Momi,848468529
+2024-05-19,2271.4,0,Daiana Refati,CJANFM182PR6,Conjunto Flowers Animê - 6 anos - Preto,Animê,848468529
+2024-05-19,2271.4,0,Daiana Refati,VEPCFM260ES-5,Vestido Set Natural Chique Petit Cherie - 6 anos - Estampado,Petit Cherie,848468529
+2024-05-19,2271.4,0,Daiana Refati,BLPSFM62OW6,Blusa Básica ML Térmica Pituchinhus - 6 anos - Off white,Pituchinhus,848468529
+2024-05-19,2271.4,0,Daiana Refati,CJBEFM100RS6,Conjunto Abrigo Plush com Bolso Beabá - 6 anos - Rosa claro,Beabá,848468529
+2024-05-19,0.0,0,Maria Carolina,,Sem descrição,,848476003
+2024-05-20,118.66,0,Fernanda Gimez,CJFMMO90OW6,Conjunto regata e shorts xadrez Momi - 6 - Off white e azul,Momi,848541885
+2024-05-20,382.19,0,Ana Paula Metzka Isaac,VEPCFM160RS-3,Vestido Poly Mesh Petit Cherie - 3 anos - Rosa,Petit Cherie,848562518
+2024-05-20,352.19,0,Ana Paula Metzka Isaac,VEPCFM160RS-2,Vestido Poly Mesh Petit Cherie - 2 anos - Rosa,Petit Cherie,848573175
+2024-05-20,352.19,0,Ana Paula Metzka Isaac,,Laços e tiaras Gracia  - Laço P,,848573175
+2024-05-20,38.0,0,Cynara Sene,,Laços e tiaras Gracia  - Tiara,,848584627
+2024-05-20,403.98,0, Glauciana Mamede de carvalho ,CJMOFM100ZOW8,Conjunto Blusa MC e Shorts Pink Glitter Momi - 8 anos - Pérola,Momi,848608254
+2024-05-20,403.98,0, Glauciana Mamede de carvalho ,CJPCFM119XPK8,Conjunto Neon Vibes Petit Cherie - 8 anos - Pink,Petit Cherie,848608254
+2024-05-20,3787.89,0,Janeth Vaz Oliveira,VEPSFM210ES4,Vestido Ursinhas e Flores Pituchinhus - 4 anos - Ursas e flores,Pituchinhus,848630583
+2024-05-20,3787.89,0,Janeth Vaz Oliveira,VEPSFM200ES4,Vestido com Bolsinha Casinha Pituchinhus - 4 anos - Estampado,,848630583
+2024-05-20,3787.89,0,Janeth Vaz Oliveira,VEPSFM180VD4,Vestido Laço e Bolsos Pituchinhus - 4 anos - Verde escuro,Pituchinhus,848630583
+2024-05-20,3787.89,0,Janeth Vaz Oliveira,BLPSFM120OW4,Blusa Gola Tule Cristais Pituchinhus - 4 anos - Off white,Pituchinhus,848630583
+2024-05-20,3787.89,0,Janeth Vaz Oliveira,BLPSFM135OW4,Blusa Tricot Rendado Cristais Pituchinhus - 4 anos - Off white,Pituchinhus,848630583
+2024-05-20,3787.89,0,Janeth Vaz Oliveira,BLPSFM145AZ4,Blusa Monograma Pituchinhus - 4 anos - Azul,Pituchinhus,848630583
+2024-05-20,3787.89,0,Janeth Vaz Oliveira,CLPSFM145AZ4,Calça Monograma Pituchinhus - 4 anos - Azul,Pituchinhus,848630583
+2024-05-20,3787.89,0,Janeth Vaz Oliveira,CSPSFM200OW4,Casaco Tricot Rendado Pituchinhus - 4 anos - Off white,Pituchinhus,848630583
+2024-05-20,3787.89,0,Janeth Vaz Oliveira,VEPSFM172RS4,Vestido Tricot Laços e Pérolas Pituchinhus - 4 anos - Rosa baby,Pituchinhus,848630583
+2024-05-20,3787.89,0,Janeth Vaz Oliveira,SAPSFM105OW4,Saia-shorts Pele Bordados Pituchinhus - 4 anos - Off white,Pituchinhus,848630583
+2024-05-20,3787.89,0,Janeth Vaz Oliveira,BSPSFM105VD,Bolsa Puffer Casinha Pituchinhus,Pituchinhus,848630583
+2024-05-20,1715.96,0,Nayarah Vaz,VEPSFM180VD6,Vestido Laço e Bolsos Pituchinhus - 6 anos - Verde escuro,Pituchinhus,848637248
+2024-05-20,1715.96,0,Nayarah Vaz,BSPSFM105VD,Bolsa Puffer Casinha Pituchinhus,Pituchinhus,848637248
+2024-05-20,1715.96,0,Nayarah Vaz,SPPSFM200RS30,Sapatilha Knit Cristais Pituchinhus - N. 30 - Rosa baby,Pituchinhus,848637248
+2024-05-20,1715.96,0,Nayarah Vaz,BSUMFM128VD-1,Minimochila Cool 1+1 - Verde limão,Um Mais Um,848637248
+2024-05-20,1715.96,0,Nayarah Vaz,SAPRFM160BG18,Saia-shorts Pregas Perfumaria - 18 anos - Bege escuro,Perfumaria,848637248
+2024-05-20,790.99,0,Janeth Vaz Oliveira,VEPSFM355RS4,Vestido Conceito Festa Pituchinhus - 4 anos - Rosa seda,Pituchinhus,848649295
+2024-05-20,182.16,0,Laise Camargo ,CJFMMO138VR8,Conjunto blusa e shorts laise com laço Momi - 8 anos - Pimenta,Momi,848656758
+2024-05-21,1324.61,0,Hillary Vaz,BSPSFM158RS,Bolsa Pearl And Charm Pituchinhus,Pituchinhus,848856192
+2024-05-21,1324.61,0,Hillary Vaz,VEMIFM380RS-3,Vestido Helena Festa Bordado Mio Bebê - 4 anos - Rosa,Mio Bebê,848856192
+2024-05-21,1324.61,0,Hillary Vaz,LAMIFM45RS-1,Laço Bordado Pérolas e Cristais Mio Bebê - Rosa,Mio Bebê,848856192
+2024-05-21,272.8,0,Jussiara Zaiaczkoski Nunes Zamo ,SPTJFM124PR29,Sapatilha Brigitte Tip Toey Joey - 29 - Preto,Tip Toey Joey,848916760
+2024-05-21,1439.17,0,Madalena,CJBEFM100RS2,Conjunto Abrigo Plush com Bolso Beabá - 2 anos - Rosa claro,Beabá,848921428
+2024-05-21,1439.17,0,Madalena,VEMOFM80LS2,Vestido Matelasse Babado Momi - 2 anos - Lilás,Momi,848921428
+2024-05-21,1439.17,0,Madalena,BLMOFM40OW2,Blusa Ursas Super Cute Momi - 2 anos - Pérola,Momi,848921428
+2024-05-21,1439.17,0,Madalena,CLPSFM101BG2,Legging Tricot Pituchinhus - 2 anos - Mescla bege,Pituchinhus,848921428
+2024-05-21,1439.17,0,Madalena,BLPSFM83BG2,Blusa ML Tricot Pituchinhus - 2 anos - Mescla bege,Pituchinhus,848921428
+2024-05-21,1439.17,0,Madalena,VEPSFM190RS2,Vestido Tricot Mangas Pele Pituchinhus - 2 anos - Rosa baby,Pituchinhus,848921428
+2024-05-21,1439.17,0,Madalena,JDMOFM60ES2,Jardineira Comfy Ursas Momi - 2 anos - Estampado,Momi,848921428
+2024-05-21,551.53,0,Patrícia Alessandra Brutner Scavazza ,KTCJPS224ES10,Conjunto blusa e shorts floral listrado com bolsos Pituchinhus  - 10 anos - Estampado,Pituchinhus,848975046
+2024-05-21,551.53,0,Patrícia Alessandra Brutner Scavazza ,CJANFM150XAL10,Conjunto blusa com laços fixos e saia Animê - 10 - Amarelo claro,Animê,848975046
+2024-05-21,292.0,0,Maryele Machado Campos,VEANFM182RS3,Vestido Brilho Noturno Animê - 3 anos - Rosa,Animê,848989943
+2024-05-21,202.99,0,Elaine Teles Rodrigues,VEMOFM100RX6,Vestido Patch Ursa Momi - 6 anos - Violet,Momi,849009222
+2024-05-21,499.43,0,Ceres Cristina Bueno Dallarmi de Araújo,VEPCFM130ES-3,Vestido Set True Love Petit Cherie - 3 anos - Off white,Petit Cherie,849013253
+2024-05-21,499.43,0,Ceres Cristina Bueno Dallarmi de Araújo,CJBEFM100RS3,Conjunto Abrigo Plush com Bolso Beabá - 3 anos - Rosa claro,Beabá,849013253
+2024-05-21,310.61,0,Ana Nepomuceno,CMPSFM139BR8,Camisa Clássica Urso Patche Pituchinhus - 8 anos - Branco,Pituchinhus,849040940
+2024-05-22,300.0,0,Bruno Gonçalves,VEMOFM120MM8,Vestido Tela Gold Momi - 8 anos - Toffee,Momi,849108084
+2024-05-22,300.0,0,Bruno Gonçalves,,Laços e tiaras Gracia  - Laço P,,849108084
+2024-05-22,249.54,0,Gleiciane Natali,VEPCFM189XES14,Vestido Fashion Bear Petit Cherie - Estampado - 14 anos,Petit Cherie,849113200
+2024-05-22,103.99,0,Angela Maria da Silva Muniz,POCHMC46-7,Polo Piquet MC Charpey - Vermelho - 10 anos,,849114825
+2024-05-22,795.1,0,Sâmara Rayk Chaves da Silva ,MQPCFM178RS10,Macacão Sweet Cherry Petit Cherie - Rosa - 10 anos,Petit Cherie,849117079
+2024-05-22,795.1,0,Sâmara Rayk Chaves da Silva ,CJPCFM160VD-6,Conjunto Strawberry Petit Cherie - 10 anos - Verde,Petit Cherie,849117079
+2024-05-22,795.1,0,Sâmara Rayk Chaves da Silva ,CJFMMO138-4,Conjunto blusa e shorts laise com laço Momi - 10 anos - Pimenta,Momi,849117079
+2024-05-22,795.1,0,Sâmara Rayk Chaves da Silva ,CJPCFM179RS12,Conjunto Joy In The Field Petit Cherie - Rosa - 12 anos,Petit Cherie,849117079
+2024-05-22,201.99,0,Hillary Vaz,SPPCFM85CH-6,Sandália Ciranda Petit Cheval - N. 23 - Chumbo,Petit Cheval,849118748
+2024-05-22,223.08,0,Maria Luiza Guimarães ,CJUMFM170RS6,Conjunto camisa em tricoline com strass e saia-short em moletom Um Mais Um - 6 anos - Rosa fluor,Um Mais Um,849119898
+2024-05-22,301.73,0,Michel Falavinha,SHBEFM60RS4,Shorts Tweed e Lurex Beabá - 4 anos - Rosa claro,Beabá,849122833
+2024-05-22,301.73,0,Michel Falavinha,BLBEFM60XOW4,Blusa ML com Gola Laço Beabá - 4 anos - Off white,Beabá,849122833
+2024-05-22,177.0,0,Carmem Dalva,BEUMMC115MR10,Bermuda de linho com elastano marinho - 10 anos - Marinho,Um Mais Um,849125916
+2024-05-22,269.99,0,Nubia Alves Frohlich (Mariana),MASIFM120RS12,Maiô Carol Girafa Siri - 12 anos - Estampado,Siri,849130034
+2024-05-22,379.99,0,Kellyn Magalhaes da Rosa Queiroz,VEFMAN273BR4,Vestido de laise bordado Animê - 4 anos - Branco,Animê,849130496
+2024-05-22,490.41,0,Roseany Meneses,VEPCFM190AZ-7,Vestido Princess In Blue Petit Cherie - 10 anos - Azul,Petit Cherie,849131823
+2024-05-22,734.69,0,Samara Carvalho,,Laços e tiaras Gracia  - Laço M,,849135412
+2024-05-22,734.69,0,Samara Carvalho,VEPCFM190AZ-1,Vestido Princess In Blue Petit Cherie - 1 ano - Azul,Petit Cherie,849135412
+2024-05-22,734.69,0,Samara Carvalho,VEPCFM120RS-1,Vestido Romantic Petit Cherie - 1 ano - Rosa,Petit Cherie,849135412
+2024-05-22,254.99,0,Vanessa Martins Alves,CJMOFM10X0OW2,Conjunto Blusa Sobreposição e Shorts Momi - 2 anos - Pérola,Momi,849173056
+2024-05-22,332.99,0,Sara,CJSIMC150PB14,Conjunto Blusa ML e Sunga Arthur Loose Siri - 14 anos - Estampado,Siri,849189038
+2024-05-22,959.98,0,Ellen Peres ,CJANFM219OW10,Conjunto Laço de Paetê Animê - 10 anos - Pérola,Animê,849192716
+2024-05-22,959.98,0,Ellen Peres ,CJANFM219OW8,Conjunto Laço de Paetê Animê - 8 anos - Pérola,Animê,849192716
+2024-05-22,259.59,0,Fabiana Goveia,SPPCFM97CH-5,Sandália Ciranda Petit Cheval - N. 30 - Chumbo,Petit Cheval,849225053
+2024-05-22,739.42,0,Vanessa Fontes,JDMOFM100JS2,Jardineira Jeans & Corações Momi - 2 anos - Jeans,Momi,849227843
+2024-05-22,739.42,0,Vanessa Fontes,CJPCFM139ES2,Conjunto Joy In The Field Petit Cherie - 2 anos - Estampado,Petit Cherie,849227843
+2024-05-22,739.42,0,Vanessa Fontes,VEPCFM130VD-2,Vestido Amazing Day Petit Cherie - 3 anos - Verde,Petit Cherie,849227843
+2024-05-22,739.42,0,Vanessa Fontes,MQPSFM149RS2,Macaquinho Liberty com cristais Pituchinhus - 2 anos - Fundo rosa,Pituchinhus,849227843
+2024-05-23,524.93,0,Patricia Cristina Santos,MQIAFM150PR16,Macaquinho de alças com strass I Am - 16 anos - Preto,I Am,849264969
+2024-05-23,524.93,0,Patricia Cristina Santos,CJPCFM140ES-4,Conjunto Butterfly Petit Cherie - 6  anos - Estampado,Petit Cherie,849264969
+2024-05-23,110.0,0,Eduarda Souza,CMYCMC50OW1,T-shirt Mickey Mouse Youccie - 1 ano - Off white,Youccie,849265704
+2024-05-23,536.13,0,Juliana Freitas ,VEPCFM260RS-5,Vestido Cute Buterflies Petit Cherie - 6 anos - Rosa,Petit Cherie,849266185
+2024-05-23,3089.99,0,Cintia Figueiredo ,VESIFM75AL8,Vestido Eduarda Tule Siri - 8 anos - Amarelo Fluor,Siri,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,VEPSFM220RS10,Vestido Multi Laços Pituchinhus - 10 anos - Rosa fada,Pituchinhus,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,SAPSFM130PR10,Saia-short frufru de tule bordada Pituchinhus - 10 anos - Preto,Pituchinhus,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,MASIFM120RS8,Maiô Carol Girafa Siri - 8 anos - Estampado,Siri,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,CLPSFM125PR10,Colete Tricot Laços Cristal Pituchinhus - 10 anos - Preto,Pituchinhus,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,CJMOFM10X0OW8,Conjunto Blusa Sobreposição e Shorts Momi - 8 anos - Pérola,Momi,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,VEMOFM90VD8,Vestido Winter Collection Momi - 8 anos - Verde folha,Momi,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,VECHFM60-20,Vestido Piquet MC Charpey - 10 anos - Lilás,Charpey,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,VEMOFM100RS8,Vestido Passantes M e Coração Momi - 8 anos - Pink magenta,Momi,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,CJMOFM120AOW8,Conjunto Passantes M e Coração Momi - 8 anos - Pérola,Momi,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,SPFRFM110RS33,Flat Camélia Rouge Frô Petit - N. 33 - Rosa,Frô Petit,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,SPPCFM97CH-7,Sandália Ciranda Petit Cheval - N. 32 - Chumbo,Petit Cheval,849292666
+2024-05-23,3089.99,0,Cintia Figueiredo ,CHSIFM33ALUN,Viseira Proteção UV Alice Spirit Siri,Siri,849292666
+2024-05-23,236.42,0,Lorenna Ferreira Pina Pestana,TNGRMC85MR25,Tênis New Way - N. 25 - Marinho,Gracia,849307197
+2024-05-23,236.42,0,Lorenna Ferreira Pina Pestana,TNGRMC85MR26,Tênis New Way - N. 26 - Marinho,Gracia,849307197
+2024-05-23,1184.0,0,Ariane Maia,BEUMMC75OW2,Bermuda de linho com elastano cru,Um Mais Um,849312959
+2024-05-23,1184.0,0,Ariane Maia,BLDAMC176JS1,Blusa Jacq Bear Dame - 1 ano - Denim,Dame,849312959
+2024-05-23,1184.0,0,Ariane Maia,CADAMC134OW2,Camisa de linho frida Dame - 2 anos - Off white,Dame,849312959
+2024-05-23,1184.0,0,Ariane Maia,CUKGMC36XPR2,Cueca Boxer Super King & Joe Play - 2 anos - Preto,King & Joe Play,849312959
+2024-05-23,1184.0,0,Ariane Maia,CMKGMC39AL2,Camiseta Bike King & Joe Play - 2 anos - Amarelo escuro,King & Joe Play,849312959
+2024-05-23,1184.0,0,Ariane Maia,CMKGMC31VD2,Camiseta Skate Bike And Surf King & Joe Play - 2 anos - Verde militar,King & Joe Play,849312959
+2024-05-23,1184.0,0,Ariane Maia,SPTJMC127-15,Tênis Boat Tip Toey Joey - N. 21 - Marrom,Tip Toey Joey,849312959
+2024-05-23,956.98,0,Samara Carvalho,VEPCFM260XRS-2,Vestido Ballet Petit Cherie - 2 anos - Rosa,Petit Cherie,849339624
+2024-05-23,956.98,0,Samara Carvalho,VEANFM196PB1,Vestido Minnie Collab Disney & Animê - 1 ano - Poás de inverno,Animê,849339624
+2024-05-23,956.98,0,Samara Carvalho,,Laços e tiaras Gracia  - Laço M,,849339624
